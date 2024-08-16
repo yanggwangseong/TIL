@@ -4,6 +4,10 @@
 # 🔑 요약
 ## 2장 이상한 나라의 객체
 ![](./images/image02.png) 
+
+## 3장 타입과 추상화
+![](./images/image06.png)
+
 ## 5장 책임과 메세지
 ![](./images/image03.png)
 
@@ -20,6 +24,5 @@
 | ⭐⭐⭐⭐     | 6. 객체지도          | 6장      | [링크](https://github.com/yanggwangseong/TIL/blob/main/%EB%8F%84%EC%84%9C/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%EC%9D%98%20%EC%82%AC%EC%8B%A4%EA%B3%BC%20%EC%98%A4%ED%95%B4/Chapter/6.%20%EA%B0%9D%EC%B2%B4%EC%A7%80%EB%8F%84.md)                                                                      |
 | ⭐⭐⭐⭐     | 7. 함께 모으기        | 7장      | [링크](https://github.com/yanggwangseong/TIL/blob/main/%EB%8F%84%EC%84%9C/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%EC%9D%98%20%EC%82%AC%EC%8B%A4%EA%B3%BC%20%EC%98%A4%ED%95%B4/Chapter/7.%20%ED%95%A8%EA%BB%98%20%EB%AA%A8%EC%9C%BC%EA%B8%B0.md)                                                          |
 | ⭐⭐⭐      | 1. 협력하는 객체들의 공동체 | 1장      | [링크](https://github.com/yanggwangseong/TIL/blob/main/%EB%8F%84%EC%84%9C/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%EC%9D%98%20%EC%82%AC%EC%8B%A4%EA%B3%BC%20%EC%98%A4%ED%95%B4/Chapter/1.%20%ED%98%91%EB%A0%A5%ED%95%98%EB%8A%94%20%EA%B0%9D%EC%B2%B4%EB%93%A4%EC%9D%98%20%EA%B3%B5%EB%8F%99%EC%B2%B4.md) |
-|          |                  |         |                                                                                                                                                                                                                                                                                                     |
 
 # 📝 키워드
