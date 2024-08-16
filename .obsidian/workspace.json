@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "도서/오브젝트/Chapter/1. 객체, 설계.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "도서/오브젝트/Chapter/1. 객체, 설계.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "도서/오브젝트/Chapter/1. 객체, 설계.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "도서/오브젝트/Chapter/1. 객체, 설계.md"
+                "file": "README.md"
               }
             }
           }
@@ -183,11 +183,12 @@
   },
   "active": "d1f28bccb2c5530a",
   "lastOpenFiles": [
-    "도서/오브젝트/README.md",
-    "도서/객체지향의 사실과 오해/README.md",
-    "도서/오브젝트/images/image01.png",
-    "도서/오브젝트/images",
     "도서/오브젝트/Chapter/1. 객체, 설계.md",
+    "도서/오브젝트/README.md",
+    "도서/오브젝트/images/image01.png",
+    "README.md",
+    "도서/객체지향의 사실과 오해/README.md",
+    "도서/오브젝트/images",
     "도서/객체지향의 사실과 오해/Chapter/6. 객체지도.md",
     "도서/객체지향의 사실과 오해/images/image15.png",
     "도서/객체지향의 사실과 오해/images/image16.png",
@@ -206,7 +207,6 @@
     "도서/객체지향의 사실과 오해/Chapter/2. 이상한 나라의 객체.md",
     "도서/객체지향의 사실과 오해/Chapter/1. 협력하는 객체들의 공동체.md",
     "도서/객체지향의 사실과 오해/images",
-    "README.md",
     "도서",
     "Nest.js/TypeOrm/Find Options.md",
     "Nest.js/reflect-metadata/reflect-metadata.md",
