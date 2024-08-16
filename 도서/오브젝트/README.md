@@ -12,3 +12,4 @@
 | ⭐⭐⭐⭐⭐    | 1. 객체, 설계 | 1장      | [링크](https://github.com/yanggwangseong/TIL/blob/main/%EB%8F%84%EC%84%9C/%EC%98%A4%EB%B8%8C%EC%A0%9D%ED%8A%B8/Chapter/1.%20%EA%B0%9D%EC%B2%B4%2C%20%EC%84%A4%EA%B3%84.md)  |
 
 # 📝 키워드
+#객체지향/depencency , #객체지향/coupling , #객체지향/encapsulation , #객체지향/cohesion

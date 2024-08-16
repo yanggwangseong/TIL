@@ -4,28 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "b886c9bc308339fb",
+        "id": "f563547db210bd1a",
         "type": "tabs",
         "children": [
           {
-            "id": "d1f28bccb2c5530a",
+            "id": "b74573013589e76a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "도서/오브젝트/Chapter/1. 객체, 설계.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "cf011e5b5bb6f2a6",
+            "id": "9af1d8bd149ebbab",
             "type": "leaf",
             "state": {
               "type": "image",
               "state": {
-                "file": "도서/오브젝트/images/image01.png"
+                "file": "도서/객체지향의 사실과 오해/images/image18.png"
               }
             }
           }
@@ -58,7 +58,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"Pasted image 20240715031832.png\"",
+                "query": "tag:#객체지향/cohesion",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "도서/오브젝트/Chapter/1. 객체, 설계.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "도서/오브젝트/Chapter/1. 객체, 설계.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,12 +155,11 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "도서/오브젝트/Chapter/1. 객체, 설계.md"
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -181,31 +180,33 @@
       "file-cleaner-redux:Clean files": false
     }
   },
-  "active": "d1f28bccb2c5530a",
+  "active": "b74573013589e76a",
   "lastOpenFiles": [
-    "도서/오브젝트/Chapter/1. 객체, 설계.md",
     "도서/오브젝트/README.md",
-    "도서/오브젝트/images/image01.png",
-    "README.md",
     "도서/객체지향의 사실과 오해/README.md",
-    "도서/오브젝트/images",
+    "도서/객체지향의 사실과 오해/Chapter/7. 함께 모으기.md",
     "도서/객체지향의 사실과 오해/Chapter/6. 객체지도.md",
+    "도서/객체지향의 사실과 오해/Chapter/5. 책임과 메세지.md",
+    "도서/객체지향의 사실과 오해/Chapter/4. 역할, 책임, 협력.md",
+    "도서/객체지향의 사실과 오해/Chapter/3. 타입과 추상화.md",
+    "도서/객체지향의 사실과 오해/Chapter/1. 협력하는 객체들의 공동체.md",
+    "도서/객체지향의 사실과 오해/Chapter/2. 이상한 나라의 객체.md",
+    "도서/객체지향의 사실과 오해/images/image02.png",
+    "도서/객체지향의 사실과 오해/images/image18.png",
+    "도서/오브젝트/Chapter/1. 객체, 설계.md",
+    "도서/오브젝트/images/Image03.png",
+    "도서/오브젝트/images/image02.png",
+    "도서/오브젝트/images/image01.png",
+    "Excalidraw/5장책임과메세지.md",
+    "im",
+    "README.md",
+    "도서/오브젝트/images",
     "도서/객체지향의 사실과 오해/images/image15.png",
     "도서/객체지향의 사실과 오해/images/image16.png",
     "도서/객체지향의 사실과 오해/images/image17.png",
-    "도서/객체지향의 사실과 오해/Chapter/7. 함께 모으기.md",
     "도서/객체지향의 사실과 오해/images/image14.png",
     "도서/객체지향의 사실과 오해/images/image07.png",
-    "도서/객체지향의 사실과 오해/images/image08.png",
-    "도서/객체지향의 사실과 오해/images/image09.png",
-    "도서/객체지향의 사실과 오해/images/image10.png",
-    "도서/객체지향의 사실과 오해/images/image11.png",
-    "도서/객체지향의 사실과 오해/Chapter/5. 책임과 메세지.md",
     "Nest.js/class-transformer/Class-Transformer.md",
-    "도서/객체지향의 사실과 오해/Chapter/4. 역할, 책임, 협력.md",
-    "도서/객체지향의 사실과 오해/Chapter/3. 타입과 추상화.md",
-    "도서/객체지향의 사실과 오해/Chapter/2. 이상한 나라의 객체.md",
-    "도서/객체지향의 사실과 오해/Chapter/1. 협력하는 객체들의 공동체.md",
     "도서/객체지향의 사실과 오해/images",
     "도서",
     "Nest.js/TypeOrm/Find Options.md",
@@ -220,14 +221,12 @@
     "Nest.js/class-validator/ValidationArguments.md",
     "Nest.js/class-validator/Class-Validator.md",
     "Nest.js/class-validator/@ValidateNested.md",
-    "Nest.js/class-validator/@IsOptional decorator.md",
     "Nest.js/reflect-metadata",
     "Nest.js/middleware",
     "Nest.js/images",
     "Nest.js/class-validator",
     "Nest.js/class-transformer",
     "Nest.js/TypeOrm",
-    "Nest.js/SSE(ServerSentEvent)",
     "Excalidraw/무제 파일.canvas",
     "Quizly/Typescript/question05/무제 파일.canvas",
     "무제 파일.canvas",
