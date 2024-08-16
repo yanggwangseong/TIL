@@ -7,5 +7,6 @@
   "obsidian-tasks-plugin",
   "tag-wrangler",
   "background-image",
-  "file-cleaner-redux"
+  "file-cleaner-redux",
+  "obsidian-git"
 ]
