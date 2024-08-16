@@ -1,0 +1,224 @@
+{
+  "main": {
+    "id": "af97bb7b4a1fc05b",
+    "type": "split",
+    "children": [
+      {
+        "id": "a11a8d7e761047a1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f77ad0814ed0d27c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ad6dfb1fc41f5142",
+    "type": "split",
+    "children": [
+      {
+        "id": "776160e7e6565f0c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "742493942464278d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "aa9e223be86eaa2c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "Pasted image 20231006184203",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5d4b5c163ed5492f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "8972d6d1fd4021f0",
+            "type": "leaf",
+            "state": {
+              "type": "mk-file-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "dcdcf3f9949249e8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "옵시디언 플러그인/마크다운 문법.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 329
+  },
+  "right": {
+    "id": "4f48e1273ca3d00f",
+    "type": "split",
+    "children": [
+      {
+        "id": "de44516a9ba7574d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e05385af7eba005e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2f45bf86e26e834a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "study/Database/Database 이론.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "26ffbc9e9b728bfb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "study/Database/Database 이론.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "be4007a2313b9a08",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "study/Database/Database 이론.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "vscode-editor:Create Code File": false,
+      "publish:변경사항 출판": false,
+      "file-cleaner-redux:Clean files": false
+    }
+  },
+  "active": "742493942464278d",
+  "lastOpenFiles": [
+    "images/Pasted image 20231006184203.png",
+    "images/Pasted image 20240731040529.png",
+    "TODO/최종.md",
+    "study/Typescript/타입스크립트 커스텀 타입 가드.md",
+    "Quizly/Typescript/question02/answer02.md",
+    "study/Typescript/empty object.md",
+    "README.md",
+    "TODO/Todo.md",
+    "study/도서/객체지향의 사실과 오해/Chapter/1. 협력하는 객체들의 공동체.md",
+    "Quizly/운영체제/프로세스와 스레드 차이/question.md",
+    "Quizly/운영체제/프로세스와 스레드 차이/answer.md",
+    "Quizly/운영체제/멀티프로세스와 멀티스레드 차이/question.md",
+    "Quizly/운영체제/멀티프로세스와 멀티스레드 차이/answer.md",
+    "Quizly/객체지향/메세지란 무엇인가요?/question.md",
+    "Quizly/객체지향/메세지란 무엇인가요?/answer.md",
+    "Quizly/객체지향/객체지향에서 객체 메서지 메서드란/question.md",
+    "Quizly/객체지향/객체지향에서 객체 메서지 메서드란/answer.md",
+    "images/Pasted image 20240813043949.png",
+    "images/bublesortimg.gif",
+    "무제 파일.md",
+    "images",
+    "study/WebRTC/WebRTC.md",
+    "study/도서/오브젝트/Chapter/1. 객체, 설계.md",
+    "study/Database/Postgresql/컬럼 테트리스.md",
+    "study/Database/Postgresql/Vacuum(베큠).md",
+    "study/Database/Postgresql/TRIGGET(트리거).md",
+    "study/Database/Oracle/Hint.md",
+    "study/Database/Mysql/WITH(임시 테이블).md",
+    "study/Database/Mysql/파티션(Partition).md",
+    "study/Database/Mysql/옵티마이저(Optimizer).md",
+    "study/함수형프로그래밍(FP)/인프런/유인동함수형/함수형프로그래밍1편",
+    "study/함수형프로그래밍(FP)/인프런/유인동함수형",
+    "study/함수형프로그래밍(FP)/인프런",
+    "Quizly/운영체제/PCB(Process Control Block)란",
+    "Quizly/운영체제/Context Switching이란",
+    "images/Pasted image 20240813040532.png",
+    "study/도서/오브젝트/Chapter",
+    "study/도서/오브젝트",
+    "images/Pasted image 20240812045923.png",
+    "images/Pasted image 20240812045615.png",
+    "images/Pasted image 20240812045319.png",
+    "Fonts/bgbgspace.jpeg",
+    "images/Pasted image 20240809195053.png",
+    "images/Pasted image 20240806044150.png",
+    "Quizly/객체지향/메세지란 무엇인가요?",
+    "study/알고리즘/인프런",
+    "Excalidraw/무제 파일.canvas",
+    "Quizly/Typescript/question05/무제 파일.canvas",
+    "무제 파일.canvas",
+    "무제 파일 1.canvas",
+    "옵시디언 플러그인/무제 파일.canvas"
+  ]
+}

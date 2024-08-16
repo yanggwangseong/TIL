@@ -1,0 +1,20 @@
+{
+  "deletionDestination": "obsidian",
+  "excludeInclude": 0,
+  "excludedFolders": [
+    "study",
+    "Quizly"
+  ],
+  "attachmentsExcludeInclude": 1,
+  "attachmentExtensions": [
+    "jpg",
+    "png",
+    "gif",
+    "jpeg",
+    "heic"
+  ],
+  "deletionConfirmation": true,
+  "runOnStartup": false,
+  "removeFolders": false,
+  "ignoredFrontmatter": []
+}
