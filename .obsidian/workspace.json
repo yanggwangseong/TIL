@@ -13,9 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "도서/객체지향의 사실과 오해/README.md",
+                "file": "도서/오브젝트/Chapter/1. 객체, 설계.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "cf011e5b5bb6f2a6",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "도서/오브젝트/images/image01.png"
               }
             }
           }
@@ -116,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "도서/객체지향의 사실과 오해/README.md",
+                "file": "도서/오브젝트/Chapter/1. 객체, 설계.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "도서/객체지향의 사실과 오해/README.md",
+                "file": "도서/오브젝트/Chapter/1. 객체, 설계.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "도서/객체지향의 사실과 오해/README.md"
+                "file": "도서/오브젝트/Chapter/1. 객체, 설계.md"
               }
             }
           }
@@ -173,6 +183,11 @@
   },
   "active": "d1f28bccb2c5530a",
   "lastOpenFiles": [
+    "도서/오브젝트/README.md",
+    "도서/객체지향의 사실과 오해/README.md",
+    "도서/오브젝트/images/image01.png",
+    "도서/오브젝트/images",
+    "도서/오브젝트/Chapter/1. 객체, 설계.md",
     "도서/객체지향의 사실과 오해/Chapter/6. 객체지도.md",
     "도서/객체지향의 사실과 오해/images/image15.png",
     "도서/객체지향의 사실과 오해/images/image16.png",
@@ -184,9 +199,7 @@
     "도서/객체지향의 사실과 오해/images/image09.png",
     "도서/객체지향의 사실과 오해/images/image10.png",
     "도서/객체지향의 사실과 오해/images/image11.png",
-    "도서/객체지향의 사실과 오해/images/image12.png",
     "도서/객체지향의 사실과 오해/Chapter/5. 책임과 메세지.md",
-    "도서/객체지향의 사실과 오해/README.md",
     "Nest.js/class-transformer/Class-Transformer.md",
     "도서/객체지향의 사실과 오해/Chapter/4. 역할, 책임, 협력.md",
     "도서/객체지향의 사실과 오해/Chapter/3. 타입과 추상화.md",
@@ -208,8 +221,6 @@
     "Nest.js/class-validator/Class-Validator.md",
     "Nest.js/class-validator/@ValidateNested.md",
     "Nest.js/class-validator/@IsOptional decorator.md",
-    "Nest.js/class-validator/@IsIn decorator.md",
-    "Nest.js/class-transformer/ClassSerializerInterceptor.md",
     "Nest.js/reflect-metadata",
     "Nest.js/middleware",
     "Nest.js/images",
@@ -217,7 +228,6 @@
     "Nest.js/class-transformer",
     "Nest.js/TypeOrm",
     "Nest.js/SSE(ServerSentEvent)",
-    "Nest.js/Prisma",
     "Excalidraw/무제 파일.canvas",
     "Quizly/Typescript/question05/무제 파일.canvas",
     "무제 파일.canvas",
