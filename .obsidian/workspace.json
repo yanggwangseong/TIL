@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "a11a8d7e761047a1",
+        "id": "fb5ba2271a00130d",
         "type": "tabs",
         "children": [
           {
-            "id": "f77ad0814ed0d27c",
+            "id": "609296632fde9e56",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "study/Nest.js/Dependency Injection(DI) &  Inversion of Control(IoC).md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Pasted image 20231006184203",
+                "query": "일급객체",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -112,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "study/Database/Database 이론.md",
+                "file": "study/Nest.js/Dependency Injection(DI) &  Inversion of Control(IoC).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "study/Database/Database 이론.md",
+                "file": "study/Nest.js/Dependency Injection(DI) &  Inversion of Control(IoC).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "study/Database/Database 이론.md"
+                "file": "study/Nest.js/Dependency Injection(DI) &  Inversion of Control(IoC).md"
               }
             }
           }
@@ -167,38 +171,39 @@
       "file-cleaner-redux:Clean files": false
     }
   },
-  "active": "742493942464278d",
+  "active": "609296632fde9e56",
   "lastOpenFiles": [
+    "study/Nest.js/Clean Architecture.md",
+    "study/Nest.js/Repository.md",
+    "study/Nest.js/Nestjs 공부.md",
+    "study/Nest.js/Nest.js.md",
+    "study/Nest.js/TypeOrm/Find Options.md",
+    "study/Nest.js/SSE(ServerSentEvent)/SSE(ServerSentEvent).md",
+    "study/Nest.js/reflect-metadata/reflect-metadata.md",
+    "study/Nest.js/Prisma/Prisma.md",
+    "study/Nest.js/middleware/middleware.md",
+    "study/Nest.js/class-validator/ValidationPipe.md",
+    "study/Nest.js/class-validator/ValidationOptions의 message프로퍼티 일반화.md",
+    "study/Nest.js/class-validator/ValidationOptions.md",
+    "study/Nest.js/class-validator/ValidationArguments.md",
+    "study/Nest.js/class-validator/class-validator 에러 핸들링.md",
+    "study/Nest.js/class-validator/Class-Validator.md",
+    "study/Nest.js/class-validator/내장Validation decorators.md",
+    "study/Nest.js/class-validator/@ValidateNested.md",
+    "study/Nest.js/class-validator/@IsOptional decorator.md",
+    "study/Nest.js/class-validator/@IsIn decorator.md",
+    "study/Nest.js/class-transformer/ClassSerializerInterceptor.md",
+    "study/Nest.js/class-transformer/Class-Transformer.md",
+    "study/Nest.js/class-transformer/@Type.md",
+    "study/Nest.js/class-transformer/@Transform.md",
+    "study/Nest.js/class-transformer/@Expose.md",
+    "study/Nest.js/class-transformer/@Exclude.md",
+    "study/Database/TIL.md",
     "images/Pasted image 20231006184203.png",
     "images/Pasted image 20240731040529.png",
-    "TODO/최종.md",
-    "study/Typescript/타입스크립트 커스텀 타입 가드.md",
-    "Quizly/Typescript/question02/answer02.md",
-    "study/Typescript/empty object.md",
-    "README.md",
-    "TODO/Todo.md",
-    "study/도서/객체지향의 사실과 오해/Chapter/1. 협력하는 객체들의 공동체.md",
-    "Quizly/운영체제/프로세스와 스레드 차이/question.md",
-    "Quizly/운영체제/프로세스와 스레드 차이/answer.md",
-    "Quizly/운영체제/멀티프로세스와 멀티스레드 차이/question.md",
-    "Quizly/운영체제/멀티프로세스와 멀티스레드 차이/answer.md",
-    "Quizly/객체지향/메세지란 무엇인가요?/question.md",
-    "Quizly/객체지향/메세지란 무엇인가요?/answer.md",
-    "Quizly/객체지향/객체지향에서 객체 메서지 메서드란/question.md",
-    "Quizly/객체지향/객체지향에서 객체 메서지 메서드란/answer.md",
     "images/Pasted image 20240813043949.png",
     "images/bublesortimg.gif",
-    "무제 파일.md",
     "images",
-    "study/WebRTC/WebRTC.md",
-    "study/도서/오브젝트/Chapter/1. 객체, 설계.md",
-    "study/Database/Postgresql/컬럼 테트리스.md",
-    "study/Database/Postgresql/Vacuum(베큠).md",
-    "study/Database/Postgresql/TRIGGET(트리거).md",
-    "study/Database/Oracle/Hint.md",
-    "study/Database/Mysql/WITH(임시 테이블).md",
-    "study/Database/Mysql/파티션(Partition).md",
-    "study/Database/Mysql/옵티마이저(Optimizer).md",
     "study/함수형프로그래밍(FP)/인프런/유인동함수형/함수형프로그래밍1편",
     "study/함수형프로그래밍(FP)/인프런/유인동함수형",
     "study/함수형프로그래밍(FP)/인프런",
@@ -212,7 +217,6 @@
     "images/Pasted image 20240812045319.png",
     "Fonts/bgbgspace.jpeg",
     "images/Pasted image 20240809195053.png",
-    "images/Pasted image 20240806044150.png",
     "Quizly/객체지향/메세지란 무엇인가요?",
     "study/알고리즘/인프런",
     "Excalidraw/무제 파일.canvas",
