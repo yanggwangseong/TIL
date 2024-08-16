@@ -1,7 +1,7 @@
 > request 및 response 개체를 액세스 할 수 있으며, Express 미들웨어와 동일하다.
 > next 메소드 호출하여 다음 미들웨어 기능으로 제어를 전달
 
-![[Pasted image 20240310214930.png]]
+![](images/nestjs-middleware.png)
 
 - middleware 클래스 작성
 
@@ -213,6 +213,4 @@ next();
 
 }
 ```
-
-
 

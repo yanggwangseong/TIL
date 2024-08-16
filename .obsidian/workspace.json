@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "fb5ba2271a00130d",
+        "id": "5c8d419993e78a92",
         "type": "tabs",
         "children": [
           {
-            "id": "609296632fde9e56",
+            "id": "e33a14ad5eabdeb0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "study/Nest.js/Dependency Injection(DI) &  Inversion of Control(IoC).md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "일급객체",
+                "query": "\"Pasted image 20240310214930.png\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "study/Nest.js/Dependency Injection(DI) &  Inversion of Control(IoC).md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "study/Nest.js/Dependency Injection(DI) &  Inversion of Control(IoC).md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "study/Nest.js/Dependency Injection(DI) &  Inversion of Control(IoC).md"
+                "file": "README.md"
               }
             }
           }
@@ -171,54 +171,54 @@
       "file-cleaner-redux:Clean files": false
     }
   },
-  "active": "609296632fde9e56",
+  "active": "742493942464278d",
   "lastOpenFiles": [
-    "study/Nest.js/Clean Architecture.md",
-    "study/Nest.js/Repository.md",
-    "study/Nest.js/Nestjs 공부.md",
-    "study/Nest.js/Nest.js.md",
-    "study/Nest.js/TypeOrm/Find Options.md",
-    "study/Nest.js/SSE(ServerSentEvent)/SSE(ServerSentEvent).md",
-    "study/Nest.js/reflect-metadata/reflect-metadata.md",
-    "study/Nest.js/Prisma/Prisma.md",
-    "study/Nest.js/middleware/middleware.md",
-    "study/Nest.js/class-validator/ValidationPipe.md",
-    "study/Nest.js/class-validator/ValidationOptions의 message프로퍼티 일반화.md",
-    "study/Nest.js/class-validator/ValidationOptions.md",
-    "study/Nest.js/class-validator/ValidationArguments.md",
-    "study/Nest.js/class-validator/class-validator 에러 핸들링.md",
-    "study/Nest.js/class-validator/Class-Validator.md",
-    "study/Nest.js/class-validator/내장Validation decorators.md",
-    "study/Nest.js/class-validator/@ValidateNested.md",
-    "study/Nest.js/class-validator/@IsOptional decorator.md",
-    "study/Nest.js/class-validator/@IsIn decorator.md",
-    "study/Nest.js/class-transformer/ClassSerializerInterceptor.md",
-    "study/Nest.js/class-transformer/Class-Transformer.md",
-    "study/Nest.js/class-transformer/@Type.md",
-    "study/Nest.js/class-transformer/@Transform.md",
-    "study/Nest.js/class-transformer/@Expose.md",
-    "study/Nest.js/class-transformer/@Exclude.md",
-    "study/Database/TIL.md",
+    "도서/객체지향의 사실과 오해/README.md",
+    "README.md",
+    "도서",
+    "Nest.js/TypeOrm/Find Options.md",
+    "Nest.js/reflect-metadata/reflect-metadata.md",
+    "Nest.js/Prisma/Prisma.md",
+    "Nest.js/middleware/middleware.md",
+    "Nest.js/images/nestjs-middleware.png",
+    "Nest.js/class-validator/내장Validation decorators.md",
+    "Nest.js/class-validator/ValidationPipe.md",
+    "Nest.js/class-validator/class-validator 에러 핸들링.md",
+    "Nest.js/class-validator/ValidationOptions의 message프로퍼티 일반화.md",
+    "Nest.js/class-validator/ValidationOptions.md",
+    "Nest.js/class-validator/ValidationArguments.md",
+    "Nest.js/class-validator/Class-Validator.md",
+    "Nest.js/class-validator/@ValidateNested.md",
+    "Nest.js/class-validator/@IsOptional decorator.md",
+    "Nest.js/class-validator/@IsIn decorator.md",
+    "Nest.js/class-transformer/ClassSerializerInterceptor.md",
+    "Nest.js/class-transformer/Class-Transformer.md",
+    "Nest.js/class-transformer/@Type.md",
+    "Nest.js/class-transformer/@Transform.md",
+    "Nest.js/class-transformer/@Expose.md",
+    "Nest.js/class-transformer/@Exclude.md",
+    "Nest.js/SSE(ServerSentEvent)/SSE(ServerSentEvent).md",
+    "Nest.js/헥사고날아키텍처.md",
+    "Nest.js/reflect-metadata",
+    "Nest.js/middleware",
+    "Nest.js/images",
+    "Nest.js/class-validator",
+    "Nest.js/class-transformer",
+    "Nest.js/TypeOrm",
+    "Nest.js/SSE(ServerSentEvent)",
+    "Nest.js/Repository.md",
+    "Nest.js/Prisma",
+    "Nest.js/Nestjs 공부.md",
+    "Nest.js",
+    "study/Nest.js/images/nestjs-middleware.png",
+    "images/Pasted image 20240310214930.png",
     "images/Pasted image 20231006184203.png",
     "images/Pasted image 20240731040529.png",
     "images/Pasted image 20240813043949.png",
     "images/bublesortimg.gif",
-    "images",
-    "study/함수형프로그래밍(FP)/인프런/유인동함수형/함수형프로그래밍1편",
-    "study/함수형프로그래밍(FP)/인프런/유인동함수형",
-    "study/함수형프로그래밍(FP)/인프런",
-    "Quizly/운영체제/PCB(Process Control Block)란",
-    "Quizly/운영체제/Context Switching이란",
     "images/Pasted image 20240813040532.png",
-    "study/도서/오브젝트/Chapter",
-    "study/도서/오브젝트",
     "images/Pasted image 20240812045923.png",
     "images/Pasted image 20240812045615.png",
-    "images/Pasted image 20240812045319.png",
-    "Fonts/bgbgspace.jpeg",
-    "images/Pasted image 20240809195053.png",
-    "Quizly/객체지향/메세지란 무엇인가요?",
-    "study/알고리즘/인프런",
     "Excalidraw/무제 파일.canvas",
     "Quizly/Typescript/question05/무제 파일.canvas",
     "무제 파일.canvas",

@@ -3,44 +3,45 @@ TODO
 .DS_Store
 .trash
 
-study/객체지향프로그래밍(OOP)
-study/네트워크
-study/도서
-study/알고리즘
-study/오픈소스
-study/왜배워야하는가
-study/운영체제
-study/함수형프로그래밍(FP)
-study/협업
-study/AWS
-study/css
-study/Database
-study/DDD
-study/Event-Driven-Architecture
-study/GOCD
-study/Gulp
-study/Javascript
-study/Node.js
+study/*
+# study/객체지향프로그래밍(OOP)
+# study/네트워크
+# study/도서
+# study/알고리즘
+# study/오픈소스
+# study/왜배워야하는가
+# study/운영체제
+# study/함수형프로그래밍(FP)
+# study/협업
+# study/AWS
+# study/css
+# study/Database
+# study/DDD
+# study/Event-Driven-Architecture
+# study/GOCD
+# study/Gulp
+# study/Javascript
+# study/Node.js
 # NestJS
-study/Nest.js/Prisma
-study/Nest.js/reflect-metadata
-study/Nest.js/TypeOrm
-study/Nest.js/헥사고날아키텍처.md
-study/Nest.js/Clean Architecture.md
-study/Nest.js/Cursor-based pagination.md
-study/Nest.js/CustomProvider.md
-study/Nest.js/DDD.md
-study/Nest.js/Dependency Injection(DI) &  Inversion of Control(IoC).md
-study/Nest.js/Health checks.md
-study/Nest.js/Nest.js.md
-study/Nest.js/Nestjs 공부.md
-study/Nest.js/Repository.md
+Nest.js/Prisma
+Nest.js/reflect-metadata
+Nest.js/TypeOrm
+Nest.js/헥사고날아키텍처.md
+Nest.js/Clean Architecture.md
+Nest.js/Cursor-based pagination.md
+Nest.js/CustomProvider.md
+Nest.js/DDD.md
+Nest.js/Dependency Injection(DI) &  Inversion of Control(IoC).md
+Nest.js/Health checks.md
+Nest.js/Nest.js.md
+Nest.js/Nestjs 공부.md
+Nest.js/Repository.md
 
-study/React
-study/serverless
-study/Spring
-study/TDD
-study/Typescript
-study/WebRTC
-study/공부.md
-study/일급객체.md
+# study/React
+# study/serverless
+# study/Spring
+# study/TDD
+# study/Typescript
+# study/WebRTC
+# study/공부.md
+# study/일급객체.md
