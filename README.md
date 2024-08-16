@@ -1,5 +1,5 @@
 # 도서
-- [객체지향의 사실과 오해]()
+- [객체지향의 사실과 오해](https://github.com/yanggwangseong/TIL/tree/main/%EB%8F%84%EC%84%9C/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%EC%9D%98%20%EC%82%AC%EC%8B%A4%EA%B3%BC%20%EC%98%A4%ED%95%B4) 
 
 # Article
 - 20240509 - react에서 string text에 html 태그를 넣는 방법
@@ -45,9 +45,6 @@
 - 20240812 - [production환경에서 Seed와 Migration 사용하기](https://threeyears.tistory.com/580) 
 - 20240813 - [Log와 모니터링](https://threeyears.tistory.com/581) 
 - 20240814 - [NestJS 꼭 알아야 되는 Exception filter 주의점](https://threeyears.tistory.com/582) 
-
-
-
 
 
 

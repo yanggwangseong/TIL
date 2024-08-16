@@ -13,9 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "도서/객체지향의 사실과 오해/Chapter/1. 협력하는 객체들의 공동체.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "8f373fdd892ad406",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "도서/객체지향의 사실과 오해/images/image05.png"
               }
             }
           }
@@ -48,7 +58,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"Pasted image 20240310214930.png\"",
+                "query": "\"Pasted image 20240715031832.png\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -116,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "도서/객체지향의 사실과 오해/Chapter/1. 협력하는 객체들의 공동체.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "도서/객체지향의 사실과 오해/Chapter/1. 협력하는 객체들의 공동체.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "도서/객체지향의 사실과 오해/Chapter/1. 협력하는 객체들의 공동체.md"
               }
             }
           }
@@ -171,9 +181,21 @@
       "file-cleaner-redux:Clean files": false
     }
   },
-  "active": "742493942464278d",
+  "active": "e33a14ad5eabdeb0",
   "lastOpenFiles": [
+    "Nest.js/class-transformer/Class-Transformer.md",
+    "도서/객체지향의 사실과 오해/Chapter/2. 이상한 나라의 객체.md",
+    "도서/객체지향의 사실과 오해/Chapter/1. 협력하는 객체들의 공동체.md",
+    "도서/객체지향의 사실과 오해/images/image05.png",
+    "도서/객체지향의 사실과 오해/images/image04.png",
+    "도서/객체지향의 사실과 오해/Chapter/7. 함께 모으기.md",
+    "도서/객체지향의 사실과 오해/images/image02.png",
+    "도서/객체지향의 사실과 오해/images/image03.png",
+    "도서/객체지향의 사실과 오해/images/readme-image1.png",
     "도서/객체지향의 사실과 오해/README.md",
+    "images/Pasted image 20240717235325.png",
+    "images/Pasted image 20240416040500.png",
+    "도서/객체지향의 사실과 오해/images",
     "README.md",
     "도서",
     "Nest.js/TypeOrm/Find Options.md",
@@ -192,13 +214,10 @@
     "Nest.js/class-validator/@IsOptional decorator.md",
     "Nest.js/class-validator/@IsIn decorator.md",
     "Nest.js/class-transformer/ClassSerializerInterceptor.md",
-    "Nest.js/class-transformer/Class-Transformer.md",
     "Nest.js/class-transformer/@Type.md",
     "Nest.js/class-transformer/@Transform.md",
     "Nest.js/class-transformer/@Expose.md",
     "Nest.js/class-transformer/@Exclude.md",
-    "Nest.js/SSE(ServerSentEvent)/SSE(ServerSentEvent).md",
-    "Nest.js/헥사고날아키텍처.md",
     "Nest.js/reflect-metadata",
     "Nest.js/middleware",
     "Nest.js/images",
@@ -206,19 +225,9 @@
     "Nest.js/class-transformer",
     "Nest.js/TypeOrm",
     "Nest.js/SSE(ServerSentEvent)",
-    "Nest.js/Repository.md",
     "Nest.js/Prisma",
-    "Nest.js/Nestjs 공부.md",
-    "Nest.js",
     "study/Nest.js/images/nestjs-middleware.png",
     "images/Pasted image 20240310214930.png",
-    "images/Pasted image 20231006184203.png",
-    "images/Pasted image 20240731040529.png",
-    "images/Pasted image 20240813043949.png",
-    "images/bublesortimg.gif",
-    "images/Pasted image 20240813040532.png",
-    "images/Pasted image 20240812045923.png",
-    "images/Pasted image 20240812045615.png",
     "Excalidraw/무제 파일.canvas",
     "Quizly/Typescript/question05/무제 파일.canvas",
     "무제 파일.canvas",
