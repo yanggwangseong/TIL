@@ -4,28 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "f563547db210bd1a",
+        "id": "a769b7f1289ac764",
         "type": "tabs",
         "children": [
           {
-            "id": "b74573013589e76a",
+            "id": "47101e21e3ec331b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "도서/오브젝트/Chapter/1. 객체, 설계.md",
+                "file": "함수형프로그래밍(FP)/인프런/유인동함수형/함수형프로그래밍1편/함수형 프로그래밍 정의, 순수함수.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "9af1d8bd149ebbab",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "도서/객체지향의 사실과 오해/images/image18.png"
               }
             }
           }
@@ -126,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "도서/오브젝트/Chapter/1. 객체, 설계.md",
+                "file": "함수형프로그래밍(FP)/인프런/유인동함수형/함수형프로그래밍1편/함수형 프로그래밍 정의, 순수함수.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "도서/오브젝트/Chapter/1. 객체, 설계.md",
+                "file": "함수형프로그래밍(FP)/인프런/유인동함수형/함수형프로그래밍1편/함수형 프로그래밍 정의, 순수함수.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "도서/오브젝트/Chapter/1. 객체, 설계.md"
+                "file": "함수형프로그래밍(FP)/인프런/유인동함수형/함수형프로그래밍1편/함수형 프로그래밍 정의, 순수함수.md"
               }
             }
           }
@@ -180,47 +170,48 @@
       "file-cleaner-redux:Clean files": false
     }
   },
-  "active": "b74573013589e76a",
+  "active": "47101e21e3ec331b",
   "lastOpenFiles": [
-    "도서/오브젝트/README.md",
-    "도서/객체지향의 사실과 오해/README.md",
-    "도서/객체지향의 사실과 오해/Chapter/7. 함께 모으기.md",
-    "도서/객체지향의 사실과 오해/Chapter/6. 객체지도.md",
-    "도서/객체지향의 사실과 오해/Chapter/5. 책임과 메세지.md",
-    "도서/객체지향의 사실과 오해/Chapter/4. 역할, 책임, 협력.md",
-    "도서/객체지향의 사실과 오해/Chapter/3. 타입과 추상화.md",
-    "도서/객체지향의 사실과 오해/Chapter/1. 협력하는 객체들의 공동체.md",
-    "도서/객체지향의 사실과 오해/Chapter/2. 이상한 나라의 객체.md",
-    "도서/객체지향의 사실과 오해/images/image02.png",
+    "함수형프로그래밍(FP)/인프런/유인동함수형/함수형프로그래밍1편/일급함수, add_maker, 함수로 함수 실행하기.md",
+    "함수형프로그래밍(FP)/인프런/유인동함수형/함수형프로그래밍1편/함수형 프로그래밍 정의, 순수함수.md",
+    "함수형프로그래밍(FP)/함수형 프로그래밍(Functional Programming).md",
+    "study/알고리즘/시물레이션(Simulation).md",
     "도서/객체지향의 사실과 오해/images/image18.png",
-    "도서/오브젝트/Chapter/1. 객체, 설계.md",
+    "study/Javascript/String 내장함수.md",
+    "study/Javascript/일급 객체(First-class-object) 란?.md",
+    "study/Javascript/깊은복사(Deep Copy)와 얕은 복사(Shallow Copy).md",
+    "study/Javascript/⭐클로저(Closure).md",
+    "study/Javascript/⭐이벤트 루프(Event loop).md",
+    "study/Javascript/⭐실행 컨텍스트(Execution Context).md",
+    "study/Javascript/Reactive-Programming/RxJS.md",
+    "study/Javascript/Javascript 개발자라면 알아야 할 33가지 개념/Javascript 개발자라면 알아야 할 33가지 개념.md",
+    "study/알고리즘/인프런/조합과순열.md",
+    "study/알고리즘/인프런/브루트 포스.md",
+    "study/알고리즘/인프런/그리디 알고리즘.md",
+    "study/알고리즘/자료구조/그래프(Graph).md",
+    "study/알고리즘/자료구조/덱(Deque).md",
+    "study/알고리즘/자료구조/스택(Stack) & 큐(Que).md",
+    "study/알고리즘/자료구조/시간 복잡도.md",
+    "study/알고리즘/자료구조/연결 리스트(Linked list).md",
+    "study/알고리즘/자료구조/우선순위 큐(Priority Queue).md",
+    "study/알고리즘/자료구조/자료구조.md",
+    "study/알고리즘/자료구조/트리(Tree).md",
+    "study/알고리즘/자료구조/해시 테이블(hash table).md",
+    "study/알고리즘/자료구조/힙(Heap).md",
+    "study/Javascript/모던 자바스크립트 딥다이브(Javascript DeepDive)/Chapter/6. 데이터 타입.md",
+    "도서/객체지향의 사실과 오해/images/image02.png",
     "도서/오브젝트/images/Image03.png",
     "도서/오브젝트/images/image02.png",
     "도서/오브젝트/images/image01.png",
-    "Excalidraw/5장책임과메세지.md",
     "im",
-    "README.md",
     "도서/오브젝트/images",
     "도서/객체지향의 사실과 오해/images/image15.png",
     "도서/객체지향의 사실과 오해/images/image16.png",
     "도서/객체지향의 사실과 오해/images/image17.png",
     "도서/객체지향의 사실과 오해/images/image14.png",
     "도서/객체지향의 사실과 오해/images/image07.png",
-    "Nest.js/class-transformer/Class-Transformer.md",
     "도서/객체지향의 사실과 오해/images",
     "도서",
-    "Nest.js/TypeOrm/Find Options.md",
-    "Nest.js/reflect-metadata/reflect-metadata.md",
-    "Nest.js/Prisma/Prisma.md",
-    "Nest.js/middleware/middleware.md",
-    "Nest.js/class-validator/내장Validation decorators.md",
-    "Nest.js/class-validator/ValidationPipe.md",
-    "Nest.js/class-validator/class-validator 에러 핸들링.md",
-    "Nest.js/class-validator/ValidationOptions의 message프로퍼티 일반화.md",
-    "Nest.js/class-validator/ValidationOptions.md",
-    "Nest.js/class-validator/ValidationArguments.md",
-    "Nest.js/class-validator/Class-Validator.md",
-    "Nest.js/class-validator/@ValidateNested.md",
     "Nest.js/reflect-metadata",
     "Nest.js/middleware",
     "Nest.js/images",
