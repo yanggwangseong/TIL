@@ -43,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -113,8 +114,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329,
-    "collapsed": true
+    "width": 329
   },
   "right": {
     "id": "4f48e1273ca3d00f",
@@ -141,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "도서/오브젝트/Chapter/1. 객체, 설계.md",
+                "file": "도서/오브젝트/Chapter/2. 객체지향 프로그래밍.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "도서/오브젝트/Chapter/1. 객체, 설계.md",
+                "file": "도서/오브젝트/Chapter/2. 객체지향 프로그래밍.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "도서/오브젝트/Chapter/1. 객체, 설계.md"
+                "file": "도서/오브젝트/Chapter/2. 객체지향 프로그래밍.md"
               }
             }
           }
@@ -195,10 +195,12 @@
       "file-cleaner-redux:Clean files": false
     }
   },
-  "active": "9a58c6683dc0af98",
+  "active": "83dd63d9f8bfa469",
   "lastOpenFiles": [
-    "도서/오브젝트/Chapter/2. 객체지향 프로그래밍.md",
     "도서/오브젝트/Chapter/1. 객체, 설계.md",
+    "도서/오브젝트/Chapter/2. 객체지향 프로그래밍.md",
+    "도서/오브젝트/images/image05.png",
+    "도서/오브젝트/images/image04.png",
     "도서/오브젝트/README.md",
     "옵시디언 플러그인/옵시디언 플러그인.md",
     "study/알고리즘/인프런/정렬 알고리즘.md",
@@ -223,7 +225,6 @@
     "study/알고리즘/인프런/조합과순열.md",
     "study/알고리즘/인프런/브루트 포스.md",
     "study/알고리즘/자료구조/그래프(Graph).md",
-    "study/알고리즘/자료구조/덱(Deque).md",
     "도서/객체지향의 사실과 오해/images/image02.png",
     "도서/오브젝트/images/Image03.png",
     "도서/오브젝트/images/image02.png",
@@ -233,8 +234,6 @@
     "도서/객체지향의 사실과 오해/images/image15.png",
     "도서/객체지향의 사실과 오해/images/image16.png",
     "도서/객체지향의 사실과 오해/images/image17.png",
-    "도서/객체지향의 사실과 오해/images/image14.png",
-    "도서/객체지향의 사실과 오해/images/image07.png",
     "도서/객체지향의 사실과 오해/images",
     "도서",
     "Nest.js/reflect-metadata",
