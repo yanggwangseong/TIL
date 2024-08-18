@@ -49,8 +49,7 @@
 - 20240813 - [Log와 모니터링](https://threeyears.tistory.com/581) 
 - 20240814 - [NestJS 꼭 알아야 되는 Exception filter 주의점](https://threeyears.tistory.com/582) 
 - 20240816 - [catch 할 수 없는 에러들을 slack 웹훅을 통해 slack 실시간 알림 보내기](https://threeyears.tistory.com/587) 
-
-
+- 20240818 - [Elastic Beanstalk에 도메인 연동과 SSL](https://threeyears.tistory.com/590) 
 
 
 

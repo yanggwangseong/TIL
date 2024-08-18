@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "88e2be89a3d2957b",
+        "id": "64b6334e92090ff4",
         "type": "tabs",
         "children": [
           {
-            "id": "475ea186d76f357e",
+            "id": "c3f6d16bcccafbc2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "도서/오브젝트/Chapter/3. 역할, 책임, 협력.md",
+                "file": "study/알고리즘/Javascript 알고리즘 필수 기술.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "95a1865228107d41",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -116,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "도서/오브젝트/Chapter/3. 역할, 책임, 협력.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "도서/오브젝트/Chapter/3. 역할, 책임, 협력.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "도서/오브젝트/Chapter/3. 역할, 책임, 협력.md"
+                "file": "README.md"
               }
             }
           },
@@ -157,8 +170,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -178,8 +190,25 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "475ea186d76f357e",
+  "active": "95a1865228107d41",
   "lastOpenFiles": [
+    "study/알고리즘/Javascript 알고리즘 필수 기술.md",
+    "study/알고리즘/Two Pointers(투포인터).md",
+    "study/알고리즘/자료구조/트리(Tree).md",
+    "study/알고리즘/자료구조/자료구조.md",
+    "study/알고리즘/자료구조/우선순위 큐(Priority Queue).md",
+    "study/알고리즘/자료구조/연결 리스트(Linked list).md",
+    "study/알고리즘/자료구조/시간 복잡도.md",
+    "study/알고리즘/자료구조/스택(Stack) & 큐(Que).md",
+    "study/알고리즘/자료구조/덱(Deque).md",
+    "study/알고리즘/자료구조/그래프(Graph).md",
+    "study/알고리즘/인프런/다이나믹 프로그래밍(DP).md",
+    "study/알고리즘/인프런/그리디 알고리즘.md",
+    "study/도서/(&)CleanCode(클린코드).md",
+    "study/도서/(&)리팩터링2판.md",
+    "study/도서/(&)개발자가 반드시 정복해야 할 객체지향과 디자인 패턴.md",
+    "study/네트워크/(!)네트워크.md",
+    "study/객체지향프로그래밍(OOP)/객체지향프로그래밍(OOP).md",
     "도서/오브젝트/Chapter/3. 역할, 책임, 협력.md",
     "도서/오브젝트/README.md",
     "도서/오브젝트/Chapter/2. 객체지향 프로그래밍.md",
@@ -189,23 +218,6 @@
     "Excalidraw/이진트리DFS부분집합구하기.md",
     "Excalidraw/스레드와프로세스.md",
     "Excalidraw/블로그아이디어.md",
-    "Excalidraw/realmysql4장아키텍처.md",
-    "Excalidraw/Drawing 2024-07-19 20.59.52.excalidraw.md",
-    "Excalidraw/객체지향과함수형으로멀티프로그래밍패러다임.md",
-    "Excalidraw/Exception-filter.md",
-    "Excalidraw/Drawing 2024-08-17 22.44.48.excalidraw.md",
-    "Excalidraw/Drawing 2024-07-22 00.09.50.excalidraw.md",
-    "Excalidraw/Drawing 2024-07-22 19.30.07.excalidraw.md",
-    "Excalidraw/Drawing 2024-07-19 17.01.55.excalidraw.md",
-    "Excalidraw/Drawing 2024-07-18 02.44.31.excalidraw.md",
-    "Excalidraw/Drawing 2024-07-18 01.38.50.excalidraw.md",
-    "Excalidraw/Drawing 2024-07-13 18.12.20.excalidraw.md",
-    "Excalidraw/Drawing 2024-06-24 19.33.28.excalidraw.md",
-    "Excalidraw/6장객체지도.md",
-    "Excalidraw/Drawing 2024-04-26 05.49.57.excalidraw.md",
-    "Excalidraw/5장책임과메세지.md",
-    "Excalidraw/Drawing 2024-04-25 23.56.33.excalidraw.md",
-    "Excalidraw/Drawing 2024-04-08 03.09.12.excalidraw.md",
     "Excalidraw",
     "운영체제",
     "Quizly/운영체제/커널모드와사용자모드",
