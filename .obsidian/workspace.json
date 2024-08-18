@@ -4,31 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "da8030f9d169906b",
+        "id": "9c73d5d0cedec702",
         "type": "tabs",
         "children": [
           {
-            "id": "a688f15c0b3f4056",
+            "id": "3eb96ce30b9bb92b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "함수형프로그래밍(FP)/인프런/유인동함수형/함수형프로그래밍1편/일급함수, add_maker, 함수로 함수 실행하기.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c465b974df74b063",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "함수형프로그래밍(FP)/인프런/유인동함수형/함수형프로그래밍1편/함수형 프로그래밍 정의, 순수함수.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -128,7 +112,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "함수형프로그래밍(FP)/인프런/유인동함수형/함수형프로그래밍1편/일급함수, add_maker, 함수로 함수 실행하기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +128,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "함수형프로그래밍(FP)/인프런/유인동함수형/함수형프로그래밍1편/일급함수, add_maker, 함수로 함수 실행하기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,9 +138,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "함수형프로그래밍(FP)/인프런/유인동함수형/함수형프로그래밍1편/일급함수, add_maker, 함수로 함수 실행하기.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -182,10 +162,10 @@
       "file-cleaner-redux:Clean files": false
     }
   },
-  "active": "a688f15c0b3f4056",
+  "active": "3eb96ce30b9bb92b",
   "lastOpenFiles": [
-    "함수형프로그래밍(FP)/인프런/유인동함수형/함수형프로그래밍1편/함수형 프로그래밍 정의, 순수함수.md",
     "함수형프로그래밍(FP)/인프런/유인동함수형/함수형프로그래밍1편/일급함수, add_maker, 함수로 함수 실행하기.md",
+    "함수형프로그래밍(FP)/인프런/유인동함수형/함수형프로그래밍1편/함수형 프로그래밍 정의, 순수함수.md",
     "운영체제/PCB(Process Control Block)란.md",
     "옵시디언 플러그인/마크다운 문법.md",
     "운영체제",
