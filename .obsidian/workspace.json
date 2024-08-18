@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "운영체제/PCB(Process Control Block)란.md",
+                "file": "함수형프로그래밍(FP)/인프런/유인동함수형/함수형프로그래밍1편/일급함수, add_maker, 함수로 함수 실행하기.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c465b974df74b063",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "함수형프로그래밍(FP)/인프런/유인동함수형/함수형프로그래밍1편/함수형 프로그래밍 정의, 순수함수.md",
                 "mode": "source",
                 "source": false
               }
@@ -116,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "운영체제/PCB(Process Control Block)란.md",
+                "file": "함수형프로그래밍(FP)/인프런/유인동함수형/함수형프로그래밍1편/일급함수, add_maker, 함수로 함수 실행하기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "운영체제/PCB(Process Control Block)란.md",
+                "file": "함수형프로그래밍(FP)/인프런/유인동함수형/함수형프로그래밍1편/일급함수, add_maker, 함수로 함수 실행하기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "운영체제/PCB(Process Control Block)란.md"
+                "file": "함수형프로그래밍(FP)/인프런/유인동함수형/함수형프로그래밍1편/일급함수, add_maker, 함수로 함수 실행하기.md"
               }
             }
           }
@@ -172,8 +184,10 @@
   },
   "active": "a688f15c0b3f4056",
   "lastOpenFiles": [
-    "옵시디언 플러그인/마크다운 문법.md",
+    "함수형프로그래밍(FP)/인프런/유인동함수형/함수형프로그래밍1편/함수형 프로그래밍 정의, 순수함수.md",
+    "함수형프로그래밍(FP)/인프런/유인동함수형/함수형프로그래밍1편/일급함수, add_maker, 함수로 함수 실행하기.md",
     "운영체제/PCB(Process Control Block)란.md",
+    "옵시디언 플러그인/마크다운 문법.md",
     "운영체제",
     "study/운영체제/커널모드와 사용자모드.md",
     "Quizly/운영체제/PCB(Process Control Block)란/answer.md",
@@ -199,8 +213,6 @@
     "study/알고리즘/브루트 포스(Brute Force).md",
     "study/알고리즘/다이나믹 프로그래밍(DP).md",
     "study/알고리즘/정렬(sort).md",
-    "함수형프로그래밍(FP)/인프런/유인동함수형/함수형프로그래밍1편/함수형 프로그래밍 정의, 순수함수.md",
-    "함수형프로그래밍(FP)/인프런/유인동함수형/함수형프로그래밍1편/일급함수, add_maker, 함수로 함수 실행하기.md",
     "함수형프로그래밍(FP)/함수형 프로그래밍(Functional Programming).md",
     "도서/객체지향의 사실과 오해/images/image18.png",
     "도서/객체지향의 사실과 오해/images/image02.png",
