@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "371ee5559a27ae6a",
+        "id": "35411c0381d7b281",
         "type": "tabs",
         "children": [
           {
-            "id": "80ade79f8ea4ad52",
+            "id": "4f6fb6c67f67cd7f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "함수형프로그래밍(FP)/인프런/유인동함수형/함수형프로그래밍1편/함수형 프로그래밍 정의, 순수함수.md",
+                "file": "도서/모던 자바스크립트 딥다이브(Javascript DeepDive)/README.md",
                 "mode": "source",
                 "source": false
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "함수형프로그래밍(FP)/인프런/유인동함수형/함수형프로그래밍1편/함수형 프로그래밍 정의, 순수함수.md",
+                "file": "도서/모던 자바스크립트 딥다이브(Javascript DeepDive)/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "함수형프로그래밍(FP)/인프런/유인동함수형/함수형프로그래밍1편/함수형 프로그래밍 정의, 순수함수.md",
+                "file": "도서/모던 자바스크립트 딥다이브(Javascript DeepDive)/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "함수형프로그래밍(FP)/인프런/유인동함수형/함수형프로그래밍1편/함수형 프로그래밍 정의, 순수함수.md"
+                "file": "도서/모던 자바스크립트 딥다이브(Javascript DeepDive)/README.md"
               }
             }
           },
@@ -177,54 +177,54 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "80ade79f8ea4ad52",
+  "active": "4f6fb6c67f67cd7f",
   "lastOpenFiles": [
-    "TODO/Todo.md",
-    "함수형프로그래밍(FP)/인프런/유인동함수형/함수형프로그래밍1편/함수형 프로그래밍 정의, 순수함수.md",
-    "함수형프로그래밍(FP)/인프런/유인동함수형/함수형프로그래밍1편/일급함수, add_maker, 함수로 함수 실행하기.md",
-    "함수형프로그래밍(FP)/인프런/유인동함수형/함수형프로그래밍1편/요즘 개발 이야기, 함수형 프로그래밍 정의.md",
-    "README.md",
-    "함수형프로그래밍(FP)/함수형 프로그래밍(Functional Programming).md",
-    "study/알고리즘/Javascript 알고리즘 필수 기술.md",
-    "study/알고리즘/Two Pointers(투포인터).md",
-    "study/알고리즘/자료구조/트리(Tree).md",
-    "study/알고리즘/자료구조/자료구조.md",
-    "study/알고리즘/자료구조/우선순위 큐(Priority Queue).md",
-    "study/알고리즘/자료구조/연결 리스트(Linked list).md",
-    "study/알고리즘/자료구조/시간 복잡도.md",
-    "study/알고리즘/자료구조/스택(Stack) & 큐(Que).md",
-    "study/알고리즘/자료구조/덱(Deque).md",
-    "study/알고리즘/자료구조/그래프(Graph).md",
-    "study/알고리즘/인프런/다이나믹 프로그래밍(DP).md",
-    "study/알고리즘/인프런/그리디 알고리즘.md",
-    "study/도서/(&)CleanCode(클린코드).md",
-    "study/도서/(&)리팩터링2판.md",
-    "study/도서/(&)개발자가 반드시 정복해야 할 객체지향과 디자인 패턴.md",
-    "study/네트워크/(!)네트워크.md",
-    "study/객체지향프로그래밍(OOP)/객체지향프로그래밍(OOP).md",
-    "도서/오브젝트/Chapter/3. 역할, 책임, 협력.md",
-    "도서/오브젝트/README.md",
-    "도서/오브젝트/Chapter/2. 객체지향 프로그래밍.md",
+    "도서/모던 자바스크립트 딥다이브(Javascript DeepDive)/private/모던 자바스크립트 딥다이브(Javascript DeepDive).md",
+    "도서/모던 자바스크립트 딥다이브(Javascript DeepDive)/Chapter/17. 생성자 함수에 의한 객체 생성.md",
+    "도서/모던 자바스크립트 딥다이브(Javascript DeepDive)/Chapter/48. 모듈.md",
+    "도서/모던 자바스크립트 딥다이브(Javascript DeepDive)/Chapter/47. 에러처리.md",
+    "도서/모던 자바스크립트 딥다이브(Javascript DeepDive)/images/image39.png",
+    "도서/모던 자바스크립트 딥다이브(Javascript DeepDive)/images/image43.png",
+    "도서/모던 자바스크립트 딥다이브(Javascript DeepDive)/images/image42.png",
+    "도서/모던 자바스크립트 딥다이브(Javascript DeepDive)/Chapter/46. 제너레이터와 async+await.md",
+    "도서/모던 자바스크립트 딥다이브(Javascript DeepDive)/Chapter/45. 프로미스.md",
+    "도서/모던 자바스크립트 딥다이브(Javascript DeepDive)/images/image41.png",
+    "도서/모던 자바스크립트 딥다이브(Javascript DeepDive)/images/image40.png",
+    "도서/모던 자바스크립트 딥다이브(Javascript DeepDive)/Chapter/42. 비동기 프로그래밍.md",
+    "도서/모던 자바스크립트 딥다이브(Javascript DeepDive)/images/image38.png",
+    "도서/모던 자바스크립트 딥다이브(Javascript DeepDive)/images/image37.png",
+    "도서/모던 자바스크립트 딥다이브(Javascript DeepDive)/images/image36.png",
+    "도서/모던 자바스크립트 딥다이브(Javascript DeepDive)/Chapter/37. Set과 Map.md",
+    "도서/모던 자바스크립트 딥다이브(Javascript DeepDive)/images/image32.png",
+    "도서/모던 자바스크립트 딥다이브(Javascript DeepDive)/images/image35.png",
+    "도서/모던 자바스크립트 딥다이브(Javascript DeepDive)/Chapter/36. 디스트럭처링 할당(구조분해할당).md",
+    "도서/모던 자바스크립트 딥다이브(Javascript DeepDive)/Chapter/35. 스프레드 문법.md",
+    "도서/모던 자바스크립트 딥다이브(Javascript DeepDive)/Chapter/34. 이터러블.md",
+    "도서/모던 자바스크립트 딥다이브(Javascript DeepDive)/Chapter/33. 7번째 데이터 타입 Symbol.md",
+    "도서/모던 자바스크립트 딥다이브(Javascript DeepDive)/Chapter/27. 배열.md",
+    "도서/모던 자바스크립트 딥다이브(Javascript DeepDive)/Chapter/26. 함수의 추가 기능.md",
+    "도서/모던 자바스크립트 딥다이브(Javascript DeepDive)/Chapter/25. 클래스.md",
+    "도서/모던 자바스크립트 딥다이브(Javascript DeepDive)/Chapter/24. 클로저.md",
+    "도서/모던 자바스크립트 딥다이브(Javascript DeepDive)/Chapter/22. this.md",
+    "도서/모던 자바스크립트 딥다이브(Javascript DeepDive)/Chapter/21. 빌트인 객체.md",
+    "도서/모던 자바스크립트 딥다이브(Javascript DeepDive)/Chapter/19. 프로토타입.md",
+    "도서/모던 자바스크립트 딥다이브(Javascript DeepDive)/Chapter/18. 함수와 일급객체.md",
+    "도서/객체지향의 사실과 오해/README.md",
+    "도서/모던 자바스크립트 딥다이브(Javascript DeepDive)/README.md",
+    "도서/모던 자바스크립트 딥다이브(Javascript DeepDive)/Chapter/15. let, const 키워드와 블록 레벨 스코프.md",
+    "도서/모던 자바스크립트 딥다이브(Javascript DeepDive)/Chapter/14. 전역 변수의 문제점.md",
+    "도서/모던 자바스크립트 딥다이브(Javascript DeepDive)/Chapter/13. 스코프, 23. 실행 컨텍스트.md",
+    "도서/모던 자바스크립트 딥다이브(Javascript DeepDive)/Chapter/12. 함수.md",
+    "도서/모던 자바스크립트 딥다이브(Javascript DeepDive)/images",
+    "도서/모던 자바스크립트 딥다이브(Javascript DeepDive)/private",
+    "함수형프로그래밍(FP)/private",
+    "알고리즘",
     "Excalidraw",
     "운영체제",
     "Quizly/운영체제/커널모드와사용자모드",
-    "도서/오브젝트/images/image05.png",
-    "도서/오브젝트/images/image04.png",
-    "도서/객체지향의 사실과 오해/images/image18.png",
-    "도서/객체지향의 사실과 오해/images/image02.png",
-    "도서/오브젝트/images/Image03.png",
-    "도서/오브젝트/images/image02.png",
-    "도서/오브젝트/images/image01.png",
     "im",
     "도서/오브젝트/images",
-    "도서/객체지향의 사실과 오해/images/image15.png",
-    "도서/객체지향의 사실과 오해/images/image16.png",
-    "도서/객체지향의 사실과 오해/images/image17.png",
     "도서/객체지향의 사실과 오해/images",
-    "도서",
-    "Nest.js/reflect-metadata",
-    "Nest.js/middleware",
-    "Nest.js/images",
     "Excalidraw/무제 파일.canvas",
     "Quizly/Typescript/question05/무제 파일.canvas",
     "무제 파일.canvas",
