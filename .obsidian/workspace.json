@@ -4,23 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "35411c0381d7b281",
+        "id": "15d2719efb8372c3",
         "type": "tabs",
         "children": [
           {
-            "id": "4f6fb6c67f67cd7f",
+            "id": "025c812289c0ff2a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "도서/모던 자바스크립트 딥다이브(Javascript DeepDive)/README.md",
+                "file": "도서/오브젝트/README.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "f15866191be26b61",
+            "id": "a52101af1a1d79ff",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -30,9 +30,51 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9fa334112aa856ad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "도서/오브젝트/Chapter/2. 객체지향 프로그래밍.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "ef57b8f8b18853b1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d5d7dcfeb92a7955",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "옵시디언 플러그인/마크다운 문법.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f28eda9fd989404c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "옵시디언 플러그인/옵시디언 플러그인.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -102,7 +144,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329
+    "width": 329,
+    "collapsed": true
   },
   "right": {
     "id": "4f48e1273ca3d00f",
@@ -174,7 +217,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -190,9 +234,13 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "f15866191be26b61",
+  "active": "a52101af1a1d79ff",
   "lastOpenFiles": [
     "도서/오브젝트/README.md",
+    "도서/오브젝트/Chapter/3. 역할, 책임, 협력.md",
+    "옵시디언 플러그인/마크다운 문법.md",
+    "옵시디언 플러그인/옵시디언 플러그인.md",
+    "도서/오브젝트/Chapter/2. 객체지향 프로그래밍.md",
     "도서/모던 자바스크립트 딥다이브(Javascript DeepDive)/README.md",
     "도서/모던 자바스크립트 딥다이브(Javascript DeepDive)/Chapter/4. Variable(변수).md",
     "도서/객체지향의 사실과 오해/README.md",
@@ -224,10 +272,6 @@
     "도서/모던 자바스크립트 딥다이브(Javascript DeepDive)/Chapter/25. 클래스.md",
     "도서/모던 자바스크립트 딥다이브(Javascript DeepDive)/Chapter/24. 클로저.md",
     "도서/모던 자바스크립트 딥다이브(Javascript DeepDive)/Chapter/22. this.md",
-    "도서/모던 자바스크립트 딥다이브(Javascript DeepDive)/Chapter/21. 빌트인 객체.md",
-    "도서/모던 자바스크립트 딥다이브(Javascript DeepDive)/Chapter/19. 프로토타입.md",
-    "도서/모던 자바스크립트 딥다이브(Javascript DeepDive)/Chapter/18. 함수와 일급객체.md",
-    "도서/모던 자바스크립트 딥다이브(Javascript DeepDive)/Chapter/15. let, const 키워드와 블록 레벨 스코프.md",
     "도서/모던 자바스크립트 딥다이브(Javascript DeepDive)/images",
     "도서/모던 자바스크립트 딥다이브(Javascript DeepDive)/private",
     "함수형프로그래밍(FP)/private",
