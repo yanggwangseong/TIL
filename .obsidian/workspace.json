@@ -4,49 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "15d2719efb8372c3",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "025c812289c0ff2a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "도서/오브젝트/README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a52101af1a1d79ff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "도서/오브젝트/Chapter/3. 역할, 책임, 협력.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9fa334112aa856ad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "도서/오브젝트/Chapter/2. 객체지향 프로그래밍.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
         "id": "ef57b8f8b18853b1",
         "type": "tabs",
         "children": [
@@ -56,12 +13,18 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "옵시디언 플러그인/마크다운 문법.md",
+                "file": "study/알고리즘/인프런/다이나믹 프로그래밍(DP).md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "ba9d359b6a93a07f",
+        "type": "tabs",
+        "children": [
           {
             "id": "f28eda9fd989404c",
             "type": "leaf",
@@ -103,7 +66,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#객체지향/다형성",
+                "query": "코드 리뷰",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -172,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "도서/오브젝트/Chapter/3. 역할, 책임, 협력.md",
+                "file": "study/알고리즘/인프런/다이나믹 프로그래밍(DP).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "도서/오브젝트/Chapter/3. 역할, 책임, 협력.md",
+                "file": "study/알고리즘/인프런/다이나믹 프로그래밍(DP).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "도서/오브젝트/Chapter/3. 역할, 책임, 협력.md"
+                "file": "study/알고리즘/인프런/다이나믹 프로그래밍(DP).md"
               }
             }
           },
@@ -234,54 +197,54 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "a52101af1a1d79ff",
+  "active": "d5d7dcfeb92a7955",
   "lastOpenFiles": [
-    "도서/오브젝트/README.md",
-    "도서/오브젝트/Chapter/3. 역할, 책임, 협력.md",
-    "옵시디언 플러그인/마크다운 문법.md",
     "옵시디언 플러그인/옵시디언 플러그인.md",
-    "도서/오브젝트/Chapter/2. 객체지향 프로그래밍.md",
-    "도서/모던 자바스크립트 딥다이브(Javascript DeepDive)/README.md",
-    "도서/모던 자바스크립트 딥다이브(Javascript DeepDive)/Chapter/4. Variable(변수).md",
-    "도서/객체지향의 사실과 오해/README.md",
-    "README.md",
-    "도서/모던 자바스크립트 딥다이브(Javascript DeepDive)/private/모던 자바스크립트 딥다이브(Javascript DeepDive).md",
-    "도서/모던 자바스크립트 딥다이브(Javascript DeepDive)/Chapter/17. 생성자 함수에 의한 객체 생성.md",
-    "도서/모던 자바스크립트 딥다이브(Javascript DeepDive)/Chapter/48. 모듈.md",
-    "도서/모던 자바스크립트 딥다이브(Javascript DeepDive)/Chapter/47. 에러처리.md",
+    "study/알고리즘/인프런/다이나믹 프로그래밍(DP).md",
+    "옵시디언 플러그인/마크다운 문법.md",
+    "운영체제/PCB(Process Control Block)란.md",
+    "Quizly/운영체제/커널모드와사용자모드/answer.md",
+    "Quizly/운영체제/커널모드와사용자모드/question.md",
+    "운영체제/커널모드와 사용자모드.md",
+    "Quizly/운영체제/프로세스와 스레드 차이/answer.md",
+    "study/운영체제/컨텍스트 스위칭(Context Switching).md",
+    "study/운영체제/프로세스와 스레드의 차이.md",
+    "study/운영체제/Process 상태.md",
+    "study/Javascript/Javascript 개발자라면 알아야 할 33가지 개념/Javascript 개발자라면 알아야 할 33가지 개념.md",
+    "Quizly/운영체제/멀티프로세스와 멀티스레드 차이/answer.md",
+    "Quizly/운영체제/멀티프로세스와 멀티스레드 차이/question.md",
+    "Quizly/운영체제/프로세스와 스레드 차이/question.md",
+    "Quizly/운영체제/Context Switching이란/question.md",
+    "Quizly/운영체제/Context Switching이란/answer.md",
+    "Quizly/운영체제/PCB(Process Control Block)란/answer.md",
+    "Quizly/운영체제/PCB(Process Control Block)란/question.md",
+    "Quizly/운영체제/운영체제.md",
+    "private/Article/NestJS/Database 커넥션 풀.md",
+    "private/Article/JavaScript",
+    "private/Article/NestJS",
+    "study/운영체제/멀티프로세스와 멀티스레드 차이.md",
+    "Quizly/비동기처리 콜백패턴 에러처리.md",
+    "Quizly/이터러블.md",
+    "Quizly/이터레이터와 제너레이터의 차이.md",
+    "Quizly/Promise.md",
+    "images/Pasted image 20240819051011.png",
+    "private/Article/Network",
+    "private/Article/Typescript",
+    "private/Article",
+    "private",
+    "Article",
     "도서/모던 자바스크립트 딥다이브(Javascript DeepDive)/images/image39.png",
     "도서/모던 자바스크립트 딥다이브(Javascript DeepDive)/images/image43.png",
     "도서/모던 자바스크립트 딥다이브(Javascript DeepDive)/images/image42.png",
-    "도서/모던 자바스크립트 딥다이브(Javascript DeepDive)/Chapter/46. 제너레이터와 async+await.md",
-    "도서/모던 자바스크립트 딥다이브(Javascript DeepDive)/Chapter/45. 프로미스.md",
     "도서/모던 자바스크립트 딥다이브(Javascript DeepDive)/images/image41.png",
     "도서/모던 자바스크립트 딥다이브(Javascript DeepDive)/images/image40.png",
-    "도서/모던 자바스크립트 딥다이브(Javascript DeepDive)/Chapter/42. 비동기 프로그래밍.md",
     "도서/모던 자바스크립트 딥다이브(Javascript DeepDive)/images/image38.png",
     "도서/모던 자바스크립트 딥다이브(Javascript DeepDive)/images/image37.png",
     "도서/모던 자바스크립트 딥다이브(Javascript DeepDive)/images/image36.png",
-    "도서/모던 자바스크립트 딥다이브(Javascript DeepDive)/Chapter/37. Set과 Map.md",
     "도서/모던 자바스크립트 딥다이브(Javascript DeepDive)/images/image32.png",
-    "도서/모던 자바스크립트 딥다이브(Javascript DeepDive)/images/image35.png",
-    "도서/모던 자바스크립트 딥다이브(Javascript DeepDive)/Chapter/36. 디스트럭처링 할당(구조분해할당).md",
-    "도서/모던 자바스크립트 딥다이브(Javascript DeepDive)/Chapter/35. 스프레드 문법.md",
-    "도서/모던 자바스크립트 딥다이브(Javascript DeepDive)/Chapter/34. 이터러블.md",
-    "도서/모던 자바스크립트 딥다이브(Javascript DeepDive)/Chapter/33. 7번째 데이터 타입 Symbol.md",
-    "도서/모던 자바스크립트 딥다이브(Javascript DeepDive)/Chapter/27. 배열.md",
-    "도서/모던 자바스크립트 딥다이브(Javascript DeepDive)/Chapter/26. 함수의 추가 기능.md",
-    "도서/모던 자바스크립트 딥다이브(Javascript DeepDive)/Chapter/25. 클래스.md",
-    "도서/모던 자바스크립트 딥다이브(Javascript DeepDive)/Chapter/24. 클로저.md",
-    "도서/모던 자바스크립트 딥다이브(Javascript DeepDive)/Chapter/22. this.md",
     "도서/모던 자바스크립트 딥다이브(Javascript DeepDive)/images",
     "도서/모던 자바스크립트 딥다이브(Javascript DeepDive)/private",
     "함수형프로그래밍(FP)/private",
-    "알고리즘",
-    "Excalidraw",
-    "운영체제",
-    "Quizly/운영체제/커널모드와사용자모드",
-    "im",
-    "도서/오브젝트/images",
-    "도서/객체지향의 사실과 오해/images",
     "Excalidraw/무제 파일.canvas",
     "Quizly/Typescript/question05/무제 파일.canvas",
     "무제 파일.canvas",
