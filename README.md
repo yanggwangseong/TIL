@@ -3,6 +3,7 @@
 # 도서
 - [객체지향의 사실과 오해](https://github.com/yanggwangseong/TIL/tree/main/%EB%8F%84%EC%84%9C/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%EC%9D%98%20%EC%82%AC%EC%8B%A4%EA%B3%BC%20%EC%98%A4%ED%95%B4) 
 - [오브젝트](https://github.com/yanggwangseong/TIL/tree/main/%EB%8F%84%EC%84%9C/%EC%98%A4%EB%B8%8C%EC%A0%9D%ED%8A%B8)
+- [모던자바스크립트딥다이브](https://github.com/yanggwangseong/TIL/tree/main/%EB%8F%84%EC%84%9C/%EB%AA%A8%EB%8D%98%20%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%20%EB%94%A5%EB%8B%A4%EC%9D%B4%EB%B8%8C(Javascript%20DeepDive)) 
 
 # Article
 - 20240509 - react에서 string text에 html 태그를 넣는 방법
