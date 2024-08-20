@@ -4,24 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "ef57b8f8b18853b1",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "d5d7dcfeb92a7955",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "study/알고리즘/인프런/다이나믹 프로그래밍(DP).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "ba9d359b6a93a07f",
         "type": "tabs",
         "children": [
@@ -31,13 +13,56 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "옵시디언 플러그인/옵시디언 플러그인.md",
+                "file": "도서/오브젝트/Chapter/3. 역할, 책임, 협력.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "81c45928d63e8878",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "도서/오브젝트/README.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ]
+      },
+      {
+        "id": "43c087819a87e870",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6570ee47aa585490",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "옵시디언 플러그인/옵시디언 플러그인.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dda52b3d2bf439c2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "옵시디언 플러그인/마크다운 문법.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -135,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "study/알고리즘/인프런/다이나믹 프로그래밍(DP).md",
+                "file": "도서/오브젝트/Chapter/3. 역할, 책임, 협력.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "study/알고리즘/인프런/다이나믹 프로그래밍(DP).md",
+                "file": "도서/오브젝트/Chapter/3. 역할, 책임, 협력.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "study/알고리즘/인프런/다이나믹 프로그래밍(DP).md"
+                "file": "도서/오브젝트/Chapter/3. 역할, 책임, 협력.md"
               }
             }
           },
@@ -197,12 +222,22 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "d5d7dcfeb92a7955",
+  "active": "f28eda9fd989404c",
   "lastOpenFiles": [
-    "옵시디언 플러그인/옵시디언 플러그인.md",
-    "study/알고리즘/인프런/다이나믹 프로그래밍(DP).md",
+    "도서/오브젝트/README.md",
+    "도서/오브젝트/Chapter/3. 역할, 책임, 협력.md",
     "옵시디언 플러그인/마크다운 문법.md",
+    "옵시디언 플러그인/옵시디언 플러그인.md",
+    "README.md",
+    "study/알고리즘/LIS(Longest Increasing Subsequence).md",
+    "study/알고리즘/LCS(Longest Common Subsequence).md",
+    "함수형프로그래밍(FP)/인프런/유인동함수형/함수형프로그래밍1편/요즘 개발 이야기, 함수형 프로그래밍 정의.md",
+    "함수형프로그래밍(FP)/인프런/유인동함수형/함수형프로그래밍1편/일급함수, add_maker, 함수로 함수 실행하기.md",
+    "함수형프로그래밍(FP)/인프런/유인동함수형/함수형프로그래밍1편/함수형 프로그래밍 정의, 순수함수.md",
+    "private/Article/NestJS/Database 커넥션 풀의 관리와 최적화.md",
     "운영체제/PCB(Process Control Block)란.md",
+    "알고리즘/알고리즘.md",
+    "study/알고리즘/인프런/다이나믹 프로그래밍(DP).md",
     "Quizly/운영체제/커널모드와사용자모드/answer.md",
     "Quizly/운영체제/커널모드와사용자모드/question.md",
     "운영체제/커널모드와 사용자모드.md",
@@ -215,18 +250,8 @@
     "Quizly/운영체제/멀티프로세스와 멀티스레드 차이/question.md",
     "Quizly/운영체제/프로세스와 스레드 차이/question.md",
     "Quizly/운영체제/Context Switching이란/question.md",
-    "Quizly/운영체제/Context Switching이란/answer.md",
-    "Quizly/운영체제/PCB(Process Control Block)란/answer.md",
-    "Quizly/운영체제/PCB(Process Control Block)란/question.md",
-    "Quizly/운영체제/운영체제.md",
-    "private/Article/NestJS/Database 커넥션 풀.md",
     "private/Article/JavaScript",
     "private/Article/NestJS",
-    "study/운영체제/멀티프로세스와 멀티스레드 차이.md",
-    "Quizly/비동기처리 콜백패턴 에러처리.md",
-    "Quizly/이터러블.md",
-    "Quizly/이터레이터와 제너레이터의 차이.md",
-    "Quizly/Promise.md",
     "images/Pasted image 20240819051011.png",
     "private/Article/Network",
     "private/Article/Typescript",
