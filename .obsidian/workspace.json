@@ -4,29 +4,54 @@
     "type": "split",
     "children": [
       {
-        "id": "ba9d359b6a93a07f",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "81c45928d63e8878",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "함수형프로그래밍(FP)/인프런/유인동함수형/함수형프로그래밍1편/함수형으로 전환하기-회원목록, map, filter.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "43c087819a87e870",
         "type": "tabs",
         "children": [
           {
             "id": "6570ee47aa585490",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "도서/오브젝트/README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "758ea59d4fdd9457",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "도서/오브젝트/Chapter/4. 설계 품질과 트레이드 오프.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "15e94a59440ebead",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "도서/오브젝트/Chapter/3. 역할, 책임, 협력.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "64dedc10b9119d72",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dda52b3d2bf439c2",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -38,7 +63,7 @@
             }
           },
           {
-            "id": "dda52b3d2bf439c2",
+            "id": "a0e0e6f9be7bee3a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -148,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "함수형프로그래밍(FP)/인프런/유인동함수형/함수형프로그래밍1편/함수형으로 전환하기-회원목록, map, filter.md",
+                "file": "도서/오브젝트/Chapter/4. 설계 품질과 트레이드 오프.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "함수형프로그래밍(FP)/인프런/유인동함수형/함수형프로그래밍1편/함수형으로 전환하기-회원목록, map, filter.md",
+                "file": "도서/오브젝트/Chapter/4. 설계 품질과 트레이드 오프.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "함수형프로그래밍(FP)/인프런/유인동함수형/함수형프로그래밍1편/함수형으로 전환하기-회원목록, map, filter.md"
+                "file": "도서/오브젝트/Chapter/4. 설계 품질과 트레이드 오프.md"
               }
             }
           },
@@ -210,35 +235,35 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "81c45928d63e8878",
+  "active": "758ea59d4fdd9457",
   "lastOpenFiles": [
     "옵시디언 플러그인/마크다운 문법.md",
-    "함수형프로그래밍(FP)/인프런/유인동함수형/함수형프로그래밍1편/함수형으로 전환하기-회원목록, map, filter.md",
-    "옵시디언 플러그인/옵시디언 플러그인.md",
-    "함수형프로그래밍(FP)/인프런/유인동함수형/함수형프로그래밍1편/함수형 프로그래밍 정의, 순수함수.md",
-    "함수형프로그래밍(FP)/인프런/유인동함수형/함수형프로그래밍1편/일급함수, add_maker, 함수로 함수 실행하기.md",
-    "함수형프로그래밍(FP)/인프런/유인동함수형/함수형프로그래밍1편/요즘 개발 이야기, 함수형 프로그래밍 정의.md",
-    "함수형프로그래밍(FP)/private/sdf.md",
-    "함수형프로그래밍(FP)/함수형 프로그래밍(Functional Programming).md",
-    "도서/오브젝트/Chapter/3. 역할, 책임, 협력.md",
-    "README.md",
-    "private/Article/CleanCode/클린 코드.md",
-    "private/Article/Network/REST API 이해.md",
-    "private/Article/CleanCode",
-    "private/Article/Typescript/Typescript 이해하기.md",
-    "private/Article/Network/실시간 통신.md",
-    "private/Article/NestJS/DI.md",
+    "도서/오브젝트/Chapter/4. 설계 품질과 트레이드 오프.md",
     "도서/오브젝트/README.md",
-    "private/Article/NestJS/SOLID.md",
-    "private/Article/NestJS/Database 커넥션 풀의 관리와 최적화.md",
+    "도서/오브젝트/Chapter/3. 역할, 책임, 협력.md",
+    "도서/오브젝트/Chapter/1. 객체, 설계.md",
+    "옵시디언 플러그인/옵시디언 플러그인.md",
+    "study/알고리즘/인프런/코딩 테스트 문제 모음.md",
+    "study/알고리즘/인프런/재귀함수 이해하기.md",
+    "study/알고리즘/인프런/정렬 알고리즘.md",
+    "study/알고리즘/인프런/조합과순열.md",
+    "study/알고리즘/Two Pointers(투포인터).md",
     "study/알고리즘/LIS(Longest Increasing Subsequence).md",
     "study/알고리즘/LCS(Longest Common Subsequence).md",
-    "운영체제/PCB(Process Control Block)란.md",
-    "알고리즘/알고리즘.md",
-    "study/알고리즘/인프런/다이나믹 프로그래밍(DP).md",
-    "Quizly/운영체제/커널모드와사용자모드/answer.md",
-    "Quizly/운영체제/커널모드와사용자모드/question.md",
-    "운영체제/커널모드와 사용자모드.md",
+    "study/알고리즘/Javascript 알고리즘 필수 기술.md",
+    "study/알고리즘/DFS & BFS.md",
+    "study/알고리즘/Binary Search(이진탐색).md",
+    "study/알고리즘/플로이드(Floyd).md",
+    "study/알고리즘/최소신장트리(MST).md",
+    "study/알고리즘/정렬(sort).md",
+    "study/알고리즘/알고리즘.md",
+    "study/알고리즘/시물레이션(Simulation).md",
+    "study/알고리즘/브루트 포스(Brute Force).md",
+    "study/알고리즘/백트래킹(BackTracking).md",
+    "study/알고리즘/다익스트라(Dijkstra).md",
+    "study/알고리즘/다이나믹 프로그래밍(DP).md",
+    "study/알고리즘/그리디(Greedy).md",
+    "private/Article/CleanCode",
     "private/Article/JavaScript",
     "private/Article/NestJS",
     "images/Pasted image 20240819051011.png",
