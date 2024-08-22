@@ -52,6 +52,8 @@
 - 20240816 - [catch 할 수 없는 에러들을 slack 웹훅을 통해 slack 실시간 알림 보내기](https://threeyears.tistory.com/587) 
 - 20240818 - [Elastic Beanstalk에 도메인 연동과 SSL](https://threeyears.tistory.com/590) 
 - 20240819 - [AWS 도메인 연결과 SSL 연동 후 웹소켓 에러](https://threeyears.tistory.com/594) 
+- 20240820 - [Redis사용을 위한 AWS ElastiCache 사용과 개발환경에서 docker 사용](https://threeyears.tistory.com/588) 
+- 20240821 - [AWS production 환경을 운영하면서 특정 봇들이 보내는 취약점](https://threeyears.tistory.com/598) 
 
 
 

@@ -4,23 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "43c087819a87e870",
+        "id": "64dedc10b9119d72",
         "type": "tabs",
         "children": [
           {
-            "id": "6570ee47aa585490",
+            "id": "135c4af726666877",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "도서/오브젝트/README.md",
+                "file": "도서/오브젝트/Chapter/3. 역할, 책임, 협력.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "758ea59d4fdd9457",
+            "id": "dda52b3d2bf439c2",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,12 +32,12 @@
             }
           },
           {
-            "id": "15e94a59440ebead",
+            "id": "5f76b11420981af9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "도서/오브젝트/Chapter/3. 역할, 책임, 협력.md",
+                "file": "도서/오브젝트/README.md",
                 "mode": "source",
                 "source": false
               }
@@ -47,21 +47,9 @@
         "currentTab": 1
       },
       {
-        "id": "64dedc10b9119d72",
+        "id": "9d1ddfae93cd1e6c",
         "type": "tabs",
         "children": [
-          {
-            "id": "dda52b3d2bf439c2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "옵시디언 플러그인/옵시디언 플러그인.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
           {
             "id": "a0e0e6f9be7bee3a",
             "type": "leaf",
@@ -69,6 +57,18 @@
               "type": "markdown",
               "state": {
                 "file": "옵시디언 플러그인/마크다운 문법.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1bd69a13c5292f21",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "옵시디언 플러그인/옵시디언 플러그인.md",
                 "mode": "source",
                 "source": false
               }
@@ -235,34 +235,35 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "758ea59d4fdd9457",
+  "active": "dda52b3d2bf439c2",
   "lastOpenFiles": [
-    "옵시디언 플러그인/마크다운 문법.md",
-    "도서/오브젝트/Chapter/4. 설계 품질과 트레이드 오프.md",
     "도서/오브젝트/README.md",
+    "도서/오브젝트/Chapter/4. 설계 품질과 트레이드 오프.md",
     "도서/오브젝트/Chapter/3. 역할, 책임, 협력.md",
-    "도서/오브젝트/Chapter/1. 객체, 설계.md",
-    "옵시디언 플러그인/옵시디언 플러그인.md",
+    "알고리즘/알고리즘.md",
     "study/알고리즘/인프런/코딩 테스트 문제 모음.md",
+    "옵시디언 플러그인/옵시디언 플러그인.md",
+    "옵시디언 플러그인/마크다운 문법.md",
+    "study/알고리즘/알고리즘.md",
+    "Quizly/이터러블.md",
+    "Quizly/비동기처리 콜백패턴 에러처리.md",
+    "Nest.js/Repository.md",
+    "Nest.js/private/NestJS에서 Module.md",
+    "Nest.js/private/NestJS Dynamic Modules.md",
+    "Nest.js/Prisma/Prisma.md",
+    "Nest.js/Cursor-based pagination.md",
+    "Nest.js/CustomProvider.md",
+    "Nest.js/DDD.md",
+    "Nest.js/Dependency Injection(DI) &  Inversion of Control(IoC).md",
+    "Nest.js/Health checks.md",
+    "README.md",
+    "TODO/날짜별 계획.md",
+    "TODO/Todo.md",
+    "Nest.js/private",
+    "도서/오브젝트/Chapter/1. 객체, 설계.md",
     "study/알고리즘/인프런/재귀함수 이해하기.md",
     "study/알고리즘/인프런/정렬 알고리즘.md",
     "study/알고리즘/인프런/조합과순열.md",
-    "study/알고리즘/Two Pointers(투포인터).md",
-    "study/알고리즘/LIS(Longest Increasing Subsequence).md",
-    "study/알고리즘/LCS(Longest Common Subsequence).md",
-    "study/알고리즘/Javascript 알고리즘 필수 기술.md",
-    "study/알고리즘/DFS & BFS.md",
-    "study/알고리즘/Binary Search(이진탐색).md",
-    "study/알고리즘/플로이드(Floyd).md",
-    "study/알고리즘/최소신장트리(MST).md",
-    "study/알고리즘/정렬(sort).md",
-    "study/알고리즘/알고리즘.md",
-    "study/알고리즘/시물레이션(Simulation).md",
-    "study/알고리즘/브루트 포스(Brute Force).md",
-    "study/알고리즘/백트래킹(BackTracking).md",
-    "study/알고리즘/다익스트라(Dijkstra).md",
-    "study/알고리즘/다이나믹 프로그래밍(DP).md",
-    "study/알고리즘/그리디(Greedy).md",
     "private/Article/CleanCode",
     "private/Article/JavaScript",
     "private/Article/NestJS",
@@ -282,7 +283,6 @@
     "도서/모던 자바스크립트 딥다이브(Javascript DeepDive)/images/image36.png",
     "도서/모던 자바스크립트 딥다이브(Javascript DeepDive)/images/image32.png",
     "도서/모던 자바스크립트 딥다이브(Javascript DeepDive)/images",
-    "도서/모던 자바스크립트 딥다이브(Javascript DeepDive)/private",
     "Excalidraw/무제 파일.canvas",
     "Quizly/Typescript/question05/무제 파일.canvas",
     "무제 파일.canvas",
