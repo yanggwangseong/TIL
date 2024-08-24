@@ -54,6 +54,7 @@
 - 20240819 - [AWS 도메인 연결과 SSL 연동 후 웹소켓 에러](https://threeyears.tistory.com/594) 
 - 20240820 - [Redis사용을 위한 AWS ElastiCache 사용과 개발환경에서 docker 사용](https://threeyears.tistory.com/588) 
 - 20240821 - [AWS production 환경을 운영하면서 특정 봇들이 보내는 취약점](https://threeyears.tistory.com/598) 
+- 20240823 - [NestJS와 ioredis를 이용한 초대링크 만료 시간 설정하기](https://threeyears.tistory.com/599) 
 
 
 
