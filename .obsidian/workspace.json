@@ -8,11 +8,39 @@
         "type": "tabs",
         "children": [
           {
-            "id": "cbf4801d40005926",
+            "id": "ec7f8ab35462ecc2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "도서/이펙티브 타입스크립트/README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d6a78d8398f6bfb8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "도서/이펙티브 타입스크립트/README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "63c9352dde11a194",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "도서/이펙티브 타입스크립트/README.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -112,6 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "도서/이펙티브 타입스크립트/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,6 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "도서/이펙티브 타입스크립트/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +168,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "도서/이펙티브 타입스크립트/README.md"
+              }
             }
           },
           {
@@ -170,53 +202,53 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "cbf4801d40005926",
+  "active": "ec7f8ab35462ecc2",
   "lastOpenFiles": [
+    "도서/이펙티브 타입스크립트/Chapter/5. any 다루기.md",
+    "도서/이펙티브 타입스크립트/Chapter/6. 타입 선언과 @types.md",
+    "도서/이펙티브 타입스크립트/Chapter/7. 코드 작성하고 실행하기.md",
+    "도서/이펙티브 타입스크립트/images/image12.png",
+    "도서/이펙티브 타입스크립트/images/image11.png",
+    "도서/이펙티브 타입스크립트/images/image10.png",
+    "도서/이펙티브 타입스크립트/Chapter/4. 타입 설계.md",
+    "도서/이펙티브 타입스크립트/images/image09.png",
+    "도서/이펙티브 타입스크립트/images/image08.png",
+    "도서/이펙티브 타입스크립트/Chapter/3. 타입추론.md",
+    "도서/이펙티브 타입스크립트/images/image07.png",
+    "도서/이펙티브 타입스크립트/Chapter/2. 타입스크립트의 타입 시스템.md",
+    "도서/이펙티브 타입스크립트/images/image06.png",
+    "도서/이펙티브 타입스크립트/images/image05.png",
+    "도서/이펙티브 타입스크립트/images/image04.png",
+    "도서/이펙티브 타입스크립트/Chapter/1. 타입스크립트 알아보기.md",
+    "도서/이펙티브 타입스크립트/images/image03.png",
+    "도서/이펙티브 타입스크립트/README.md",
     "도서/아는만큼보이는데이터베이스설계와구축/README.md",
-    "도서/아는만큼보이는데이터베이스설계와구축/images/image02.jpeg",
-    "도서/아는만큼보이는데이터베이스설계와구축/images/image03.png",
     "도서/아는만큼보이는데이터베이스설계와구축/Chapter/README.md",
-    "도서/아는만큼보이는데이터베이스설계와구축/images/image27.png",
-    "도서/아는만큼보이는데이터베이스설계와구축/images/image26.png",
-    "도서/아는만큼보이는데이터베이스설계와구축/images/image25.png",
-    "도서/아는만큼보이는데이터베이스설계와구축/images/image24.png",
-    "도서/아는만큼보이는데이터베이스설계와구축/images/image23.png",
-    "도서/아는만큼보이는데이터베이스설계와구축/images/image22.png",
-    "도서/아는만큼보이는데이터베이스설계와구축/images/image21.png",
-    "도서/아는만큼보이는데이터베이스설계와구축/images/image20.png",
-    "도서/객체지향의 사실과 오해/README.md",
-    "study/Database/아는 만큼 보이는 데이터베이스 설계와 구축.md",
-    "도서/오브젝트/README.md",
-    "README.md",
+    "도서/모던 자바스크립트 딥다이브(Javascript DeepDive)/README.md",
+    "도서/이펙티브 타입스크립트/이펙티브 타입스크립트.md",
+    "도서/이펙티브 타입스크립트/images",
+    "study/Typescript/Decorator/Decorator.md",
+    "study/Typescript/(&)러닝 타입스크립트(Learning Typescript).md",
+    "study/Typescript/(&)이펙티브 타입스크립트(effective-typescript).md",
+    "study/Typescript/리터럴타입(Literal Type)과 유니온 타입(Union Types).md",
+    "study/Typescript/실전 연습으로 익히는 고급 타입스크립트 기술.md",
+    "study/Typescript/인터섹션(InterSaction)타입과 유니온(Union)타입.md",
+    "study/Typescript/타입스크립트 작성 고민.md",
+    "study/Typescript/타입스크립트 잡기술.md",
+    "study/Typescript/타입스크립트 커스텀 타입 가드.md",
+    "study/Typescript/타입스크립트 트랜스파일링.md",
+    "study/Typescript/타입챌린지.md",
+    "study/Typescript/태그된 유니온과 커스텀 타입 가드.md",
+    "study/Typescript/as-const.md",
     "도서/아는만큼보이는데이터베이스설계와구축/images",
     "도서/아는만큼보이는데이터베이스설계와구축/Chapter",
     "도서/아는만큼보이는데이터베이스설계와구축",
-    "study/Database/(&)Real MySQL 8.0 2편.md",
-    "study/Database/(&)Real MySQL 8.0 1편.md",
-    "study/Database/(&)파워 오브 데이터베이스.md",
-    "study/Database/(&)빅데이터 저장 및 분석을 위한 NoSQL & Redis.md",
-    "study/객체지향프로그래밍(OOP)/객체지향프로그래밍(OOP).md",
-    "study/네트워크/(!)네트워크.md",
-    "study/도서/(&)리팩터링2판.md",
-    "study/도서/(&)CleanCode(클린코드).md",
-    "도서/오브젝트/Chapter/5. 책임 할당하기.md",
-    "옵시디언 플러그인/옵시디언 플러그인.md",
-    "옵시디언 플러그인/마크다운 문법.md",
-    "TODO/링크모드.md",
-    "TODO/최종.md",
-    "study/Database/Redis/Redis.md",
-    "Nest.js/Repository.md",
-    "TODO/Todo.md",
-    "study/Database/Database.md",
-    "TODO/날짜별 계획.md",
-    "study/공부.md",
     "private/Article/Infra",
     "알고리즘/problem/재귀함수",
     "알고리즘/problem",
     "Nest.js/private",
     "private/Article/CleanCode",
     "private/Article/JavaScript",
-    "private/Article/NestJS",
     "Excalidraw/무제 파일.canvas",
     "Quizly/Typescript/question05/무제 파일.canvas",
     "무제 파일.canvas",
