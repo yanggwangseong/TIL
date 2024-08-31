@@ -126,6 +126,7 @@
 | ⭐⭐⭐⭐⭐    | 3. 역할, 책임, 협력     | 3장      | [링크](https://github.com/yanggwangseong/TIL/blob/main/%EB%8F%84%EC%84%9C/%EC%98%A4%EB%B8%8C%EC%A0%9D%ED%8A%B8/Chapter/3.%20%EC%97%AD%ED%95%A0%2C%20%EC%B1%85%EC%9E%84%2C%20%ED%98%91%EB%A0%A5.md)                                           |
 | ⭐⭐       | 4. 설계 품질과 트레이드 오프 | 4장      | [링크](https://github.com/yanggwangseong/TIL/blob/main/%EB%8F%84%EC%84%9C/%EC%98%A4%EB%B8%8C%EC%A0%9D%ED%8A%B8/Chapter/4.%20%EC%84%A4%EA%B3%84%20%ED%92%88%EC%A7%88%EA%B3%BC%20%ED%8A%B8%EB%A0%88%EC%9D%B4%EB%93%9C%20%EC%98%A4%ED%94%84.md) |
 | ⭐⭐⭐      | 5. 책임 할당하기        | 5장      | [링크](https://github.com/yanggwangseong/TIL/blob/main/%EB%8F%84%EC%84%9C/%EC%98%A4%EB%B8%8C%EC%A0%9D%ED%8A%B8/Chapter/5.%20%EC%B1%85%EC%9E%84%20%ED%95%A0%EB%8B%B9%ED%95%98%EA%B8%B0.md)                                                    |
+|          | 6. 메세지와 인터페이스     | 6장      |                                                                                                                                                                                                                                            |
 
 # 📝 키워드
 #객체지향/depencency , #객체지향/coupling , #객체지향/encapsulation , #객체지향/cohesion

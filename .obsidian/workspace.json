@@ -4,40 +4,52 @@
     "type": "split",
     "children": [
       {
-        "id": "2e400fca11e078a6",
+        "id": "db9d5fd8bc9182e2",
         "type": "tabs",
         "children": [
           {
-            "id": "ec7f8ab35462ecc2",
+            "id": "66293bd4da107210",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "private/PreOnBoarding/Javascript/README.md",
+                "file": "도서/오브젝트/Chapter/5. 책임 할당하기.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "3716a4649a3f57b5",
+            "id": "4cb4cc60f763834f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "도서/오브젝트/Chapter/6. 메세지와 인터페이스.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "235d138bbbe1dcb1",
+            "id": "2adf6026865c377c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "study/알고리즘/자료구조/그래프(Graph).md",
+                "file": "도서/오브젝트/README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e121291d43328843",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "도서/오브젝트/README.md",
                 "mode": "source",
                 "source": false
               }
@@ -45,6 +57,24 @@
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "8549796dec5762d5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3f54115570058a34",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "옵시디언 플러그인/마크다운 문법.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -73,7 +103,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "제자",
+                "query": "tag:#task",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -141,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "도서/오브젝트/Chapter/6. 메세지와 인터페이스.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +188,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "도서/오브젝트/Chapter/6. 메세지와 인터페이스.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "도서/오브젝트/Chapter/6. 메세지와 인터페이스.md"
               }
             }
           },
@@ -203,11 +233,18 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "3716a4649a3f57b5",
+  "active": "4cb4cc60f763834f",
   "lastOpenFiles": [
-    "private/PreOnBoarding/Javascript/README.md",
+    "도서/오브젝트/README.md",
+    "도서/오브젝트/images/image06.png",
+    "도서/오브젝트/Chapter/6. 메세지와 인터페이스.md",
+    "옵시디언 플러그인/마크다운 문법.md",
     "README.md",
+    "TODO/최종.md",
+    "TODO/Todo.md",
+    "도서/오브젝트/Chapter/5. 책임 할당하기.md",
     "study/알고리즘/자료구조/그래프(Graph).md",
+    "private/PreOnBoarding/Javascript/README.md",
     "study/알고리즘/백트래킹(BackTracking).md",
     "study/알고리즘/다익스트라(Dijkstra).md",
     "study/알고리즘/다이나믹 프로그래밍(DP).md",
@@ -228,13 +265,6 @@
     "study/알고리즘/인프런/재귀함수 이해하기.md",
     "study/알고리즘/자료구조/힙(Heap).md",
     "study/알고리즘/자료구조/해시 테이블(hash table).md",
-    "study/알고리즘/자료구조/트리(Tree).md",
-    "study/알고리즘/자료구조/자료구조.md",
-    "study/알고리즘/자료구조/우선순위 큐(Priority Queue).md",
-    "study/알고리즘/자료구조/연결 리스트(Linked list).md",
-    "study/알고리즘/자료구조/시간 복잡도.md",
-    "study/알고리즘/자료구조/스택(Stack) & 큐(Que).md",
-    "study/알고리즘/자료구조/덱(Deque).md",
     "도서/이펙티브 타입스크립트/images/image12.png",
     "도서/이펙티브 타입스크립트/images/image11.png",
     "도서/이펙티브 타입스크립트/images/image10.png",
@@ -244,7 +274,6 @@
     "도서/이펙티브 타입스크립트/images/image06.png",
     "도서/이펙티브 타입스크립트/images/image05.png",
     "도서/이펙티브 타입스크립트/images/image04.png",
-    "도서/이펙티브 타입스크립트/images/image03.png",
     "도서/이펙티브 타입스크립트/images",
     "도서/아는만큼보이는데이터베이스설계와구축/images",
     "도서/아는만큼보이는데이터베이스설계와구축/Chapter",
