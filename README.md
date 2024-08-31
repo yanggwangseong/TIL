@@ -1,10 +1,14 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/yanggwangseong/TIL&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 [![Blog](https://img.shields.io/badge/Blog-threeyears.tistory.com-blue)](https://threeyears.tistory.com/)
-# 도서
+# Book
 - [객체지향의 사실과 오해](https://github.com/yanggwangseong/TIL/tree/main/%EB%8F%84%EC%84%9C/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%EC%9D%98%20%EC%82%AC%EC%8B%A4%EA%B3%BC%20%EC%98%A4%ED%95%B4) 
 - [오브젝트](https://github.com/yanggwangseong/TIL/tree/main/%EB%8F%84%EC%84%9C/%EC%98%A4%EB%B8%8C%EC%A0%9D%ED%8A%B8)
 - [모던자바스크립트딥다이브](https://github.com/yanggwangseong/TIL/tree/main/%EB%8F%84%EC%84%9C/%EB%AA%A8%EB%8D%98%20%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%20%EB%94%A5%EB%8B%A4%EC%9D%B4%EB%B8%8C(Javascript%20DeepDive))
 - [아는만큼보이는데이터베이스설계와구축](https://github.com/yanggwangseong/TIL/tree/main/%EB%8F%84%EC%84%9C/%EC%95%84%EB%8A%94%EB%A7%8C%ED%81%BC%EB%B3%B4%EC%9D%B4%EB%8A%94%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4%EC%84%A4%EA%B3%84%EC%99%80%EA%B5%AC%EC%B6%95) 
+- [이펙티브타입스크립트](https://github.com/yanggwangseong/TIL/tree/main/%EB%8F%84%EC%84%9C/%EC%9D%B4%ED%8E%99%ED%8B%B0%EB%B8%8C%20%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8) 
+
+# Lecture
+
 
 # Article
 - 20240509 - react에서 string text에 html 태그를 넣는 방법
@@ -56,6 +60,9 @@
 - 20240820 - [Redis사용을 위한 AWS ElastiCache 사용과 개발환경에서 docker 사용](https://threeyears.tistory.com/588) 
 - 20240821 - [AWS production 환경을 운영하면서 특정 봇들이 보내는 취약점](https://threeyears.tistory.com/598) 
 - 20240823 - [NestJS와 ioredis를 이용한 초대링크 만료 시간 설정하기](https://threeyears.tistory.com/599) 
+- 20240831 - [free tier 사용시 ipv4 과금 문제](https://threeyears.tistory.com/600) 
+- 20240901 - [NestJS event-emitter 사용시 런타임 에러 발생시 서버 중단 현상 최근에 패치됨](https://threeyears.tistory.com/601) 
+
 
 
 
