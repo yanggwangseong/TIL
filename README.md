@@ -62,6 +62,7 @@
 - 20240831 - [free tier 사용시 ipv4 과금 문제](https://threeyears.tistory.com/600) 
 - 20240901 - [NestJS event-emitter 사용시 런타임 에러 발생시 서버 중단 현상 최근에 패치됨](https://threeyears.tistory.com/601) 
 - 20240903 - [free tier 운영시 Public IPV4사용으로 인한 과금 문제](https://threeyears.tistory.com/603) 
+- 20240904 - [prettier --write 명령어 사용시 node_modules/.cache/prettier 생성 되는 이슈](https://threeyears.tistory.com/605) 
 
 
 

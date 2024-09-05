@@ -4,23 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "db9d5fd8bc9182e2",
+        "id": "ed6d6ce94271fb42",
         "type": "tabs",
         "children": [
           {
-            "id": "d94899c9075332a5",
+            "id": "5cced93b6f215131",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "private/Article/NestJS/Database 커넥션 풀의 관리와 최적화.md",
+                "file": "도서/오브젝트/Chapter/6. 메세지와 인터페이스.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "2519d1067769df16",
+            "id": "1e58930e4be1db9e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "도서/오브젝트/Chapter/1. 객체, 설계.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3a7080d4c46ae0ee",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -34,23 +46,11 @@
         ]
       },
       {
-        "id": "ed6d6ce94271fb42",
+        "id": "eb91798cb529bf05",
         "type": "tabs",
         "children": [
           {
-            "id": "495c9a432a6483d7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "옵시디언 플러그인/마크다운 문법.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5cced93b6f215131",
+            "id": "9f458e77d367ce5b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -60,8 +60,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b05bf00239e7c419",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "옵시디언 플러그인/마크다운 문법.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -90,7 +103,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "과제",
+                "query": "자동화",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -131,7 +144,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329
+    "width": 329,
+    "collapsed": true
   },
   "right": {
     "id": "4f48e1273ca3d00f",
@@ -158,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "private/Article/NestJS/Database 커넥션 풀의 관리와 최적화.md",
+                "file": "도서/오브젝트/Chapter/6. 메세지와 인터페이스.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +189,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "private/Article/NestJS/Database 커넥션 풀의 관리와 최적화.md",
+                "file": "도서/오브젝트/Chapter/6. 메세지와 인터페이스.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +201,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "private/Article/NestJS/Database 커넥션 풀의 관리와 최적화.md"
+                "file": "도서/오브젝트/Chapter/6. 메세지와 인터페이스.md"
               }
             }
           },
@@ -220,35 +234,35 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "d94899c9075332a5",
+  "active": "5cced93b6f215131",
   "lastOpenFiles": [
+    "도서/오브젝트/README.md",
     "도서/오브젝트/Chapter/6. 메세지와 인터페이스.md",
     "옵시디언 플러그인/마크다운 문법.md",
-    "도서/오브젝트/README.md",
+    "도서/오브젝트/Chapter/1. 객체, 설계.md",
     "옵시디언 플러그인/옵시디언 플러그인.md",
+    "함수형프로그래밍(FP)/인프런/유인동함수형/함수형프로그래밍1편/함수형으로 전환하기-회원목록, map, filter.md",
     "private/PreOnBoarding/AWS/1-1 주차.md",
+    "알고리즘/알고리즘.md",
+    "README.md",
     "private/PreOnBoarding/AWS/README.md",
+    "TODO/멘토링 준비.md",
+    "TODO/최종.md",
+    "private/PreOnBoarding/AWS/1-2 주차.md",
+    "Excalidraw/VPC.md",
+    "TODO/Todo.md",
+    "private/Article/NestJS/Database 커넥션 풀의 관리와 최적화.md",
     "private/PreOnBoarding/Javascript/README.md",
     "private/Article/NestJS/Layered Architecture.md",
     "study/알고리즘/인프런/재귀함수 이해하기.md",
     "study/알고리즘/인프런/코딩 테스트 문제 모음.md",
-    "README.md",
     "study/알고리즘/인프런/그리디 알고리즘.md",
     "운영체제/PCB(Process Control Block)란.md",
     "운영체제/커널모드와 사용자모드.md",
-    "알고리즘/알고리즘.md",
     "도서/오브젝트/Chapter/5. 책임 할당하기.md",
     "private/Article/NestJS/SOLID.md",
     "private/Article/NestJS/DI.md",
     "도서/오브젝트/images/image06.png",
-    "TODO/최종.md",
-    "TODO/Todo.md",
-    "study/알고리즘/자료구조/그래프(Graph).md",
-    "study/알고리즘/백트래킹(BackTracking).md",
-    "study/알고리즘/다익스트라(Dijkstra).md",
-    "study/알고리즘/다이나믹 프로그래밍(DP).md",
-    "study/알고리즘/그리디(Greedy).md",
-    "study/Javascript/⭐이벤트 루프(Event loop).md",
     "private/PreOnBoarding/Javascript",
     "private/PreOnBoarding/AWS",
     "private/PreOnBoarding",
