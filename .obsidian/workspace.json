@@ -11,11 +11,58 @@
             "id": "b9620e003ec3475e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "도서/오브젝트/Chapter/7. 객체 분해.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0f2d14328df959a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "도서/오브젝트/README.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
+      },
+      {
+        "id": "b0de38f69f29a8b1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0d997aedd58925f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "옵시디언 플러그인/옵시디언 플러그인.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6b5e28459fd7ecdb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "옵시디언 플러그인/마크다운 문법.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -112,6 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "도서/오브젝트/Chapter/7. 객체 분해.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,6 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "도서/오브젝트/Chapter/7. 객체 분해.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +187,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "도서/오브젝트/Chapter/7. 객체 분해.md"
+              }
             }
           },
           {
@@ -170,8 +221,13 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "742493942464278d",
+  "active": "b9620e003ec3475e",
   "lastOpenFiles": [
+    "도서/오브젝트/README.md",
+    "도서/오브젝트/Chapter/7. 객체 분해.md",
+    "옵시디언 플러그인/마크다운 문법.md",
+    "옵시디언 플러그인/옵시디언 플러그인.md",
+    "도서/오브젝트/Chapter/6. 메세지와 인터페이스.md",
     "private/Article/Typescript/Typescript 이해하기.md",
     "private/Article/Network/REST API 이해.md",
     "private/Article/Network/실시간 통신.md",
@@ -194,11 +250,6 @@
     "Typescript",
     "Lecture/코드팩토리Typescript/Chapter/private/Narrowing(타입 좁히기).md",
     "Lecture/코드팩토리Typescript/Chapter/private/OverLoadding.md",
-    "Lecture/코드팩토리Typescript/Chapter/private/Statement and Expression (문장과 표현식).md",
-    "Lecture/코드팩토리Typescript/Chapter/4. Function.md",
-    "Quizly/객체지향/추상 클래스는 언제 사용하나요?/answer.md",
-    "도서/오브젝트/Chapter/2. 객체지향 프로그래밍.md",
-    "Quizly/객체지향/추상 클래스는 언제 사용하나요?/question.md",
     "Quizly/객체지향/추상 클래스는 언제 사용하나요?",
     "Lecture/코드팩토리Typescript/Chapter/private",
     "Lecture/코드팩토리Typescript/images/image03.png",
