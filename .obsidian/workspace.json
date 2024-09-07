@@ -4,77 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "ed6d6ce94271fb42",
+        "id": "bb7558e9fbc6b53a",
         "type": "tabs",
         "children": [
           {
-            "id": "5cced93b6f215131",
+            "id": "b9620e003ec3475e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "도서/오브젝트/Chapter/6. 메세지와 인터페이스.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1e58930e4be1db9e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "도서/오브젝트/Chapter/1. 객체, 설계.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3a7080d4c46ae0ee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "도서/오브젝트/README.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
-      },
-      {
-        "id": "eb91798cb529bf05",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "9f458e77d367ce5b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "옵시디언 플러그인/옵시디언 플러그인.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b05bf00239e7c419",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "옵시디언 플러그인/마크다운 문법.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -103,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "자동화",
+                "query": "추상 클래스",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -144,8 +85,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329,
-    "collapsed": true
+    "width": 329
   },
   "right": {
     "id": "4f48e1273ca3d00f",
@@ -172,7 +112,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "도서/오브젝트/Chapter/6. 메세지와 인터페이스.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,7 +128,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "도서/오브젝트/Chapter/6. 메세지와 인터페이스.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,9 +138,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "도서/오브젝트/Chapter/6. 메세지와 인터페이스.md"
-              }
+              "state": {}
             }
           },
           {
@@ -234,54 +170,54 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "5cced93b6f215131",
+  "active": "742493942464278d",
   "lastOpenFiles": [
-    "도서/오브젝트/README.md",
-    "도서/오브젝트/Chapter/6. 메세지와 인터페이스.md",
-    "옵시디언 플러그인/마크다운 문법.md",
-    "도서/오브젝트/Chapter/1. 객체, 설계.md",
-    "옵시디언 플러그인/옵시디언 플러그인.md",
-    "함수형프로그래밍(FP)/인프런/유인동함수형/함수형프로그래밍1편/함수형으로 전환하기-회원목록, map, filter.md",
-    "private/PreOnBoarding/AWS/1-1 주차.md",
-    "알고리즘/알고리즘.md",
-    "README.md",
-    "private/PreOnBoarding/AWS/README.md",
-    "TODO/멘토링 준비.md",
-    "TODO/최종.md",
-    "private/PreOnBoarding/AWS/1-2 주차.md",
-    "Excalidraw/VPC.md",
-    "TODO/Todo.md",
-    "private/Article/NestJS/Database 커넥션 풀의 관리와 최적화.md",
-    "private/PreOnBoarding/Javascript/README.md",
-    "private/Article/NestJS/Layered Architecture.md",
-    "study/알고리즘/인프런/재귀함수 이해하기.md",
-    "study/알고리즘/인프런/코딩 테스트 문제 모음.md",
-    "study/알고리즘/인프런/그리디 알고리즘.md",
-    "운영체제/PCB(Process Control Block)란.md",
-    "운영체제/커널모드와 사용자모드.md",
-    "도서/오브젝트/Chapter/5. 책임 할당하기.md",
+    "private/Article/Typescript/Typescript 이해하기.md",
+    "private/Article/Network/REST API 이해.md",
+    "private/Article/Network/실시간 통신.md",
     "private/Article/NestJS/SOLID.md",
+    "private/Article/NestJS/Layered Architecture.md",
     "private/Article/NestJS/DI.md",
+    "private/Article/NestJS/Database 커넥션 풀의 관리와 최적화.md",
+    "private/Article/NestJS/Circuit Breaker.md",
+    "TODO/최종.md",
+    "TODO/FAM 프로젝트.md",
+    "TODO/Todo.md",
+    "TODO/TDD프로젝트.md",
+    "TODO/멘토링 준비.md",
+    "Typescript/Type Assertion 과 Type Casting.md",
+    "private/Article/Infra/Zero Downtime Deployment.md",
+    "private/Article/NestJS/데이터베이스 Replication(레플리케이션).md",
+    "Lecture/코드팩토리Typescript/Chapter/private/Type Predicate (타입 프리디케이트).md",
+    "Lecture/코드팩토리Typescript/Chapter/3. Union and Intersection (유니언과 인터섹션).md",
+    "Typescript/as unknown as.md",
+    "Typescript",
+    "Lecture/코드팩토리Typescript/Chapter/private/Narrowing(타입 좁히기).md",
+    "Lecture/코드팩토리Typescript/Chapter/private/OverLoadding.md",
+    "Lecture/코드팩토리Typescript/Chapter/private/Statement and Expression (문장과 표현식).md",
+    "Lecture/코드팩토리Typescript/Chapter/4. Function.md",
+    "Quizly/객체지향/추상 클래스는 언제 사용하나요?/answer.md",
+    "도서/오브젝트/Chapter/2. 객체지향 프로그래밍.md",
+    "Quizly/객체지향/추상 클래스는 언제 사용하나요?/question.md",
+    "Quizly/객체지향/추상 클래스는 언제 사용하나요?",
+    "Lecture/코드팩토리Typescript/Chapter/private",
+    "Lecture/코드팩토리Typescript/images/image03.png",
+    "Lecture/코드팩토리Typescript/images/image04.png",
+    "Lecture/코드팩토리Typescript/images/image05.png",
+    "Lecture/코드팩토리Typescript/images/image06.png",
+    "Lecture/코드팩토리Typescript/images/image07.png",
+    "images/Pasted image 20240905214907.png",
+    "images/Pasted image 20240905214850.png",
+    "Lecture/코드팩토리Typescript/images/image02.png",
+    "Lecture/코드팩토리Typescript/images/Image01.png",
+    "Lecture/코드팩토리Typescript/images",
+    "Lecture/코드팩토리Typescript/Chapter",
+    "Lecture/코드팩토리Typescript",
     "도서/오브젝트/images/image06.png",
     "private/PreOnBoarding/Javascript",
     "private/PreOnBoarding/AWS",
     "private/PreOnBoarding",
     "Lecture",
-    "도서/이펙티브 타입스크립트/images/image12.png",
-    "도서/이펙티브 타입스크립트/images/image11.png",
-    "도서/이펙티브 타입스크립트/images/image10.png",
-    "도서/이펙티브 타입스크립트/images/image09.png",
-    "도서/이펙티브 타입스크립트/images/image08.png",
-    "도서/이펙티브 타입스크립트/images/image07.png",
-    "도서/이펙티브 타입스크립트/images/image06.png",
-    "도서/이펙티브 타입스크립트/images/image05.png",
-    "도서/이펙티브 타입스크립트/images/image04.png",
-    "도서/이펙티브 타입스크립트/images",
-    "도서/아는만큼보이는데이터베이스설계와구축/images",
-    "도서/아는만큼보이는데이터베이스설계와구축/Chapter",
-    "도서/아는만큼보이는데이터베이스설계와구축",
-    "private/Article/Infra",
-    "알고리즘/problem/재귀함수",
     "Excalidraw/무제 파일.canvas",
     "Quizly/Typescript/question05/무제 파일.canvas",
     "무제 파일.canvas",
