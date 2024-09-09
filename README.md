@@ -65,4 +65,7 @@
 - 20240904 - [prettier --write 명령어 사용시 node_modules/.cache/prettier 생성 되는 이슈](https://threeyears.tistory.com/605) 
 - 20240905 - [NextJS에서 SSR 렌더링 사용시 redirect시 useLayoutEffect 사용 경고](https://threeyears.tistory.com/606) 
 - 20240906 - [NextJS getServerSideProps SSR에서 HOF 이용한 Auth 인증](https://threeyears.tistory.com/607) 
+- 20240907 - [메인 화면에서 SessionStorage를 통한 Splash 이미지를 최초 로그인일때만 보여주기](https://threeyears.tistory.com/612) 
+
+
 
