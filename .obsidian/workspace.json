@@ -13,49 +13,43 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "private/PreOnBoarding/Javascript/1-2 주차.md",
+                "file": "도서/오브젝트/Chapter/7. 객체 분해.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "344d1fae302a95e1",
+            "id": "5655e41df018f5e3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "private/PreOnBoarding/Javascript/1-1 주차.md",
+                "file": "옵시디언 플러그인/마크다운 문법.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "04ba70bd87886a60",
+            "id": "84f21dcd4daf1c4d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "private/PreOnBoarding/Javascript/README.md",
+                "file": "도서/오브젝트/Chapter/6. 메세지와 인터페이스.md",
                 "mode": "source",
                 "source": false
               }
             }
-          }
-        ]
-      },
-      {
-        "id": "ace0c60b966603ea",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "42d8637119a9d887",
+            "id": "032fa203b1d68b00",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "private/PreOnBoarding/Javascript/1-1 주차.md",
+                "file": "도서/오브젝트/README.md",
                 "mode": "source",
                 "source": false
               }
@@ -131,7 +125,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329
+    "width": 329,
+    "collapsed": true
   },
   "right": {
     "id": "4f48e1273ca3d00f",
@@ -158,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "private/PreOnBoarding/Javascript/1-2 주차.md",
+                "file": "도서/오브젝트/Chapter/7. 객체 분해.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "private/PreOnBoarding/Javascript/1-2 주차.md",
+                "file": "도서/오브젝트/Chapter/7. 객체 분해.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "private/PreOnBoarding/Javascript/1-2 주차.md"
+                "file": "도서/오브젝트/Chapter/7. 객체 분해.md"
               }
             }
           },
@@ -222,11 +217,21 @@
   },
   "active": "011fa0f5a5910d19",
   "lastOpenFiles": [
-    "private/PreOnBoarding/Javascript/README.md",
-    "private/PreOnBoarding/Javascript/1-2 주차.md",
-    "private/PreOnBoarding/Javascript/1-1 주차.md",
-    "도서/오브젝트/Chapter/6. 메세지와 인터페이스.md",
+    "옵시디언 플러그인/마크다운 문법.md",
     "도서/오브젝트/Chapter/7. 객체 분해.md",
+    "옵시디언 플러그인/옵시디언 플러그인.md",
+    "도서/오브젝트/README.md",
+    "도서/오브젝트/Chapter/6. 메세지와 인터페이스.md",
+    "TODO/멘토링 준비.md",
+    "TODO/함수형과 객체지향을 이용한 프로젝트.md",
+    "private/PreOnBoarding/AWS/README.md",
+    "private/PreOnBoarding/AWS/private/README.md",
+    "private/PreOnBoarding/AWS/private/1-2 주차.md",
+    "private/PreOnBoarding/AWS/private/1-1 주차.md",
+    "private/PreOnBoarding/AWS/private",
+    "private/PreOnBoarding/Javascript/1-2 주차.md",
+    "private/PreOnBoarding/Javascript/README.md",
+    "private/PreOnBoarding/Javascript/1-1 주차.md",
     "images/Pasted image 20240907230318.png",
     "README.md",
     "TODO/TDD프로젝트.md",
@@ -235,21 +240,12 @@
     "Typescript/as unknown as.md",
     "Typescript/Type Assertion 과 Type Casting.md",
     "private/Article/NestJS/Circuit-Breaker(서킷 브레이커).md",
-    "private/PreOnBoarding/AWS/1-2 주차.md",
-    "TODO/멘토링 준비.md",
     "private/Article/NestJS/Database 커넥션 풀의 관리와 최적화.md",
     "private/Article/NestJS/데이터베이스 Replication(레플리케이션).md",
-    "private/PreOnBoarding/AWS/1-1 주차.md",
-    "옵시디언 플러그인/옵시디언 플러그인.md",
-    "옵시디언 플러그인/마크다운 문법.md",
     "study/운영체제/멀티프로세스와 멀티스레드 차이.md",
     "study/운영체제/컨텍스트 스위칭(Context Switching).md",
     "private/Article/CS/동기-비동기 & 블록킹 - 논블록킹.md",
-    "private/Article/NestJS/N + 1문제.md",
     "private/Article/CS",
-    "private/Article/무제 파일.md",
-    "private/Article/Network/Pub-Sub란.md",
-    "private/Article/Typescript/Switch case에서 코드 개선.md",
     "Typescript",
     "Quizly/객체지향/추상 클래스는 언제 사용하나요?",
     "Lecture/코드팩토리Typescript/Chapter/private",
@@ -267,7 +263,6 @@
     "Lecture/코드팩토리Typescript",
     "private/PreOnBoarding/Javascript",
     "private/PreOnBoarding/AWS",
-    "private/PreOnBoarding",
     "Excalidraw/무제 파일.canvas",
     "Quizly/Typescript/question05/무제 파일.canvas",
     "무제 파일.canvas",
