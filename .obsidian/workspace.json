@@ -4,35 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "016a04eb41d55a4c",
+        "id": "5f784c517b5ade26",
         "type": "tabs",
         "children": [
           {
-            "id": "8fcf5c1b33ebf03b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "도서/오브젝트/README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f48e09806ff3d282",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "도서/오브젝트/Chapter/2. 객체지향 프로그래밍.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3a320005402165b1",
+            "id": "5624086a0ee0b76a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -42,33 +18,14 @@
                 "source": false
               }
             }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "5f784c517b5ade26",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "8027b76c98b60f34",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "옵시디언 플러그인/옵시디언 플러그인.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           },
           {
-            "id": "a7bc1007feeca69d",
+            "id": "fb64b5ff2b5b9837",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "옵시디언 플러그인/마크다운 문법.md",
+                "file": "도서/오브젝트/README.md",
                 "mode": "source",
                 "source": false
               }
@@ -173,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "도서/오브젝트/Chapter/8. 의존성 관리하기.md",
+                "file": "도서/오브젝트/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "도서/오브젝트/Chapter/8. 의존성 관리하기.md",
+                "file": "도서/오브젝트/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "도서/오브젝트/Chapter/8. 의존성 관리하기.md"
+                "file": "도서/오브젝트/README.md"
               }
             }
           },
@@ -235,35 +192,35 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "3a320005402165b1",
+  "active": "fb64b5ff2b5b9837",
   "lastOpenFiles": [
-    "옵시디언 플러그인/마크다운 문법.md",
     "도서/오브젝트/Chapter/8. 의존성 관리하기.md",
+    "옵시디언 플러그인/옵시디언 플러그인.md",
     "도서/오브젝트/README.md",
     "도서/오브젝트/Chapter/2. 객체지향 프로그래밍.md",
+    "알고리즘/알고리즘.md",
+    "옵시디언 플러그인/마크다운 문법.md",
+    "private/PreOnBoarding/AWS/README.md",
+    "private/PreOnBoarding/AWS/private/1-2 주차.md",
+    "private/PreOnBoarding/AWS/private/README.md",
+    "study/Javascript/Javascript 잡기술.md",
+    "study/알고리즘/Javascript 알고리즘 필수 기술.md",
+    "study/알고리즘/인프런/파이썬 코테 풀기.md",
+    "study/알고리즘/인프런/코딩 테스트 문제 모음.md",
+    "study/알고리즘/인프런/브루트 포스.md",
+    "README.md",
+    "study/운영체제/뮤텍스와 세마포어.md",
+    "study/알고리즘/인프런/조합과순열.md",
+    "private/PreOnBoarding/AWS/private/1-1 주차.md",
     "도서/오브젝트/Chapter/1. 객체, 설계.md",
     "도서/오브젝트/Chapter/3. 역할, 책임, 협력.md",
     "도서/오브젝트/Chapter/4. 설계 품질과 트레이드 오프.md",
     "도서/오브젝트/Chapter/6. 메세지와 인터페이스.md",
     "도서/오브젝트/Chapter/5. 책임 할당하기.md",
-    "옵시디언 플러그인/옵시디언 플러그인.md",
-    "study/알고리즘/인프런/코딩 테스트 문제 모음.md",
     "study/알고리즘/인프런/재귀함수 이해하기.md",
     "study/운영체제/Process 상태.md",
     "study/운영체제/멀티프로세스와 멀티스레드 차이.md",
-    "study/운영체제/운영체제.md",
-    "study/운영체제/컨텍스트 스위칭(Context Switching).md",
-    "study/운영체제/프로세스와 스레드의 차이.md",
-    "도서/오브젝트/Chapter/7. 객체 분해.md",
-    "TODO/멘토링 준비.md",
-    "TODO/함수형과 객체지향을 이용한 프로젝트.md",
-    "private/PreOnBoarding/AWS/README.md",
-    "private/PreOnBoarding/AWS/private/README.md",
-    "private/PreOnBoarding/AWS/private/1-2 주차.md",
-    "private/PreOnBoarding/AWS/private/1-1 주차.md",
     "private/PreOnBoarding/AWS/private",
-    "private/PreOnBoarding/Javascript/1-2 주차.md",
-    "private/PreOnBoarding/Javascript/README.md",
     "images/Pasted image 20240907230318.png",
     "private/Article/CS",
     "Typescript",
