@@ -70,4 +70,7 @@
 - 20240907 - [메인 화면에서 SessionStorage를 통한 Splash 이미지를 최초 로그인일때만 보여주기](https://threeyears.tistory.com/612) 
 - 20240910 - [NestJS에서 Redis를 활용한 최근 검색어 기능 구현](https://threeyears.tistory.com/614) 
 - 20240911 - [Redis의 zrange 옵션들](https://threeyears.tistory.com/615) 
+- 20240912 - [dotenv 호출시 같은 환경변수명의 값을 변경시에 발생하는 문제](https://threeyears.tistory.com/617) 
+
+
 

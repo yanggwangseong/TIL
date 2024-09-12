@@ -178,6 +178,24 @@
 
 > DiscountPolicy와 PercentDiscountPolicy(비율 할인 정책), AmountDiscountPolicy(금액 할인 정책), OverlappedDiscountPolicy(중복 할인), NoneDiscountPolicy(할인 없음) 추상화된 DiscountPolicy를 통해 재사용 가능한 설계를 가진다. 
 
+# 9장
+- 개방-폐쇄 원칙(OCP)은 런타임 의존성과 컴파일타임 의존성에 관한 이야기이다.
+- 의존성 관계에서 개방-폐쇄 원칙을 따르는 설계란 컴파일 타임 의존성을 고정시키고 런타임 의존성을 확장하고 수정할 수 있는 구조라 할 수 있다.
+- 개방-폐쇄 원칙의 핵심은 *추상화에 의존하는 것* 이다
+
+## 의존성 주입
+- *의존성 주입(Dependency-Injection)* 
+	- 사용하는 객체가 아닌 외부의 독립적인 객체가 인스턴스를 생성한 후 이를 전달해서 의존성을 해결하는 방법
+	- 의존성 주입이라고 부르는 이유는 외부에서 의존성의 대상을 해결한 후 이를 사용하는 객체쪽으로 주입하기 때문이다.
+	- 의존성 주입은 의존성을 해결하기 위해 의존성을 객체의 퍼블릭 인터페이스에 명시적으로 드러내서 외부에서 필요한 런타임 의존성을 전달할 수 있도록 만드는 방법
+
+> 의존성을 해결하는 세가지 방법
+
+- 생성자 주입(constructor injection) : 객체를 생성하는 시점에 생성자를 통한 의존성 해결
+- setter 주입(setter injection) : 객체 생성 후 setter 메서드를 통한 의존성 해결
+- 메서드 주입(method injection) : 메서드 실행 시 인자를 이용한 의존성 해결
+
+
 
 # 📆 정리 현황 테이블
 
@@ -192,8 +210,8 @@
 | ⭐⭐⭐      | 5. 책임 할당하기        | 5장      | [링크](https://github.com/yanggwangseong/TIL/blob/main/%EB%8F%84%EC%84%9C/%EC%98%A4%EB%B8%8C%EC%A0%9D%ED%8A%B8/Chapter/5.%20%EC%B1%85%EC%9E%84%20%ED%95%A0%EB%8B%B9%ED%95%98%EA%B8%B0.md)                                                    |
 | ⭐⭐       | 6. 메세지와 인터페이스     | 6장      |                                                                                                                                                                                                                                            |
 | ⭐        | 7. 객체 분해          | 7장      |                                                                                                                                                                                                                                            |
-| ⭐⭐⭐      | 8. 의존성 관리하기       | 8장      |                                                                                                                                                                                                                                            |
+| ⭐⭐⭐⭐     | 8. 의존성 관리하기       | 8장      |                                                                                                                                                                                                                                            |
+|          | 9. 유연한 설계         | 9장      |                                                                                                                                                                                                                                            |
 
 # 📝 키워드
 #객체지향/depencency , #객체지향/coupling , #객체지향/encapsulation , #객체지향/cohesion
-

@@ -8,24 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e4243611500f16b0",
+            "id": "7bbba8dc35635089",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Experience/PreOnBoarding/Backend/README.md",
+                "file": "도서/오브젝트/README.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "850cca2bd99251e4",
+            "id": "857ded4f5fe65a63",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "도서/오브젝트/Chapter/9. 유연한 설계.md",
                 "mode": "source",
                 "source": false
               }
@@ -33,6 +33,48 @@
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "0c12b85bf107b137",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dfb8ade0d0427ac4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "도서/오브젝트/Chapter/8. 의존성 관리하기.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "29a3c961b1e9bd2c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "옵시디언 플러그인/옵시디언 플러그인.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d7a9499a94adf1be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "옵시디언 플러그인/마크다운 문법.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +103,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "서킷브레이커",
+                "query": "comment",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -102,7 +144,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329
+    "width": 329,
+    "collapsed": true
   },
   "right": {
     "id": "4f48e1273ca3d00f",
@@ -129,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "도서/오브젝트/Chapter/9. 유연한 설계.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +189,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "도서/오브젝트/Chapter/9. 유연한 설계.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +201,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "도서/오브젝트/Chapter/9. 유연한 설계.md"
               }
             }
           },
@@ -191,47 +234,47 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "850cca2bd99251e4",
+  "active": "857ded4f5fe65a63",
   "lastOpenFiles": [
-    "Experience/PreOnBoarding/Backend/README.md",
-    "README.md",
+    "도서/오브젝트/Chapter/8. 의존성 관리하기.md",
+    "도서/오브젝트/Chapter/9. 유연한 설계.md",
     "도서/오브젝트/README.md",
-    "Experience/PreOnBoarding/Backend/private/1-2 주차.md",
-    "Experience/PreOnBoarding/Backend/private/1-1 주차.md",
-    "Experience/PreOnBoarding/Backend/private/README.md",
-    "Experience/PreOnBoarding/Backend/private/2-2 주차.md",
+    "도서/객체지향의 사실과 오해/Chapter/2. 이상한 나라의 객체.md",
+    "옵시디언 플러그인/마크다운 문법.md",
+    "도서/오브젝트/Chapter/5. 책임 할당하기.md",
+    "Quizly/객체지향/팩토리패턴 이란?/answer.md",
+    "Quizly/객체지향/추상 클래스는 언제 사용하나요?/answer.md",
+    "Quizly/객체지향/팩토리패턴 이란?/question.md",
+    "Quizly/객체지향/추상 클래스는 언제 사용하나요?/question.md",
+    "Quizly/객체지향/팩토리패턴 이란?",
+    "study/Database/아는 만큼 보이는 데이터베이스 설계와 구축.md",
+    "도서/객체지향의 사실과 오해/Chapter/5. 책임과 메세지.md",
+    "도서/이펙티브 타입스크립트/Chapter/4. 타입 설계.md",
+    "도서/객체지향의 사실과 오해/Chapter/4. 역할, 책임, 협력.md",
+    "도서/오브젝트/Chapter/2. 객체지향 프로그래밍.md",
+    "private/Article/CS/stable sort와 unstable sort.md",
+    "도서/오브젝트/Chapter/6. 메세지와 인터페이스.md",
+    "도서/객체지향의 사실과 오해/Chapter/3. 타입과 추상화.md",
+    "Lecture/코드팩토리Typescript/Chapter/private/Type Predicate (타입 프리디케이트).md",
+    "Lecture/코드팩토리Typescript/Chapter/private/Statement and Expression (문장과 표현식).md",
+    "Lecture/코드팩토리Typescript/Chapter/private/OverLoadding.md",
+    "Lecture/코드팩토리Typescript/Chapter/private/Narrowing(타입 좁히기).md",
+    "Lecture/코드팩토리Typescript/Chapter/3. Union and Intersection (유니언과 인터섹션).md",
+    "Lecture/코드팩토리Typescript/README.md",
+    "private/Article/Typescript/Typescript 이해하기.md",
+    "study/WebRTC/WebRTC.md",
     "Experience/PreOnBoarding",
     "Experience",
     "Experience/PreOnBoarding/Backend/images",
     "private/PreOnBoarding/AWS/무제 파일.canvas",
     "Experience/PreOnBoarding/Backend/images/image01.jpg",
     "private/PreOnBoarding/Javascript/private",
-    "private/Article/NestJS/QueryBuilder type-safe.md",
-    "private/Article/Database/파티셔닝, 샤딩, 레플리케이션.md",
-    "private/Article/Database/데이터베이스 Replication(레플리케이션).md",
-    "private/Article/Database/인덱스(Index).md",
-    "private/Article/Database/트랜잭션(transaction).md",
-    "private/Article/Database/concurrency control(동시성 제어).md",
-    "private/Article/Database/Database 커넥션 풀의 관리와 최적화.md",
-    "private/Article/Database/MVCC.md",
-    "private/Article/Database/transaction Isolation level.md",
-    "private/Article/CS/stable sort와 unstable sort.md",
     "private/Article/Database",
-    "private/Article/JavaScript/Javascript sort는 어떤 정렬 알고리즘을 사용할까?.md",
-    "도서/오브젝트/Chapter/8. 의존성 관리하기.md",
-    "옵시디언 플러그인/옵시디언 플러그인.md",
-    "도서/오브젝트/Chapter/2. 객체지향 프로그래밍.md",
-    "알고리즘/알고리즘.md",
-    "옵시디언 플러그인/마크다운 문법.md",
-    "study/Javascript/Javascript 잡기술.md",
-    "study/알고리즘/Javascript 알고리즘 필수 기술.md",
-    "study/알고리즘/인프런/파이썬 코테 풀기.md",
     "Experience/PreOnBoarding/Backend/private",
     "images/Pasted image 20240907230318.png",
     "private/Article/CS",
     "Typescript",
     "Quizly/객체지향/추상 클래스는 언제 사용하나요?",
-    "Lecture/코드팩토리Typescript/Chapter/private",
     "Lecture/코드팩토리Typescript/images/image03.png",
     "Lecture/코드팩토리Typescript/images/image04.png",
     "Lecture/코드팩토리Typescript/images/image05.png",
