@@ -4,71 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "999739ad4b8d9d17",
+        "id": "52341c0525785c38",
         "type": "tabs",
         "children": [
           {
-            "id": "7bbba8dc35635089",
+            "id": "bddeab3eb4b8cf40",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "도서/오브젝트/README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "857ded4f5fe65a63",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "도서/오브젝트/Chapter/9. 유연한 설계.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "0c12b85bf107b137",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "dfb8ade0d0427ac4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "도서/오브젝트/Chapter/8. 의존성 관리하기.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "29a3c961b1e9bd2c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "옵시디언 플러그인/옵시디언 플러그인.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d7a9499a94adf1be",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "옵시디언 플러그인/마크다운 문법.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "comment",
+                "query": "타입 캐스팅",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -144,8 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329,
-    "collapsed": true
+    "width": 329
   },
   "right": {
     "id": "4f48e1273ca3d00f",
@@ -172,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "도서/오브젝트/Chapter/9. 유연한 설계.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "도서/오브젝트/Chapter/9. 유연한 설계.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "도서/오브젝트/Chapter/9. 유연한 설계.md"
+                "file": "README.md"
               }
             }
           },
@@ -234,35 +178,38 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "857ded4f5fe65a63",
+  "active": "bddeab3eb4b8cf40",
   "lastOpenFiles": [
-    "도서/오브젝트/Chapter/8. 의존성 관리하기.md",
-    "도서/오브젝트/Chapter/9. 유연한 설계.md",
-    "도서/오브젝트/README.md",
-    "도서/객체지향의 사실과 오해/Chapter/2. 이상한 나라의 객체.md",
-    "옵시디언 플러그인/마크다운 문법.md",
-    "도서/오브젝트/Chapter/5. 책임 할당하기.md",
-    "Quizly/객체지향/팩토리패턴 이란?/answer.md",
-    "Quizly/객체지향/추상 클래스는 언제 사용하나요?/answer.md",
-    "Quizly/객체지향/팩토리패턴 이란?/question.md",
-    "Quizly/객체지향/추상 클래스는 언제 사용하나요?/question.md",
-    "Quizly/객체지향/팩토리패턴 이란?",
-    "study/Database/아는 만큼 보이는 데이터베이스 설계와 구축.md",
-    "도서/객체지향의 사실과 오해/Chapter/5. 책임과 메세지.md",
-    "도서/이펙티브 타입스크립트/Chapter/4. 타입 설계.md",
-    "도서/객체지향의 사실과 오해/Chapter/4. 역할, 책임, 협력.md",
-    "도서/오브젝트/Chapter/2. 객체지향 프로그래밍.md",
-    "private/Article/CS/stable sort와 unstable sort.md",
-    "도서/오브젝트/Chapter/6. 메세지와 인터페이스.md",
-    "도서/객체지향의 사실과 오해/Chapter/3. 타입과 추상화.md",
-    "Lecture/코드팩토리Typescript/Chapter/private/Type Predicate (타입 프리디케이트).md",
-    "Lecture/코드팩토리Typescript/Chapter/private/Statement and Expression (문장과 표현식).md",
-    "Lecture/코드팩토리Typescript/Chapter/private/OverLoadding.md",
-    "Lecture/코드팩토리Typescript/Chapter/private/Narrowing(타입 좁히기).md",
-    "Lecture/코드팩토리Typescript/Chapter/3. Union and Intersection (유니언과 인터섹션).md",
     "Lecture/코드팩토리Typescript/README.md",
-    "private/Article/Typescript/Typescript 이해하기.md",
-    "study/WebRTC/WebRTC.md",
+    "Lecture/코드팩토리Typescript/Chapter/private/Union and Intersection (유니언과 인터섹션).md",
+    "Lecture/코드팩토리Typescript/Chapter/private/Type vs Interface.md",
+    "Lecture/코드팩토리Typescript/Chapter/private/Object.md",
+    "Lecture/코드팩토리Typescript/Chapter/private/OverLoadding.md",
+    "Lecture/코드팩토리Typescript/Chapter/private/Reflection.md",
+    "Lecture/코드팩토리Typescript/Chapter/private/Type Predicate (타입 프리디케이트).md",
+    "Lecture/코드팩토리Typescript/Chapter/private/Tuple.md",
+    "Lecture/코드팩토리Typescript/Chapter/private/Statement and Expression (문장과 표현식).md",
+    "Lecture/코드팩토리Typescript/Chapter/private/Narrowing(타입 좁히기).md",
+    "Lecture/코드팩토리Typescript/Chapter/private/Decorators.md",
+    "Lecture/코드팩토리Typescript/Chapter/private/Class.md",
+    "Lecture/코드팩토리Typescript/Chapter/private/Any-Unknown-Never.md",
+    "Lecture/코드팩토리Typescript/Chapter/private/Utility Types.md",
+    "Lecture/코드팩토리Typescript/images/image06.png",
+    "Lecture/코드팩토리Typescript/images/image07.png",
+    "Lecture/코드팩토리Typescript/images/image08.png",
+    "Lecture/코드팩토리Typescript/Chapter/private/infer.md",
+    "Lecture/코드팩토리Typescript/Chapter/private/Import and Export.md",
+    "Lecture/코드팩토리Typescript/Chapter/private/Namespace.md",
+    "Lecture/코드팩토리Typescript/Chapter/private/Generic.md",
+    "private/Article/Typescript/초과 프로퍼티 검사.md",
+    "Typescript/as unknown as.md",
+    "Typescript/Type Assertion 과 Type Casting.md",
+    "도서/오브젝트/Chapter/2. 객체지향 프로그래밍.md",
+    "README.md",
+    "study/Typescript/인터섹션(InterSaction)타입과 유니온(Union)타입.md",
+    "study/Typescript/(&)러닝 타입스크립트(Learning Typescript).md",
+    "study/Typescript/리터럴타입(Literal Type)과 유니온 타입(Union Types).md",
+    "Quizly/객체지향/팩토리패턴 이란?",
     "Experience/PreOnBoarding",
     "Experience",
     "Experience/PreOnBoarding/Backend/images",
@@ -278,11 +225,8 @@
     "Lecture/코드팩토리Typescript/images/image03.png",
     "Lecture/코드팩토리Typescript/images/image04.png",
     "Lecture/코드팩토리Typescript/images/image05.png",
-    "Lecture/코드팩토리Typescript/images/image06.png",
-    "Lecture/코드팩토리Typescript/images/image07.png",
     "images/Pasted image 20240905214907.png",
     "images/Pasted image 20240905214850.png",
-    "Lecture/코드팩토리Typescript/images/image02.png",
     "Excalidraw/무제 파일.canvas",
     "Quizly/Typescript/question05/무제 파일.canvas",
     "무제 파일.canvas",

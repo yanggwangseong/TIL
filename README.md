@@ -8,7 +8,7 @@
 - [이펙티브타입스크립트](https://github.com/yanggwangseong/TIL/tree/main/%EB%8F%84%EC%84%9C/%EC%9D%B4%ED%8E%99%ED%8B%B0%EB%B8%8C%20%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8) 
 
 # Lecture
-
+- [코드팩토리-TS]() 
 # Experience
 - [PRE-ONBOARDING 23차 BACKEND](https://github.com/yanggwangseong/TIL/tree/main/Experience/PreOnBoarding/Backend)
 # Article
