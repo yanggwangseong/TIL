@@ -13,13 +13,80 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "도서/오브젝트/Chapter/9. 유연한 설계.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "eb7dbb8b27ddcd26",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "도서/오브젝트/README.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ]
+      },
+      {
+        "id": "6e9505a2a2353f30",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a11aa00fa1c87815",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "private/PreOnBoarding/Javascript/private/1-2 주차.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cb266edfa17eb154",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "private/PreOnBoarding/Javascript/README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ef7a4e763c6adad5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "옵시디언 플러그인/옵시디언 플러그인.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a68159d0d731afc3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "옵시디언 플러그인/마크다운 문법.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -48,7 +115,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "타입 캐스팅",
+                "query": "순수함수",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,7 +156,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329
+    "width": 329,
+    "collapsed": true
   },
   "right": {
     "id": "4f48e1273ca3d00f",
@@ -116,7 +184,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "도서/오브젝트/Chapter/9. 유연한 설계.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +201,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "도서/오브젝트/Chapter/9. 유연한 설계.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +213,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "도서/오브젝트/Chapter/9. 유연한 설계.md"
               }
             }
           },
@@ -180,35 +248,35 @@
   },
   "active": "bddeab3eb4b8cf40",
   "lastOpenFiles": [
+    "옵시디언 플러그인/마크다운 문법.md",
+    "도서/오브젝트/Chapter/9. 유연한 설계.md",
+    "옵시디언 플러그인/옵시디언 플러그인.md",
+    "도서/오브젝트/README.md",
+    "도서/오브젝트/Chapter/8. 의존성 관리하기.md",
+    "Experience/PreOnBoarding/Backend/private/1-1 주차.md",
+    "Experience/PreOnBoarding/Backend/private/1-2 주차.md",
+    "Experience/PreOnBoarding/Backend/private/2-2 주차.md",
+    "private/PreOnBoarding/Javascript/private/1-3 주차.md",
+    "함수형프로그래밍(FP)/인프런/유인동함수형/함수형프로그래밍1편/함수형 프로그래밍 정의, 순수함수.md",
+    "private/PreOnBoarding/Javascript/private/1-2 주차.md",
+    "private/PreOnBoarding/Javascript/README.md",
+    "private/Article/Database/트랜잭션(transaction).md",
+    "private/Article/NestJS/Circuit-Breaker(서킷 브레이커).md",
+    "private/Article/NestJS/DI.md",
+    "private/Article/NestJS/SOLID.md",
+    "private/Article/NestJS/QueryBuilder type-safe.md",
+    "private/Article/NestJS/N + 1문제.md",
+    "private/Article/NestJS/Layered Architecture.md",
+    "private/Article/JavaScript/Javascript sort는 어떤 정렬 알고리즘을 사용할까?.md",
+    "private/PreOnBoarding/Javascript/private/README.md",
     "Lecture/코드팩토리Typescript/README.md",
+    "TODO/멘토링 준비.md",
+    "README.md",
+    "Experience/PreOnBoarding/Backend/README.md",
     "Lecture/코드팩토리Typescript/Chapter/private/Union and Intersection (유니언과 인터섹션).md",
-    "Lecture/코드팩토리Typescript/Chapter/private/Type vs Interface.md",
-    "Lecture/코드팩토리Typescript/Chapter/private/Object.md",
-    "Lecture/코드팩토리Typescript/Chapter/private/OverLoadding.md",
-    "Lecture/코드팩토리Typescript/Chapter/private/Reflection.md",
-    "Lecture/코드팩토리Typescript/Chapter/private/Type Predicate (타입 프리디케이트).md",
-    "Lecture/코드팩토리Typescript/Chapter/private/Tuple.md",
-    "Lecture/코드팩토리Typescript/Chapter/private/Statement and Expression (문장과 표현식).md",
-    "Lecture/코드팩토리Typescript/Chapter/private/Narrowing(타입 좁히기).md",
-    "Lecture/코드팩토리Typescript/Chapter/private/Decorators.md",
-    "Lecture/코드팩토리Typescript/Chapter/private/Class.md",
-    "Lecture/코드팩토리Typescript/Chapter/private/Any-Unknown-Never.md",
-    "Lecture/코드팩토리Typescript/Chapter/private/Utility Types.md",
     "Lecture/코드팩토리Typescript/images/image06.png",
     "Lecture/코드팩토리Typescript/images/image07.png",
     "Lecture/코드팩토리Typescript/images/image08.png",
-    "Lecture/코드팩토리Typescript/Chapter/private/infer.md",
-    "Lecture/코드팩토리Typescript/Chapter/private/Import and Export.md",
-    "Lecture/코드팩토리Typescript/Chapter/private/Namespace.md",
-    "Lecture/코드팩토리Typescript/Chapter/private/Generic.md",
-    "private/Article/Typescript/초과 프로퍼티 검사.md",
-    "Typescript/as unknown as.md",
-    "Typescript/Type Assertion 과 Type Casting.md",
-    "도서/오브젝트/Chapter/2. 객체지향 프로그래밍.md",
-    "README.md",
-    "study/Typescript/인터섹션(InterSaction)타입과 유니온(Union)타입.md",
-    "study/Typescript/(&)러닝 타입스크립트(Learning Typescript).md",
-    "study/Typescript/리터럴타입(Literal Type)과 유니온 타입(Union Types).md",
     "Quizly/객체지향/팩토리패턴 이란?",
     "Experience/PreOnBoarding",
     "Experience",
