@@ -72,6 +72,7 @@
 - 20240911 - [Redis의 zrange 옵션들](https://threeyears.tistory.com/615) 
 - 20240912 - [dotenv 호출시 같은 환경변수명의 값을 변경시에 발생하는 문제](https://threeyears.tistory.com/617) 
 - 20240914 - [react-query useMutation 커스텀훅으로 재사용하기](https://threeyears.tistory.com/618) 
+- 20240919 - [react-query useQuery 커스텀훅으로 재사용하기](https://threeyears.tistory.com/620) 
 
 
 
