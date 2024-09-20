@@ -13,19 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "도서/오브젝트/Chapter/9. 유연한 설계.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "eb7dbb8b27ddcd26",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "도서/오브젝트/README.md",
+                "file": "Experience/PreOnBoarding/Frontend/README.md",
                 "mode": "source",
                 "source": false
               }
@@ -34,59 +22,22 @@
         ]
       },
       {
-        "id": "6e9505a2a2353f30",
+        "id": "ee3870e3fe32c249",
         "type": "tabs",
         "children": [
           {
-            "id": "a11aa00fa1c87815",
+            "id": "269e8686462b9a76",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "private/PreOnBoarding/Javascript/private/1-2 주차.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cb266edfa17eb154",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "private/PreOnBoarding/Javascript/README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ef7a4e763c6adad5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "옵시디언 플러그인/옵시디언 플러그인.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a68159d0d731afc3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "옵시디언 플러그인/마크다운 문법.md",
+                "file": "Experience/PreOnBoarding/Backend/README.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -156,8 +107,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329,
-    "collapsed": true
+    "width": 329
   },
   "right": {
     "id": "4f48e1273ca3d00f",
@@ -184,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "도서/오브젝트/Chapter/9. 유연한 설계.md",
+                "file": "Experience/PreOnBoarding/Frontend/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -201,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "도서/오브젝트/Chapter/9. 유연한 설계.md",
+                "file": "Experience/PreOnBoarding/Frontend/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -213,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "도서/오브젝트/Chapter/9. 유연한 설계.md"
+                "file": "Experience/PreOnBoarding/Frontend/README.md"
               }
             }
           },
@@ -248,18 +198,25 @@
   },
   "active": "bddeab3eb4b8cf40",
   "lastOpenFiles": [
-    "옵시디언 플러그인/마크다운 문법.md",
+    "Experience/PreOnBoarding/Frontend/images/image01.jpg",
+    "Experience/PreOnBoarding/Frontend/README.md",
+    "Experience/PreOnBoarding/Backend/README.md",
+    "Experience/PreOnBoarding/Frontend/images",
+    "Experience/PreOnBoarding/Frontend",
+    "Experience/PreOnBoarding/Frontend/private/2-2 주차.md",
+    "도서/모던 자바스크립트 딥다이브(Javascript DeepDive)/Chapter/22. this.md",
+    "Experience/PreOnBoarding/Frontend/private/2-1 주차.md",
     "도서/오브젝트/Chapter/9. 유연한 설계.md",
-    "옵시디언 플러그인/옵시디언 플러그인.md",
     "도서/오브젝트/README.md",
+    "옵시디언 플러그인/옵시디언 플러그인.md",
+    "README.md",
+    "옵시디언 플러그인/마크다운 문법.md",
     "도서/오브젝트/Chapter/8. 의존성 관리하기.md",
     "Experience/PreOnBoarding/Backend/private/1-1 주차.md",
     "Experience/PreOnBoarding/Backend/private/1-2 주차.md",
     "Experience/PreOnBoarding/Backend/private/2-2 주차.md",
-    "private/PreOnBoarding/Javascript/private/1-3 주차.md",
     "함수형프로그래밍(FP)/인프런/유인동함수형/함수형프로그래밍1편/함수형 프로그래밍 정의, 순수함수.md",
-    "private/PreOnBoarding/Javascript/private/1-2 주차.md",
-    "private/PreOnBoarding/Javascript/README.md",
+    "Experience/PreOnBoarding/Frontend/private/1-2 주차.md",
     "private/Article/Database/트랜잭션(transaction).md",
     "private/Article/NestJS/Circuit-Breaker(서킷 브레이커).md",
     "private/Article/NestJS/DI.md",
@@ -268,12 +225,7 @@
     "private/Article/NestJS/N + 1문제.md",
     "private/Article/NestJS/Layered Architecture.md",
     "private/Article/JavaScript/Javascript sort는 어떤 정렬 알고리즘을 사용할까?.md",
-    "private/PreOnBoarding/Javascript/private/README.md",
-    "Lecture/코드팩토리Typescript/README.md",
-    "TODO/멘토링 준비.md",
-    "README.md",
-    "Experience/PreOnBoarding/Backend/README.md",
-    "Lecture/코드팩토리Typescript/Chapter/private/Union and Intersection (유니언과 인터섹션).md",
+    "Experience/PreOnBoarding/Frontend/private/README.md",
     "Lecture/코드팩토리Typescript/images/image06.png",
     "Lecture/코드팩토리Typescript/images/image07.png",
     "Lecture/코드팩토리Typescript/images/image08.png",
@@ -283,18 +235,15 @@
     "Experience/PreOnBoarding/Backend/images",
     "private/PreOnBoarding/AWS/무제 파일.canvas",
     "Experience/PreOnBoarding/Backend/images/image01.jpg",
-    "private/PreOnBoarding/Javascript/private",
+    "Experience/PreOnBoarding/Frontend/private",
     "private/Article/Database",
     "Experience/PreOnBoarding/Backend/private",
     "images/Pasted image 20240907230318.png",
     "private/Article/CS",
-    "Typescript",
-    "Quizly/객체지향/추상 클래스는 언제 사용하나요?",
     "Lecture/코드팩토리Typescript/images/image03.png",
     "Lecture/코드팩토리Typescript/images/image04.png",
     "Lecture/코드팩토리Typescript/images/image05.png",
     "images/Pasted image 20240905214907.png",
-    "images/Pasted image 20240905214850.png",
     "Excalidraw/무제 파일.canvas",
     "Quizly/Typescript/question05/무제 파일.canvas",
     "무제 파일.canvas",
