@@ -8,18 +8,61 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1f10056588a171cb",
+            "id": "ea5f048a279518f7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "도서/오브젝트/Chapter/10. 상속과 코드 재사용.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a2b4b4af638ffc43",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "도서/오브젝트/README.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ]
+      },
+      {
+        "id": "fe4f1db9a781726c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cc7172efbe412af0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "옵시디언 플러그인/옵시디언 플러그인.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "de93205a2bc13d94",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "옵시디언 플러그인/마크다운 문법.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +91,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "순수함수",
+                "query": "tag:#객체지향/cohesion",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,7 +132,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329
+    "width": 329,
+    "collapsed": true
   },
   "right": {
     "id": "4f48e1273ca3d00f",
@@ -116,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "도서/오브젝트/Chapter/10. 상속과 코드 재사용.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "도서/오브젝트/Chapter/10. 상속과 코드 재사용.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "도서/오브젝트/Chapter/10. 상속과 코드 재사용.md"
               }
             }
           },
@@ -178,36 +222,37 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "1f10056588a171cb",
+  "active": "ea5f048a279518f7",
   "lastOpenFiles": [
+    "옵시디언 플러그인/마크다운 문법.md",
+    "도서/오브젝트/Chapter/10. 상속과 코드 재사용.md",
+    "도서/오브젝트/Chapter/4. 설계 품질과 트레이드 오프.md",
+    "도서/오브젝트/Chapter/1. 객체, 설계.md",
+    "도서/오브젝트/README.md",
+    "도서/오브젝트/Chapter/2. 객체지향 프로그래밍.md",
+    "도서/오브젝트/Chapter/9. 유연한 설계.md",
+    "옵시디언 플러그인/옵시디언 플러그인.md",
+    "TODO/멘토링 준비.md",
+    "TODO/최종.md",
+    "TODO/함수형과 객체지향을 이용한 프로젝트.md",
+    "TODO/FAM 프로젝트.md",
+    "TODO/TDD프로젝트.md",
+    "TODO/Todo.md",
+    "TODO/날짜별 계획.md",
+    "TODO/링크모드.md",
+    "private/Article/NestJS/Layered Architecture.md",
+    "private/Article/NestJS/Circuit-Breaker(서킷 브레이커).md",
+    "private/Article/NestJS/DI.md",
+    "private/Article/NestJS/N + 1문제.md",
+    "private/Article/NestJS/SOLID.md",
+    "private/Article/NestJS/QueryBuilder type-safe.md",
+    "README.md",
     "Experience/PreOnBoarding/Frontend/README.md",
     "Experience/PreOnBoarding/Frontend/images/image01.jpg",
     "Experience/PreOnBoarding/Backend/README.md",
     "Experience/PreOnBoarding/Frontend/images",
     "Experience/PreOnBoarding/Frontend",
     "Experience/PreOnBoarding/Frontend/private/2-2 주차.md",
-    "도서/모던 자바스크립트 딥다이브(Javascript DeepDive)/Chapter/22. this.md",
-    "Experience/PreOnBoarding/Frontend/private/2-1 주차.md",
-    "도서/오브젝트/Chapter/9. 유연한 설계.md",
-    "도서/오브젝트/README.md",
-    "옵시디언 플러그인/옵시디언 플러그인.md",
-    "README.md",
-    "옵시디언 플러그인/마크다운 문법.md",
-    "도서/오브젝트/Chapter/8. 의존성 관리하기.md",
-    "Experience/PreOnBoarding/Backend/private/1-1 주차.md",
-    "Experience/PreOnBoarding/Backend/private/1-2 주차.md",
-    "Experience/PreOnBoarding/Backend/private/2-2 주차.md",
-    "함수형프로그래밍(FP)/인프런/유인동함수형/함수형프로그래밍1편/함수형 프로그래밍 정의, 순수함수.md",
-    "Experience/PreOnBoarding/Frontend/private/1-2 주차.md",
-    "private/Article/Database/트랜잭션(transaction).md",
-    "private/Article/NestJS/Circuit-Breaker(서킷 브레이커).md",
-    "private/Article/NestJS/DI.md",
-    "private/Article/NestJS/SOLID.md",
-    "private/Article/NestJS/QueryBuilder type-safe.md",
-    "private/Article/NestJS/N + 1문제.md",
-    "private/Article/NestJS/Layered Architecture.md",
-    "private/Article/JavaScript/Javascript sort는 어떤 정렬 알고리즘을 사용할까?.md",
-    "Experience/PreOnBoarding/Frontend/private/README.md",
     "Lecture/코드팩토리Typescript/images/image06.png",
     "Lecture/코드팩토리Typescript/images/image07.png",
     "Lecture/코드팩토리Typescript/images/image08.png",
