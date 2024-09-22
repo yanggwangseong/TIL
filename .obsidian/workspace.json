@@ -4,58 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "75bdaab74e74a97d",
+        "id": "ee9c0541d084671f",
         "type": "tabs",
         "children": [
           {
-            "id": "0c093c409202933a",
+            "id": "0f52a464be7dff70",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "도서/오브젝트/Chapter/10. 상속과 코드 재사용.md",
+                "file": "private/Article/Redis/Redis Transactions.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "0bf55b7c6f786b79",
+            "id": "d2a84bce7af90502",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "도서/오브젝트/README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "fe4f1db9a781726c",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "cc7172efbe412af0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "옵시디언 플러그인/옵시디언 플러그인.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "de93205a2bc13d94",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "옵시디언 플러그인/마크다운 문법.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -91,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "워터풀",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -132,8 +102,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329,
-    "collapsed": true
+    "width": 329
   },
   "right": {
     "id": "4f48e1273ca3d00f",
@@ -160,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "도서/오브젝트/Chapter/10. 상속과 코드 재사용.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "도서/오브젝트/Chapter/10. 상속과 코드 재사용.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "도서/오브젝트/Chapter/10. 상속과 코드 재사용.md"
+                "file": "README.md"
               }
             }
           },
@@ -205,7 +174,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -221,34 +191,36 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "0c093c409202933a",
+  "active": "d2a84bce7af90502",
   "lastOpenFiles": [
-    "도서/오브젝트/Chapter/9. 유연한 설계.md",
-    "도서/오브젝트/Chapter/10. 상속과 코드 재사용.md",
-    "도서/오브젝트/README.md",
-    "옵시디언 플러그인/마크다운 문법.md",
-    "study/알고리즘/인프런/코딩 테스트 문제 모음.md",
-    "TODO/멘토링 준비.md",
-    "TODO/FAM 프로젝트.md",
-    "TODO/최종.md",
-    "TODO/함수형과 객체지향을 이용한 프로젝트.md",
-    "TODO/TDD프로젝트.md",
-    "TODO/Todo.md",
-    "study/오픈소스/오픈소스.md",
-    "study/알고리즘/시물레이션(Simulation).md",
+    "Redis/README.md",
     "README.md",
-    "private/Article/CleanCode/클린 코드.md",
-    "private/Article/JavaScript/이벤트 루프.md",
-    "Experience/PreOnBoarding/Frontend/private/README.md",
-    "Experience/PreOnBoarding/Frontend/private/2-2 주차.md",
-    "Experience/PreOnBoarding/Frontend/private/2-1 주차.md",
-    "Experience/PreOnBoarding/Frontend/private/1-2 주차.md",
-    "Experience/PreOnBoarding/Frontend/private/1-1 주차.md",
-    "private/Article/JavaScript/Javascript sort는 어떤 정렬 알고리즘을 사용할까?.md",
-    "private/Article/Database/MVCC.md",
-    "study/알고리즘/인프런/조합과순열.md",
-    "study/알고리즘/인프런/그리디 알고리즘.md",
-    "study/알고리즘/인프런/다이나믹 프로그래밍(DP).md",
+    "private/Article/Redis/Redis Transactions.md",
+    "private/Article/Redis/Redis Streams.md",
+    "private/Article/Redis/Redis Pub-Sub.md",
+    "TODO/Todo.md",
+    "private/Article/JavaScript/Promise.md",
+    "Experience/PreOnBoarding/Frontend/README.md",
+    "도서/모던 자바스크립트 딥다이브(Javascript DeepDive)/README.md",
+    "private/Article/NestJS/QueryBuilder type-safe.md",
+    "Quizly/Promise.md",
+    "study/TDD/Jest.md",
+    "study/Javascript/Javascript.md",
+    "TODO/링크모드.md",
+    "도서/모던 자바스크립트 딥다이브(Javascript DeepDive)/Chapter/46. 제너레이터와 async+await.md",
+    "Redis/Redis.md",
+    "Redis/캐싱 전략(Caching Strategies).md",
+    "private/Article/Database/파티셔닝, 샤딩, 레플리케이션.md",
+    "private/Article/Database/데이터베이스 Replication(레플리케이션).md",
+    "private/Article/Database/PostgreSQL에서 메세지큐 사용.md",
+    "private/Article/Redis",
+    "운영체제/PCB(Process Control Block)란.md",
+    "운영체제/커널모드와 사용자모드.md",
+    "study/Database/Redis/개발자를 위한 레디스/개발자를 위한 레디스.md",
+    "Redis",
+    "study/Database/Redis/Redis.md",
+    "study/Database/Redis/개발자를 위한 레디스/Chapter/3. 레디스 기본 개념.md",
+    "study/Database/SQL/EXISTS와 IN 차이점.md",
     "Experience/PreOnBoarding/Frontend/images/image01.jpg",
     "Experience/PreOnBoarding/Frontend/images",
     "Experience/PreOnBoarding/Frontend",
@@ -263,9 +235,7 @@
     "Experience/PreOnBoarding/Backend/images/image01.jpg",
     "Experience/PreOnBoarding/Frontend/private",
     "private/Article/Database",
-    "Experience/PreOnBoarding/Backend/private",
     "images/Pasted image 20240907230318.png",
-    "private/Article/CS",
     "Lecture/코드팩토리Typescript/images/image03.png",
     "Lecture/코드팩토리Typescript/images/image04.png",
     "Lecture/코드팩토리Typescript/images/image05.png",

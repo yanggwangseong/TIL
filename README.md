@@ -1,5 +1,16 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/yanggwangseong/TIL&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 [![Blog](https://img.shields.io/badge/Blog-threeyears.tistory.com-blue)](https://threeyears.tistory.com/)
+
+# Study
+
+[![Redis 클릭](https://img.shields.io/badge/Redis-README이동-gray?logo=redis&logoColor=white&labelColor=DC382D&style=plastic)](https://example.com)
+***
+[![JavaScript](https://img.shields.io/badge/JavaScript-README이동-gray?logo=javascript&logoColor=white&labelColor=F7DF1E&style=plastic)](https://example.com)
+***
+[![TypeScript](https://img.shields.io/badge/TypeScript-README이동-gray?logo=typescript&logoColor=white&labelColor=3178C6&style=plastic)](https://example.com)
+***
+[![MySQL](https://img.shields.io/badge/MySQL-README이동-gray?logo=mysql&logoColor=white&labelColor=4479A1&style=plastic)](https://example.com)
+
 # Book
 - [객체지향의 사실과 오해](https://github.com/yanggwangseong/TIL/tree/main/%EB%8F%84%EC%84%9C/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%EC%9D%98%20%EC%82%AC%EC%8B%A4%EA%B3%BC%20%EC%98%A4%ED%95%B4) 
 - [오브젝트](https://github.com/yanggwangseong/TIL/tree/main/%EB%8F%84%EC%84%9C/%EC%98%A4%EB%B8%8C%EC%A0%9D%ED%8A%B8)
