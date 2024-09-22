@@ -11,6 +11,7 @@
 - [코드팩토리-TS](https://github.com/yanggwangseong/TIL/tree/main/Lecture/%EC%BD%94%EB%93%9C%ED%8C%A9%ED%86%A0%EB%A6%ACTypescript)  
 # Experience
 - [PRE-ONBOARDING 23차 BACKEND](https://github.com/yanggwangseong/TIL/tree/main/Experience/PreOnBoarding/Backend)
+- [PRE-ONBOARDING 25차 FRONTEND](https://github.com/yanggwangseong/TIL/blob/main/Experience/PreOnBoarding/Frontend/README.md) 
 # Article
 - 20240509 - react에서 string text에 html 태그를 넣는 방법
 - 20240510 - js split메서드와 splice메서드로 배열 범위값 reverse 백준10811
