@@ -4,49 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "7b8d3d097176e61a",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "de2c5bd9dc154c33",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "도서/오브젝트/Chapter/10. 상속과 코드 재사용.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4b36096d34b0e6cd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d227ad5227e23503",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "도서/오브젝트/README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
         "id": "b996a00cdef84d39",
         "type": "tabs",
         "children": [
@@ -56,26 +13,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "옵시디언 플러그인/옵시디언 플러그인.md",
+                "file": "Redis/캐싱 전략(Caching Strategies).md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "0f07c3035eb0ac22",
+            "id": "7c4b664385a39048",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "옵시디언 플러그인/마크다운 문법.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -172,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Redis/캐싱 전략(Caching Strategies).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Redis/캐싱 전략(Caching Strategies).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Redis/캐싱 전략(Caching Strategies).md"
               }
             }
           },
@@ -234,12 +190,28 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "4b36096d34b0e6cd",
+  "active": "94c3a97ddda42d91",
   "lastOpenFiles": [
+    "README.md",
+    "Redis/캐싱 전략(Caching Strategies).md",
+    "Redis/images/image03.png",
+    "study/알고리즘/인프런/코딩 테스트 문제 모음.md",
+    "Excalidraw/Drawing 2024-09-22 23.11.29.excalidraw.md",
+    "images/Pasted image 20240922231530.png",
+    "images/Pasted image 20240922231530.png.sb-bdf6e264-CDX94I",
+    "images/Pasted Image 20240922231252_996.png",
+    "images/Pasted Image 20240922231237_983.png",
+    "images/Pasted Image 20240922231144_947.png",
+    "images/Pasted image 20240922225500.png",
+    "Nest.js/Nestjs 공부.md",
+    "Nest.js/README.md",
+    "Nest.js/Repository.md",
+    "옵시디언 플러그인/옵시디언 플러그인.md",
+    "private/Article/Database/transaction Isolation level.md",
+    "study/알고리즘/인프런/파이썬 코테 풀기.md",
     "도서/오브젝트/Chapter/10. 상속과 코드 재사용.md",
     "도서/오브젝트/Chapter/11. 합성과 유연한 설계.md",
     "옵시디언 플러그인/마크다운 문법.md",
-    "옵시디언 플러그인/옵시디언 플러그인.md",
     "도서/오브젝트/README.md",
     "도서/오브젝트/images/image07.png",
     "images/Pasted image 20240922182917.png",
@@ -256,32 +228,16 @@
     "TODO/멘토링 준비.md",
     "TODO/TDD프로젝트.md",
     "TODO/Todo.md",
-    "Redis/캐싱 전략(Caching Strategies).md",
     "Redis/images/image02.png",
-    "study/Javascript/⭐이벤트 루프(Event loop).md",
-    "Redis/images/image01.png",
     "Redis/images",
-    "Redis/무제 파일.md",
-    "Redis/README.md",
-    "Caching.md",
-    "Redis/Redis.md",
-    "Lecture/코드팩토리Typescript/README.md",
-    "study/Database/Redis/개발자를 위한 레디스/개발자를 위한 레디스.md",
-    "study/Database/Redis/개발자를 위한 레디스/Chapter/3. 레디스 기본 개념.md",
     "private/Article/Redis",
     "Redis",
-    "Experience/PreOnBoarding/Frontend/images/image01.jpg",
     "Experience/PreOnBoarding/Frontend/images",
     "Experience/PreOnBoarding/Frontend",
-    "Lecture/코드팩토리Typescript/images/image06.png",
-    "Lecture/코드팩토리Typescript/images/image07.png",
-    "Lecture/코드팩토리Typescript/images/image08.png",
     "Quizly/객체지향/팩토리패턴 이란?",
     "Experience/PreOnBoarding",
     "Experience",
-    "Experience/PreOnBoarding/Backend/images",
     "private/PreOnBoarding/AWS/무제 파일.canvas",
-    "Experience/PreOnBoarding/Backend/images/image01.jpg",
     "Excalidraw/무제 파일.canvas",
     "Quizly/Typescript/question05/무제 파일.canvas",
     "무제 파일.canvas",

@@ -12,7 +12,9 @@
 ## Technology
 [![JavaScript](https://img.shields.io/badge/JavaScript-README이동-gray?logo=javascript&logoColor=white&labelColor=F7DF1E&style=plastic)](https://github.com/yanggwangseong/TIL/blob/main/Javascript/README.md) 
 [![TypeScript](https://img.shields.io/badge/TypeScript-README이동-gray?logo=typescript&logoColor=white&labelColor=3178C6&style=plastic)](https://github.com/yanggwangseong/TIL/blob/main/TypeScript/README.md) 
-[![NestJS](https://img.shields.io/badge/NestJS-README이동-gray?logo=nestjs&logoColor=white&labelColor=E0234E&style=plastic)](https://github.com/yanggwangseong/TIL/blob/main/NestJS/README.md)
+[![NestJS](https://img.shields.io/badge/NestJS-README이동-gray?logo=nestjs&logoColor=white&labelColor=E0234E&style=plastic)](https://github.com/yanggwangseong/TIL/blob/main/NestJS/README.md) 
+[![OOP(Object-Oriented Programming)](https://img.shields.io/badge/OOP(ObjectOrientedProgramming)-README이동-gray?logo=coop&logoColor=white&labelColor=00B1E7&style=plastic)](https://github.com/yanggwangseong/TIL/blob/main/OOP/README.md) 
+[![FP](https://img.shields.io/badge/FP(FunctionalProgramming)-README이동-gray?logo=haskell&logoColor=white&labelColor=5D4F85&style=plastic)](https://github.com/yanggwangseong/TIL/blob/main/FP/README.md)
 
 # Book
 - [객체지향의 사실과 오해](https://github.com/yanggwangseong/TIL/tree/main/%EB%8F%84%EC%84%9C/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%EC%9D%98%20%EC%82%AC%EC%8B%A4%EA%B3%BC%20%EC%98%A4%ED%95%B4) 
@@ -88,6 +90,7 @@
 - 20240912 - [dotenv 호출시 같은 환경변수명의 값을 변경시에 발생하는 문제](https://threeyears.tistory.com/617) 
 - 20240914 - [react-query useMutation 커스텀훅으로 재사용하기](https://threeyears.tistory.com/618) 
 - 20240919 - [react-query useQuery 커스텀훅으로 재사용하기](https://threeyears.tistory.com/620) 
+- 20240923 - [NestJS에서 Redis를 활용한 좋아요 성능 개선](https://threeyears.tistory.com/621) 
 
 
 
