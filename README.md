@@ -1,25 +1,18 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/yanggwangseong/TIL&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 [![Blog](https://img.shields.io/badge/Blog-threeyears.tistory.com-blue)](https://threeyears.tistory.com/)
-
 # Study
-
 ## CS (Computer Science)
-[![Operating System](https://img.shields.io/badge/Operating%20System-README이동-gray?logo=linux&logoColor=white&labelColor=FCC624&style=plastic)](https://example.com) 
-[![Network](https://img.shields.io/badge/Network-README이동-gray?logo=countingworkspro&logoColor=white&labelColor=2E3084&style=plastic)](https://example.com) 
-[![Data Structure](https://img.shields.io/badge/Data%20Structure-README이동-gray?logo=databricks&logoColor=white&labelColor=FF3621&style=plastic)](https://example.com) 
-[![Algorithm](https://img.shields.io/badge/Algorithm-README이동-gray?logo=thealgorithms&logoColor=white&labelColor=00BCB4&style=plastic)](https://example.com)
-
-<hr>
+[![Operating System](https://img.shields.io/badge/Operating%20System-README이동-gray?logo=linux&logoColor=white&labelColor=FCC624&style=plastic)](https://github.com/yanggwangseong/TIL/blob/main/OperatingSystem/README.md) 
+[![Network](https://img.shields.io/badge/Network-README이동-gray?logo=countingworkspro&logoColor=white&labelColor=2E3084&style=plastic)](https://github.com/yanggwangseong/TIL/blob/main/Network/README.md) 
+[![Data Structure](https://img.shields.io/badge/Data%20Structure-README이동-gray?logo=databricks&logoColor=white&labelColor=FF3621&style=plastic)](https://github.com/yanggwangseong/TIL/blob/main/DataStructure/README.md) 
+[![Algorithm](https://img.shields.io/badge/Algorithm-README이동-gray?logo=thealgorithms&logoColor=white&labelColor=00BCB4&style=plastic)](https://github.com/yanggwangseong/TIL/blob/main/Algorithm/README.md)
 ## DataBase
-[![MySQL](https://img.shields.io/badge/MySQL-README이동-gray?logo=mysql&logoColor=white&labelColor=4479A1&style=plastic)](https://example.com) 
-[![Redis 클릭](https://img.shields.io/badge/Redis-README이동-gray?logo=redis&logoColor=white&labelColor=DC382D&style=plastic)](https://github.com/yanggwangseong/TIL/blob/main/Redis/README.md) 
-
-<hr>
-
+[![MySQL](https://img.shields.io/badge/MySQL-README이동-gray?logo=mysql&logoColor=white&labelColor=4479A1&style=plastic)](https://github.com/yanggwangseong/TIL/blob/main/MySql/README.md)
+[![Redis 클릭](https://img.shields.io/badge/Redis-README이동-gray?logo=redis&logoColor=white&labelColor=DC382D&style=plastic)](https://github.com/yanggwangseong/TIL/blob/main/Redis/README.md)  
 ## Technology
-[![JavaScript](https://img.shields.io/badge/JavaScript-README이동-gray?logo=javascript&logoColor=white&labelColor=F7DF1E&style=plastic)](https://example.com) 
-[![TypeScript](https://img.shields.io/badge/TypeScript-README이동-gray?logo=typescript&logoColor=white&labelColor=3178C6&style=plastic)](https://example.com) 
-[![NestJS](https://img.shields.io/badge/NestJS-README이동-gray?logo=nestjs&logoColor=white&labelColor=E0234E&style=plastic)](https://example.com)
+[![JavaScript](https://img.shields.io/badge/JavaScript-README이동-gray?logo=javascript&logoColor=white&labelColor=F7DF1E&style=plastic)](https://github.com/yanggwangseong/TIL/blob/main/Javascript/README.md) 
+[![TypeScript](https://img.shields.io/badge/TypeScript-README이동-gray?logo=typescript&logoColor=white&labelColor=3178C6&style=plastic)](https://github.com/yanggwangseong/TIL/blob/main/TypeScript/README.md) 
+[![NestJS](https://img.shields.io/badge/NestJS-README이동-gray?logo=nestjs&logoColor=white&labelColor=E0234E&style=plastic)](https://github.com/yanggwangseong/TIL/blob/main/NestJS/README.md)
 
 # Book
 - [객체지향의 사실과 오해](https://github.com/yanggwangseong/TIL/tree/main/%EB%8F%84%EC%84%9C/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%EC%9D%98%20%EC%82%AC%EC%8B%A4%EA%B3%BC%20%EC%98%A4%ED%95%B4) 
