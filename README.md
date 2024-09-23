@@ -2,23 +2,23 @@
 [![Blog](https://img.shields.io/badge/Blog-threeyears.tistory.com-blue)](https://threeyears.tistory.com/)
 
 # Study
-## CS (computer science)
-[![Operating System](https://img.shields.io/badge/Operating%20System-README이동-gray?logo=linux&logoColor=white&labelColor=FCC624&style=plastic)](https://example.com)
-***
-[![Network](https://img.shields.io/badge/Network-README이동-gray?logo=countingworkspro&logoColor=white&labelColor=2E3084&style=plastic)](https://example.com)
-***
-[![Data Structure](https://img.shields.io/badge/Data%20Structure-README이동-gray?logo=databricks&logoColor=white&labelColor=FF3621&style=plastic)](https://example.com)
-***
+
+## CS (Computer Science)
+[![Operating System](https://img.shields.io/badge/Operating%20System-README이동-gray?logo=linux&logoColor=white&labelColor=FCC624&style=plastic)](https://example.com) 
+[![Network](https://img.shields.io/badge/Network-README이동-gray?logo=countingworkspro&logoColor=white&labelColor=2E3084&style=plastic)](https://example.com) 
+[![Data Structure](https://img.shields.io/badge/Data%20Structure-README이동-gray?logo=databricks&logoColor=white&labelColor=FF3621&style=plastic)](https://example.com) 
 [![Algorithm](https://img.shields.io/badge/Algorithm-README이동-gray?logo=thealgorithms&logoColor=white&labelColor=00BCB4&style=plastic)](https://example.com)
+
+<hr>
 ## DataBase
-[![MySQL](https://img.shields.io/badge/MySQL-README이동-gray?logo=mysql&logoColor=white&labelColor=4479A1&style=plastic)](https://example.com)
-***
+[![MySQL](https://img.shields.io/badge/MySQL-README이동-gray?logo=mysql&logoColor=white&labelColor=4479A1&style=plastic)](https://example.com) 
 [![Redis 클릭](https://img.shields.io/badge/Redis-README이동-gray?logo=redis&logoColor=white&labelColor=DC382D&style=plastic)](https://github.com/yanggwangseong/TIL/blob/main/Redis/README.md) 
+
+<hr>
+
 ## Technology
-[![JavaScript](https://img.shields.io/badge/JavaScript-README이동-gray?logo=javascript&logoColor=white&labelColor=F7DF1E&style=plastic)](https://example.com)
-***
-[![TypeScript](https://img.shields.io/badge/TypeScript-README이동-gray?logo=typescript&logoColor=white&labelColor=3178C6&style=plastic)](https://example.com)
-***
+[![JavaScript](https://img.shields.io/badge/JavaScript-README이동-gray?logo=javascript&logoColor=white&labelColor=F7DF1E&style=plastic)](https://example.com) 
+[![TypeScript](https://img.shields.io/badge/TypeScript-README이동-gray?logo=typescript&logoColor=white&labelColor=3178C6&style=plastic)](https://example.com) 
 [![NestJS](https://img.shields.io/badge/NestJS-README이동-gray?logo=nestjs&logoColor=white&labelColor=E0234E&style=plastic)](https://example.com)
 
 # Book

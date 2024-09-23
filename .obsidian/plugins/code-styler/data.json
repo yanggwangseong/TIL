@@ -315,10 +315,10 @@
           "textItalic": false
         },
         "languageTag": {
-          "display": "none",
+          "display": "always",
           "textFont": "",
           "textBold": true,
-          "textItalic": false
+          "textItalic": true
         },
         "languageIcon": {
           "display": "always",
@@ -351,7 +351,7 @@
         "gradientHighlightsColourStop": "70%",
         "languageBorderColour": true,
         "languageBorderWidth": 5,
-        "iconSize": 23
+        "iconSize": 24
       }
     },
     "colours": {
@@ -411,7 +411,7 @@
           "activeTextColour": "--text-muted"
         },
         "header": {
-          "backgroundColour": "#FFFFFF00",
+          "backgroundColour": "#FFFFFF47",
           "title": {
             "textColour": "#000000"
           },
