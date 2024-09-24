@@ -1,3 +1,4 @@
+#Redis/caching-strategy-캐싱전략
 # 캐싱 전략(Caching Strategies)
 - 레디스를 어떻게 배치하냐에 따라 시스템 전체 성능에 큰 영향을 끼친다.
 - 레디스를 어디에 어떻게 배치할 지에 대한 전략을 세우야 하는데 이를 캐싱전략(Caching Strategies)이라고 한다.
@@ -21,6 +22,7 @@
 		- 그래서 데이터베이스에서 cache로 데이터를 밀어주는 작업을 통해서 해결 할 수 있다 이를 `Cache Warming` 이라고 한다.
 			- Ex) `NHN의 티켓링크` 에서는 상품 오픈 전 상품의 정보를 미리 DB에서 캐시로 올려주는 작업(`Cache Warming)` 을 매번 하고 있다.
 
+#Redis/cache-warming
 ##### 활용 사례
 - 자주 변경 되지 않는 데이터
 - 데이터 접근 패턴이 예측 불가능한 경우

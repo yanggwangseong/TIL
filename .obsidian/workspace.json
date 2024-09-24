@@ -4,28 +4,71 @@
     "type": "split",
     "children": [
       {
-        "id": "b996a00cdef84d39",
+        "id": "1daa114fe6ca20d8",
         "type": "tabs",
         "children": [
           {
-            "id": "94c3a97ddda42d91",
+            "id": "eebe1020b0cb5bf9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Redis/캐싱 전략(Caching Strategies).md",
+                "file": "도서/오브젝트/Chapter/10. 상속과 코드 재사용.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "7c4b664385a39048",
+            "id": "db8374c2ad2f1245",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "도서/오브젝트/Chapter/11. 합성과 유연한 설계.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ccfafa2739e5862f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "도서/오브젝트/README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "7ab64f8ff0663bbd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6aadb795114e6c34",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "옵시디언 플러그인/옵시디언 플러그인.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2e3cb57adfafea9a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "옵시디언 플러그인/마크다운 문법.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +144,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329
+    "width": 329,
+    "collapsed": true
   },
   "right": {
     "id": "4f48e1273ca3d00f",
@@ -128,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Redis/캐싱 전략(Caching Strategies).md",
+                "file": "도서/오브젝트/Chapter/11. 합성과 유연한 설계.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +189,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Redis/캐싱 전략(Caching Strategies).md",
+                "file": "도서/오브젝트/Chapter/11. 합성과 유연한 설계.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +201,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Redis/캐싱 전략(Caching Strategies).md"
+                "file": "도서/오브젝트/Chapter/11. 합성과 유연한 설계.md"
               }
             }
           },
@@ -190,45 +234,46 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "94c3a97ddda42d91",
+  "active": "db8374c2ad2f1245",
   "lastOpenFiles": [
+    "도서/오브젝트/Chapter/10. 상속과 코드 재사용.md",
+    "도서/오브젝트/README.md",
+    "도서/오브젝트/Chapter/11. 합성과 유연한 설계.md",
+    "도서/오브젝트/images/image10.png",
+    "도서/오브젝트/images/image09.png",
+    "옵시디언 플러그인/옵시디언 플러그인.md",
+    "도서/오브젝트/images/image08.png",
+    "옵시디언 플러그인/마크다운 문법.md",
     "README.md",
     "Redis/캐싱 전략(Caching Strategies).md",
+    "private/Article/Database/transaction Isolation level.md",
+    "Redis/README.md",
+    "Redis/Redis.md",
+    "private/Article/Database/파티셔닝, 샤딩, 레플리케이션.md",
+    "private/Article/Infra/Zero Downtime Deployment.md",
+    "private/Article/NestJS/Architecture/Layered Architecture.md",
+    "private/Article/NestJS/Architecture",
+    "private/Article/NestJS/N + 1문제.md",
+    "private/Article/NestJS/QueryBuilder type-safe.md",
+    "private/Article/NestJS/SOLID.md",
+    "private/Article/Network/실시간 통신.md",
+    "private/Article/Network/Pub-Sub란.md",
+    "private/Article/Network/REST API 이해.md",
+    "private/Article/Typescript/Type과 interface.md",
+    "private/Article/Typescript/Typescript 이해하기.md",
+    "private/Article/Typescript/Typescript에서 Enum.md",
+    "private/Article/Redis/Redis Pub-Sub.md",
+    "private/Article/Redis/Redis Streams.md",
+    "private/Article/Redis/Redis Transactions.md",
     "Redis/images/image03.png",
-    "study/알고리즘/인프런/코딩 테스트 문제 모음.md",
-    "Excalidraw/Drawing 2024-09-22 23.11.29.excalidraw.md",
     "images/Pasted image 20240922231530.png",
     "images/Pasted image 20240922231530.png.sb-bdf6e264-CDX94I",
     "images/Pasted Image 20240922231252_996.png",
     "images/Pasted Image 20240922231237_983.png",
     "images/Pasted Image 20240922231144_947.png",
     "images/Pasted image 20240922225500.png",
-    "Nest.js/Nestjs 공부.md",
-    "Nest.js/README.md",
-    "Nest.js/Repository.md",
-    "옵시디언 플러그인/옵시디언 플러그인.md",
-    "private/Article/Database/transaction Isolation level.md",
-    "study/알고리즘/인프런/파이썬 코테 풀기.md",
-    "도서/오브젝트/Chapter/10. 상속과 코드 재사용.md",
-    "도서/오브젝트/Chapter/11. 합성과 유연한 설계.md",
-    "옵시디언 플러그인/마크다운 문법.md",
-    "도서/오브젝트/README.md",
     "도서/오브젝트/images/image07.png",
-    "images/Pasted image 20240922182917.png",
-    "도서/오브젝트/Chapter/2. 객체지향 프로그래밍.md",
-    "도서/오브젝트/Chapter/8. 의존성 관리하기.md",
-    "study/객체지향프로그래밍(OOP)/객체지향프로그래밍(OOP).md",
-    "study/오픈소스/오픈소스.md",
-    "Excalidraw/블로그아이디어.md",
-    "TODO/학습 목표.md",
-    "Excalidraw/Nestia 활용법에 대한 생각.md",
-    "private/Article/DesignPattern/Observer 패턴.md",
     "private/Article/DesignPattern",
-    "images/bublesortimg.gif",
-    "TODO/멘토링 준비.md",
-    "TODO/TDD프로젝트.md",
-    "TODO/Todo.md",
-    "Redis/images/image02.png",
     "Redis/images",
     "private/Article/Redis",
     "Redis",
@@ -236,7 +281,6 @@
     "Experience/PreOnBoarding/Frontend",
     "Quizly/객체지향/팩토리패턴 이란?",
     "Experience/PreOnBoarding",
-    "Experience",
     "private/PreOnBoarding/AWS/무제 파일.canvas",
     "Excalidraw/무제 파일.canvas",
     "Quizly/Typescript/question05/무제 파일.canvas",
