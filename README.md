@@ -91,6 +91,9 @@
 - 20240914 - [react-query useMutation 커스텀훅으로 재사용하기](https://threeyears.tistory.com/618) 
 - 20240919 - [react-query useQuery 커스텀훅으로 재사용하기](https://threeyears.tistory.com/620) 
 - 20240923 - [NestJS에서 Redis를 활용한 좋아요 성능 개선](https://threeyears.tistory.com/621) 
+- 20240924- [Docker Desktop에서 redis 접속](https://threeyears.tistory.com/625) 
+
+
 
 
 
