@@ -13,38 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "도서/오브젝트/Chapter/10. 상속과 코드 재사용.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "db8374c2ad2f1245",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "도서/오브젝트/Chapter/11. 합성과 유연한 설계.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ccfafa2739e5862f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "도서/오브젝트/README.md",
+                "file": "Typescript/Typescript에서 bigint 타입과 백틱.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "7ab64f8ff0663bbd",
@@ -103,7 +78,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#객체지향/composition-합성",
+                "query": "nestia",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -144,8 +119,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329,
-    "collapsed": true
+    "width": 329
   },
   "right": {
     "id": "4f48e1273ca3d00f",
@@ -172,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "도서/오브젝트/Chapter/11. 합성과 유연한 설계.md",
+                "file": "Typescript/Typescript에서 bigint 타입과 백틱.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "도서/오브젝트/Chapter/11. 합성과 유연한 설계.md",
+                "file": "Typescript/Typescript에서 bigint 타입과 백틱.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "도서/오브젝트/Chapter/11. 합성과 유연한 설계.md"
+                "file": "Typescript/Typescript에서 bigint 타입과 백틱.md"
               }
             }
           },
@@ -234,37 +208,40 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "db8374c2ad2f1245",
+  "active": "eebe1020b0cb5bf9",
   "lastOpenFiles": [
+    "옵시디언 플러그인/옵시디언 플러그인.md",
+    "Typescript/Typescript에서 bigint 타입과 백틱.md",
+    "Typescript/as unknown as.md",
+    "Typescript/Type Assertion 과 Type Casting.md",
+    "private/Article/NestJS/Nestia/Nestia의 발전 가능성과 미래.md",
+    "private/Article/NestJS/Nestia/Nestia 활용법에 대한 생각.md",
+    "private/Article/NestJS/Nestia",
+    "private/Article/NestJS/Architecture/Layered Architecture.md",
+    "private/Article/NestJS/Circuit-Breaker(서킷 브레이커).md",
+    "private/Article/NestJS/SOLID.md",
+    "private/Article/NestJS/QueryBuilder type-safe.md",
+    "private/Article/NestJS/N + 1문제.md",
+    "private/Article/NestJS/DI.md",
+    "README.md",
+    "옵시디언 플러그인/마크다운 문법.md",
+    "private/Article/Oop/객체지향 공부를 한 후 보이는 중복 class 문제들.md",
+    "private/Article/Oop/README.md",
     "도서/오브젝트/Chapter/10. 상속과 코드 재사용.md",
-    "도서/오브젝트/README.md",
+    "private/Article/Oop",
+    "private/Article/Typescript/Typescript에서 Enum.md",
+    "Redis/캐싱 전략(Caching Strategies).md",
+    "TODO/최종.md",
+    "TODO/학습 목표.md",
+    "TODO/함수형과 객체지향을 이용한 프로젝트.md",
+    "TODO/FAM 프로젝트.md",
+    "TODO/TDD프로젝트.md",
+    "TODO/Todo.md",
     "도서/오브젝트/Chapter/11. 합성과 유연한 설계.md",
     "도서/오브젝트/images/image10.png",
     "도서/오브젝트/images/image09.png",
-    "옵시디언 플러그인/옵시디언 플러그인.md",
     "도서/오브젝트/images/image08.png",
-    "옵시디언 플러그인/마크다운 문법.md",
-    "README.md",
-    "Redis/캐싱 전략(Caching Strategies).md",
-    "private/Article/Database/transaction Isolation level.md",
-    "Redis/README.md",
-    "Redis/Redis.md",
-    "private/Article/Database/파티셔닝, 샤딩, 레플리케이션.md",
-    "private/Article/Infra/Zero Downtime Deployment.md",
-    "private/Article/NestJS/Architecture/Layered Architecture.md",
     "private/Article/NestJS/Architecture",
-    "private/Article/NestJS/N + 1문제.md",
-    "private/Article/NestJS/QueryBuilder type-safe.md",
-    "private/Article/NestJS/SOLID.md",
-    "private/Article/Network/실시간 통신.md",
-    "private/Article/Network/Pub-Sub란.md",
-    "private/Article/Network/REST API 이해.md",
-    "private/Article/Typescript/Type과 interface.md",
-    "private/Article/Typescript/Typescript 이해하기.md",
-    "private/Article/Typescript/Typescript에서 Enum.md",
-    "private/Article/Redis/Redis Pub-Sub.md",
-    "private/Article/Redis/Redis Streams.md",
-    "private/Article/Redis/Redis Transactions.md",
     "Redis/images/image03.png",
     "images/Pasted image 20240922231530.png",
     "images/Pasted image 20240922231530.png.sb-bdf6e264-CDX94I",
@@ -279,8 +256,6 @@
     "Redis",
     "Experience/PreOnBoarding/Frontend/images",
     "Experience/PreOnBoarding/Frontend",
-    "Quizly/객체지향/팩토리패턴 이란?",
-    "Experience/PreOnBoarding",
     "private/PreOnBoarding/AWS/무제 파일.canvas",
     "Excalidraw/무제 파일.canvas",
     "Quizly/Typescript/question05/무제 파일.canvas",
