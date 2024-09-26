@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "217e6f02a06063b9",
+            "id": "6b53d820026b7c21",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "도서/오브젝트/Chapter/11. 합성과 유연한 설계.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c0f502c63cd4342d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "도서/오브젝트/README.md",
+                "file": "도서/오브젝트/Chapter/12. 다형성.md",
                 "mode": "source",
                 "source": false
               }
@@ -38,6 +26,18 @@
               "type": "markdown",
               "state": {
                 "file": "옵시디언 플러그인/마크다운 문법.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "97949aacce3793b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "도서/오브젝트/README.md",
                 "mode": "source",
                 "source": false
               }
@@ -72,7 +72,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "이터러블 Vs",
+                "query": "class Movie",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -140,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "도서/오브젝트/Chapter/11. 합성과 유연한 설계.md",
+                "file": "도서/오브젝트/Chapter/12. 다형성.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "도서/오브젝트/Chapter/11. 합성과 유연한 설계.md",
+                "file": "도서/오브젝트/Chapter/12. 다형성.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "도서/오브젝트/Chapter/11. 합성과 유연한 설계.md"
+                "file": "도서/오브젝트/Chapter/12. 다형성.md"
               }
             }
           },
@@ -202,16 +202,21 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "217e6f02a06063b9",
+  "active": "6b53d820026b7c21",
   "lastOpenFiles": [
-    "OOP/private/상속 합성 믹스인.md",
+    "옵시디언 플러그인/마크다운 문법.md",
+    "도서/오브젝트/Chapter/12. 다형성.md",
+    "도서/오브젝트/README.md",
+    "도서/오브젝트/Chapter/2. 객체지향 프로그래밍.md",
     "도서/오브젝트/Chapter/11. 합성과 유연한 설계.md",
+    "private/Article/Redis/private/Redis 싱글 스레드 동작으로 주의사항.md",
+    "private/Article/Redis/private",
+    "도서/오브젝트/images/image18.png",
+    "OOP/private/상속 합성 믹스인.md",
     "TODO/멘토링 준비.md",
     "TODO/최종.md",
     "TODO/학습 목표.md",
     "TODO/Todo.md",
-    "도서/오브젝트/README.md",
-    "옵시디언 플러그인/마크다운 문법.md",
     "Typescript/private/reflector-metadata.md",
     "Typescript/private",
     "OOP/README.md",
@@ -232,9 +237,6 @@
     "private/Article/JavaScript/Promise.md",
     "study/알고리즘/인프런/파이썬 코테 풀기.md",
     "Quizly/이터레이터와 제너레이터의 차이.md",
-    "private/Article/Database/파티셔닝, 샤딩, 레플리케이션.md",
-    "Quizly/비동기처리 콜백패턴 에러처리.md",
-    "Quizly/Typescript/question01/answer01.md",
     "도서/오브젝트/images/image17.png",
     "도서/오브젝트/images/image16.png",
     "도서/오브젝트/images/image15.png",
@@ -246,10 +248,8 @@
     "images/Pasted image 20240924180452.png",
     "private/Article/NestJS/Nestia",
     "private/Article/Oop",
-    "도서/오브젝트/images/image10.png",
     "private/Article/NestJS/Architecture",
     "images/Pasted image 20240922231530.png.sb-bdf6e264-CDX94I",
-    "private/Article/DesignPattern",
     "private/PreOnBoarding/AWS/무제 파일.canvas",
     "Excalidraw/무제 파일.canvas",
     "Quizly/Typescript/question05/무제 파일.canvas",
