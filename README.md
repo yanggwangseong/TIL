@@ -92,6 +92,7 @@
 - 20240919 - [react-query useQuery 커스텀훅으로 재사용하기](https://threeyears.tistory.com/620) 
 - 20240923 - [NestJS에서 Redis를 활용한 좋아요 성능 개선](https://threeyears.tistory.com/621) 
 - 20240924- [Docker Desktop에서 redis 접속](https://threeyears.tistory.com/625) 
+- 20240925 - [SSE(Server-Sent Event)와 Redis Pub/Sub을 조합하여 실시간 알림 시스템을 구현](https://threeyears.tistory.com/629) 
 
 
 

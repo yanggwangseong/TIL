@@ -127,4 +127,3 @@
 - [NHN Meetup 개발자를 위한 레디스 튜토리얼02](https://meetup.nhncloud.com/posts/225) 
 - [캐시-설계-전략-총정리](https://inpa.tistory.com/entry/REDIS-%F0%9F%93%9A-%EC%BA%90%EC%8B%9CCache-%EC%84%A4%EA%B3%84-%EC%A0%84%EB%9E%B5-%EC%A7%80%EC%B9%A8-%EC%B4%9D%EC%A0%95%EB%A6%AC#%EC%BA%90%EC%8B%9C_%EC%A0%80%EC%9E%A5_%EB%B0%A9%EC%8B%9D_%EC%A7%80%EC%B9%A8) 
 - [금융서비스-redis-적용기](https://medium.com/@hyeongrae/%EA%B8%88%EC%9C%B5%EC%84%9C%EB%B9%84%EC%8A%A4-redis-%EC%A0%81%EC%9A%A9%EA%B8%B0-read-write-transaction-%EA%B3%BC-event-strategy-2b3b3fa9a9f4) 
-
