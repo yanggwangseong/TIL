@@ -4,40 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "5cdf27ecb41d7f22",
+        "id": "2451b9c52e36d9b3",
         "type": "tabs",
         "children": [
           {
-            "id": "6b53d820026b7c21",
+            "id": "09137b1416fe1409",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "도서/오브젝트/Chapter/12. 다형성.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e5dbe625089d707a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "옵시디언 플러그인/마크다운 문법.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "97949aacce3793b8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "도서/오브젝트/README.md",
+                "file": "Quizly/운영체제/interview.md",
                 "mode": "source",
                 "source": false
               }
@@ -140,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "도서/오브젝트/Chapter/12. 다형성.md",
+                "file": "Quizly/운영체제/interview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "도서/오브젝트/Chapter/12. 다형성.md",
+                "file": "Quizly/운영체제/interview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "도서/오브젝트/Chapter/12. 다형성.md"
+                "file": "Quizly/운영체제/interview.md"
               }
             }
           },
@@ -202,11 +178,28 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "6b53d820026b7c21",
+  "active": "09137b1416fe1409",
   "lastOpenFiles": [
+    "private/Article/Database/Database 커넥션 풀의 관리와 최적화.md",
+    "Quizly/운영체제/interview.md",
+    "Quizly/운영체제/운영체제.md",
+    "운영체제/무제 파일.md",
+    "운영체제/PCB(Process Control Block)란.md",
+    "운영체제/커널모드와 사용자모드.md",
+    "study/알고리즘/인프런/코딩 테스트 문제 모음.md",
+    "study/알고리즘/인프런/파이썬 코테 풀기.md",
+    "study/알고리즘/인프런/README.md",
     "옵시디언 플러그인/마크다운 문법.md",
-    "도서/오브젝트/Chapter/12. 다형성.md",
     "도서/오브젝트/README.md",
+    "Quizly/private/README.md",
+    "private/Article/Database/README.md",
+    "Quizly/private",
+    "private/Article/NestJS/N + 1문제.md",
+    "study/알고리즘/인프런/브루트 포스.md",
+    "study/알고리즘/인프런/다이나믹 프로그래밍(DP).md",
+    "study/알고리즘/인프런/그리디 알고리즘.md",
+    "study/객체지향프로그래밍(OOP)/객체지향프로그래밍(OOP).md",
+    "도서/오브젝트/Chapter/12. 다형성.md",
     "도서/오브젝트/Chapter/2. 객체지향 프로그래밍.md",
     "도서/오브젝트/Chapter/11. 합성과 유연한 설계.md",
     "private/Article/Redis/private/Redis 싱글 스레드 동작으로 주의사항.md",
@@ -216,27 +209,11 @@
     "TODO/멘토링 준비.md",
     "TODO/최종.md",
     "TODO/학습 목표.md",
-    "TODO/Todo.md",
-    "Typescript/private/reflector-metadata.md",
     "Typescript/private",
-    "OOP/README.md",
     "OOP/private",
-    "README.md",
     "OOP",
     "무제 폴더",
     "Oop",
-    "private/Article/JavaScript/이벤트 루프.md",
-    "private/Article/Redis/Redis Pub-Sub.md",
-    "private/Article/Redis/Redis Streams.md",
-    "private/Article/Redis/Redis Transactions.md",
-    "private/Article/Network/Pub-Sub란.md",
-    "private/Article/Network/REST API 이해.md",
-    "private/Article/Network/실시간 통신.md",
-    "private/Article/Database/transaction Isolation level.md",
-    "Redis/캐싱 전략(Caching Strategies).md",
-    "private/Article/JavaScript/Promise.md",
-    "study/알고리즘/인프런/파이썬 코테 풀기.md",
-    "Quizly/이터레이터와 제너레이터의 차이.md",
     "도서/오브젝트/images/image17.png",
     "도서/오브젝트/images/image16.png",
     "도서/오브젝트/images/image15.png",
@@ -249,7 +226,6 @@
     "private/Article/NestJS/Nestia",
     "private/Article/Oop",
     "private/Article/NestJS/Architecture",
-    "images/Pasted image 20240922231530.png.sb-bdf6e264-CDX94I",
     "private/PreOnBoarding/AWS/무제 파일.canvas",
     "Excalidraw/무제 파일.canvas",
     "Quizly/Typescript/question05/무제 파일.canvas",
