@@ -50,7 +50,6 @@ new ValidationPipe({
 
 ```
 
-
 - 변경전
 
 ```typescript
@@ -86,9 +85,4 @@ new ValidationPipe({
 	"path": "/api/feeds/3d082f5f-5d9e-4a99-9db0-74eb5858aafb"
 }
 ```
-
-
-
-
-
 
