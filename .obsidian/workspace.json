@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Quizly/운영체제/interview.md",
+                "file": "함수형프로그래밍(FP)/인프런/유인동함수형/함수형프로그래밍1편/함수형으로 전환하기.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0e6ade1ad43e3c0e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TODO/멘토링 준비.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "class Movie",
+                "query": "tag:#Javascript/pure-function-순수함수",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -116,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Quizly/운영체제/interview.md",
+                "file": "함수형프로그래밍(FP)/인프런/유인동함수형/함수형프로그래밍1편/함수형으로 전환하기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Quizly/운영체제/interview.md",
+                "file": "함수형프로그래밍(FP)/인프런/유인동함수형/함수형프로그래밍1편/함수형으로 전환하기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Quizly/운영체제/interview.md"
+                "file": "함수형프로그래밍(FP)/인프런/유인동함수형/함수형프로그래밍1편/함수형으로 전환하기.md"
               }
             }
           },
@@ -161,8 +173,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,14 +191,25 @@
   },
   "active": "09137b1416fe1409",
   "lastOpenFiles": [
-    "private/Article/Database/Database 커넥션 풀의 관리와 최적화.md",
+    "TODO/멘토링 준비.md",
+    "함수형프로그래밍(FP)/인프런/유인동함수형/함수형프로그래밍1편/함수형으로 전환하기.md",
+    "함수형프로그래밍(FP)/인프런/유인동함수형/함수형프로그래밍1편/함수형 프로그래밍 정의, 순수함수.md",
+    "함수형프로그래밍(FP)/인프런/유인동함수형/함수형프로그래밍1편/요즘 개발 이야기, 함수형 프로그래밍 정의.md",
+    "함수형프로그래밍(FP)/인프런/유인동함수형/함수형프로그래밍1편/일급함수, add_maker, 함수로 함수 실행하기.md",
+    "함수형프로그래밍(FP)/함수형 프로그래밍(Functional Programming).md",
+    "도서/오브젝트/Chapter/11. 합성과 유연한 설계.md",
+    "도서/오브젝트/Chapter/12. 다형성.md",
+    "README.md",
+    "OOP/private/상속 합성 믹스인.md",
+    "OOP/README.md",
+    "study/알고리즘/인프런/파이썬 코테 풀기.md",
     "Quizly/운영체제/interview.md",
+    "private/Article/Database/Database 커넥션 풀의 관리와 최적화.md",
     "Quizly/운영체제/운영체제.md",
     "운영체제/무제 파일.md",
     "운영체제/PCB(Process Control Block)란.md",
     "운영체제/커널모드와 사용자모드.md",
     "study/알고리즘/인프런/코딩 테스트 문제 모음.md",
-    "study/알고리즘/인프런/파이썬 코테 풀기.md",
     "study/알고리즘/인프런/README.md",
     "옵시디언 플러그인/마크다운 문법.md",
     "도서/오브젝트/README.md",
@@ -196,19 +218,8 @@
     "Quizly/private",
     "private/Article/NestJS/N + 1문제.md",
     "study/알고리즘/인프런/브루트 포스.md",
-    "study/알고리즘/인프런/다이나믹 프로그래밍(DP).md",
-    "study/알고리즘/인프런/그리디 알고리즘.md",
-    "study/객체지향프로그래밍(OOP)/객체지향프로그래밍(OOP).md",
-    "도서/오브젝트/Chapter/12. 다형성.md",
-    "도서/오브젝트/Chapter/2. 객체지향 프로그래밍.md",
-    "도서/오브젝트/Chapter/11. 합성과 유연한 설계.md",
-    "private/Article/Redis/private/Redis 싱글 스레드 동작으로 주의사항.md",
     "private/Article/Redis/private",
     "도서/오브젝트/images/image18.png",
-    "OOP/private/상속 합성 믹스인.md",
-    "TODO/멘토링 준비.md",
-    "TODO/최종.md",
-    "TODO/학습 목표.md",
     "Typescript/private",
     "OOP/private",
     "OOP",
