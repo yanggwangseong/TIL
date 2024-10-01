@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -141,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "도서/오브젝트/README.md",
+                "file": "도서/오브젝트/Chapter/12. 다형성.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "도서/오브젝트/README.md",
+                "file": "도서/오브젝트/Chapter/12. 다형성.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "도서/오브젝트/README.md"
+                "file": "도서/오브젝트/Chapter/12. 다형성.md"
               }
             }
           },
@@ -203,10 +202,10 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "33be52bbdf4c2db7",
+  "active": "b9fec314c983b208",
   "lastOpenFiles": [
-    "옵시디언 플러그인/마크다운 문법.md",
     "도서/오브젝트/README.md",
+    "옵시디언 플러그인/마크다운 문법.md",
     "도서/오브젝트/Chapter/12. 다형성.md",
     "Experience/PreOnBoarding/Backend/private/1-1 주차.md",
     "Experience/PreOnBoarding/Backend/private/1-2 주차.md",
