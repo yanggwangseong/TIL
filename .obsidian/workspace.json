@@ -13,14 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "도서/오브젝트/Chapter/12. 다형성.md",
+                "file": "도서/오브젝트/Chapter/13. 서브 클래싱과 서브타이핑.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "33be52bbdf4c2db7",
+            "id": "b3bf32b30ab50156",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -31,6 +31,24 @@
               }
             }
           },
+          {
+            "id": "22590f2090072f0c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TODO/멘토링 준비.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "f67162e764025fb8",
+        "type": "tabs",
+        "children": [
           {
             "id": "cc555acd28e3d176",
             "type": "leaf",
@@ -72,7 +90,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "오버로딩",
+                "query": "is-a",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -113,7 +131,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329
+    "width": 329,
+    "collapsed": true
   },
   "right": {
     "id": "4f48e1273ca3d00f",
@@ -140,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "도서/오브젝트/Chapter/12. 다형성.md",
+                "file": "도서/오브젝트/Chapter/13. 서브 클래싱과 서브타이핑.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "도서/오브젝트/Chapter/12. 다형성.md",
+                "file": "도서/오브젝트/Chapter/13. 서브 클래싱과 서브타이핑.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "도서/오브젝트/Chapter/12. 다형성.md"
+                "file": "도서/오브젝트/Chapter/13. 서브 클래싱과 서브타이핑.md"
               }
             }
           },
@@ -204,38 +223,39 @@
   },
   "active": "b9fec314c983b208",
   "lastOpenFiles": [
+    "도서/오브젝트/Chapter/11. 합성과 유연한 설계.md",
+    "도서/오브젝트/Chapter/2. 객체지향 프로그래밍.md",
     "도서/오브젝트/README.md",
+    "도서/오브젝트/Chapter/13. 서브 클래싱과 서브타이핑.md",
     "옵시디언 플러그인/마크다운 문법.md",
+    "TODO/멘토링 준비.md",
+    "도서/오브젝트/images/image20.png",
+    "도서/이펙티브 타입스크립트/Chapter/1. 타입스크립트 알아보기.md",
+    "도서/객체지향의 사실과 오해/Chapter/3. 타입과 추상화.md",
+    "study/오픈소스/오픈소스.md",
+    "private/Article/Database/데이터베이스 정규화.md",
+    "private/Article/Database/데이터베이스 식별자 관계와 비식별자 관계.md",
+    "private/Article/CS/stable sort와 unstable sort.md",
+    "private/Article/CS/동기-비동기 & 블록킹 - 논블록킹.md",
+    "private/Article/CleanCode/클린 코드.md",
+    "OOP/private/상속 합성 믹스인.md",
     "도서/오브젝트/Chapter/12. 다형성.md",
     "Experience/PreOnBoarding/Backend/private/1-1 주차.md",
     "Experience/PreOnBoarding/Backend/private/1-2 주차.md",
     "Experience/PreOnBoarding/Backend/private/2-2 주차.md",
-    "OOP/private/상속 합성 믹스인.md",
     "private/Article/Typescript/Minxin.md",
     "Lecture/코드팩토리Typescript/Chapter/private/OverLoadding.md",
     "private/Article/Database/인덱스(Index).md",
-    "TODO/멘토링 준비.md",
     "TODO/Todo.md",
     "private/Article/Database/README.md",
-    "study/오픈소스/오픈소스.md",
     "TODO/최종.md",
     "TODO/TDD프로젝트.md",
-    "Experience/WarmingUpClub/Cs/README.md",
     "images/Pasted image 20240929174711.png",
     "Experience/WarmingUpClub/Cs",
     "Experience/WarmingUpClub",
-    "private/Article/Nodejs/async local storage.md",
-    "private/Article/Nodejs/async hook.md",
     "private/Article/Nodejs",
-    "Lecture/코드팩토리Typescript/README.md",
-    "Lecture/그림으로쉽게배우는운영체제/README.md",
-    "Excalidraw/다형성.md",
     "Lecture/그림으로쉽게배우는운영체제",
-    "옵시디언 플러그인/옵시디언 플러그인.md",
-    "도서/이펙티브 타입스크립트/Chapter/1. 타입스크립트 알아보기.md",
     "도서/오브젝트/images/image19.png",
-    "TODO/FAM 프로젝트.md",
-    "TODO/함수형과 객체지향을 이용한 프로젝트.md",
     "Quizly/private",
     "private/Article/Redis/private",
     "도서/오브젝트/images/image18.png",
@@ -249,7 +269,6 @@
     "도서/오브젝트/images/image14.png",
     "images/Pasted image 20240924200612.png",
     "도서/오브젝트/images/image13.png",
-    "도서/오브젝트/images/image12.png",
     "private/PreOnBoarding/AWS/무제 파일.canvas",
     "Excalidraw/무제 파일.canvas",
     "Quizly/Typescript/question05/무제 파일.canvas",
