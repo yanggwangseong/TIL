@@ -8,19 +8,43 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b9fec314c983b208",
+            "id": "b3bf32b30ab50156",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "private/Article/Network/Nginx.md",
+                "file": "도서/오브젝트/Chapter/13. 서브 클래싱과 서브타이핑.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "b3bf32b30ab50156",
+            "id": "15e28a41a955cbf7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "도서/오브젝트/Chapter/12. 다형성.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "089aa5340442f1b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "도서/오브젝트/Chapter/11. 합성과 유연한 설계.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "410a08494d5b7979",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,31 +56,18 @@
             }
           },
           {
-            "id": "22590f2090072f0c",
+            "id": "8777eec86a40018e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Quizly/운영체제/interview.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "018d299ba80cc78a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TODO/멘토링 준비.md",
+                "file": "옵시디언 플러그인/마크다운 문법.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -85,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "is-a",
+                "query": "tag:#객체지향/ISP-인터페이스와구현의분리원칙",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -153,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Quizly/운영체제/interview.md",
+                "file": "도서/오브젝트/Chapter/13. 서브 클래싱과 서브타이핑.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Quizly/운영체제/interview.md",
+                "file": "도서/오브젝트/Chapter/13. 서브 클래싱과 서브타이핑.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Quizly/운영체제/interview.md"
+                "file": "도서/오브젝트/Chapter/13. 서브 클래싱과 서브타이핑.md"
               }
             }
           },
@@ -198,8 +209,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -215,35 +225,37 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "22590f2090072f0c",
+  "active": "b3bf32b30ab50156",
   "lastOpenFiles": [
-    "TODO/멘토링 준비.md",
-    "Quizly/운영체제/interview.md",
-    "TODO/Todo.md",
-    "private/Article/Nodejs/V8.md",
-    "private/Article/Nodejs/Worker Threads.md",
-    "private/Article/Nodejs/Streams.md",
-    "private/Article/Nodejs/Event Loop.md",
-    "private/Article/Nodejs/Cluster.md",
-    "도서/오브젝트/README.md",
-    "private/Article/Network/Nginx.md",
-    "도서/오브젝트/Chapter/13. 서브 클래싱과 서브타이핑.md",
+    "도서/오브젝트/Chapter/12. 다형성.md",
     "도서/오브젝트/Chapter/11. 합성과 유연한 설계.md",
-    "도서/오브젝트/Chapter/2. 객체지향 프로그래밍.md",
+    "도서/오브젝트/README.md",
     "옵시디언 플러그인/마크다운 문법.md",
-    "도서/오브젝트/images/image20.png",
-    "도서/이펙티브 타입스크립트/Chapter/1. 타입스크립트 알아보기.md",
-    "도서/객체지향의 사실과 오해/Chapter/3. 타입과 추상화.md",
-    "study/오픈소스/오픈소스.md",
-    "private/Article/Database/데이터베이스 정규화.md",
-    "private/Article/Database/데이터베이스 식별자 관계와 비식별자 관계.md",
+    "도서/오브젝트/Chapter/13. 서브 클래싱과 서브타이핑.md",
+    "도서/오브젝트/Chapter/6. 메세지와 인터페이스.md",
+    "OOP/private/객체지향 업캐스팅과 동적 바인딩.md",
+    "도서/오브젝트/Chapter/2. 객체지향 프로그래밍.md",
+    "도서/오브젝트/images/image21.png",
+    "images/오브젝트 - 17.jpg",
+    "도서/오브젝트/Chapter/9. 유연한 설계.md",
+    "도서/오브젝트/Chapter/10. 상속과 코드 재사용.md",
+    "OOP/private/객체지향 공부를 한 후 보이는 중복 class 문제들.md",
+    "OOP/private/상속 합성 믹스인.md",
+    "OOP/private/객체지향 관점에서 리액트.md",
+    "private/Article/CleanCode/클린 코드.md",
     "private/Article/CS/stable sort와 unstable sort.md",
     "private/Article/CS/동기-비동기 & 블록킹 - 논블록킹.md",
-    "private/Article/CleanCode/클린 코드.md",
-    "OOP/private/상속 합성 믹스인.md",
-    "도서/오브젝트/Chapter/12. 다형성.md",
-    "Experience/PreOnBoarding/Backend/private/1-1 주차.md",
-    "Experience/PreOnBoarding/Backend/private/1-2 주차.md",
+    "private/Article/Database/데이터베이스 식별자 관계와 비식별자 관계.md",
+    "private/Article/DesignPattern/Observer 패턴.md",
+    "private/Article/Infra/Zero Downtime Deployment.md",
+    "private/Article/JavaScript/Promise.md",
+    "private/Article/JavaScript/Javascript sort는 어떤 정렬 알고리즘을 사용할까?.md",
+    "private/Article/JavaScript/이벤트 루프.md",
+    "private/Article/JavaScript/배열에서 특정 요소의 존재 여부를 확인.md",
+    "private/Article/Network/Nginx.md",
+    "Quizly/운영체제/interview.md",
+    "Quizly/private/README.md",
+    "도서/오브젝트/images/image20.png",
     "images/Pasted image 20240929174711.png",
     "Experience/WarmingUpClub/Cs",
     "Experience/WarmingUpClub",
@@ -261,8 +273,6 @@
     "도서/오브젝트/images/image16.png",
     "도서/오브젝트/images/image15.png",
     "도서/오브젝트/images/image14.png",
-    "images/Pasted image 20240924200612.png",
-    "도서/오브젝트/images/image13.png",
     "private/PreOnBoarding/AWS/무제 파일.canvas",
     "Excalidraw/무제 파일.canvas",
     "Quizly/Typescript/question05/무제 파일.canvas",
