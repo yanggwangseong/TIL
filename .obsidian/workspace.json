@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "도서/오브젝트/Chapter/13. 서브 클래싱과 서브타이핑.md",
+                "file": "private/Article/Network/Nginx.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,31 +37,26 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Quizly/운영체제/interview.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "018d299ba80cc78a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "TODO/멘토링 준비.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
-      },
-      {
-        "id": "f67162e764025fb8",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "cc555acd28e3d176",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "옵시디언 플러그인/마크다운 문법.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -131,8 +126,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329,
-    "collapsed": true
+    "width": 329
   },
   "right": {
     "id": "4f48e1273ca3d00f",
@@ -159,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "도서/오브젝트/Chapter/13. 서브 클래싱과 서브타이핑.md",
+                "file": "Quizly/운영체제/interview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "도서/오브젝트/Chapter/13. 서브 클래싱과 서브타이핑.md",
+                "file": "Quizly/운영체제/interview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "도서/오브젝트/Chapter/13. 서브 클래싱과 서브타이핑.md"
+                "file": "Quizly/운영체제/interview.md"
               }
             }
           },
@@ -221,14 +215,22 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "b9fec314c983b208",
+  "active": "22590f2090072f0c",
   "lastOpenFiles": [
+    "TODO/멘토링 준비.md",
+    "Quizly/운영체제/interview.md",
+    "TODO/Todo.md",
+    "private/Article/Nodejs/V8.md",
+    "private/Article/Nodejs/Worker Threads.md",
+    "private/Article/Nodejs/Streams.md",
+    "private/Article/Nodejs/Event Loop.md",
+    "private/Article/Nodejs/Cluster.md",
+    "도서/오브젝트/README.md",
+    "private/Article/Network/Nginx.md",
+    "도서/오브젝트/Chapter/13. 서브 클래싱과 서브타이핑.md",
     "도서/오브젝트/Chapter/11. 합성과 유연한 설계.md",
     "도서/오브젝트/Chapter/2. 객체지향 프로그래밍.md",
-    "도서/오브젝트/README.md",
-    "도서/오브젝트/Chapter/13. 서브 클래싱과 서브타이핑.md",
     "옵시디언 플러그인/마크다운 문법.md",
-    "TODO/멘토링 준비.md",
     "도서/오브젝트/images/image20.png",
     "도서/이펙티브 타입스크립트/Chapter/1. 타입스크립트 알아보기.md",
     "도서/객체지향의 사실과 오해/Chapter/3. 타입과 추상화.md",
@@ -242,14 +244,6 @@
     "도서/오브젝트/Chapter/12. 다형성.md",
     "Experience/PreOnBoarding/Backend/private/1-1 주차.md",
     "Experience/PreOnBoarding/Backend/private/1-2 주차.md",
-    "Experience/PreOnBoarding/Backend/private/2-2 주차.md",
-    "private/Article/Typescript/Minxin.md",
-    "Lecture/코드팩토리Typescript/Chapter/private/OverLoadding.md",
-    "private/Article/Database/인덱스(Index).md",
-    "TODO/Todo.md",
-    "private/Article/Database/README.md",
-    "TODO/최종.md",
-    "TODO/TDD프로젝트.md",
     "images/Pasted image 20240929174711.png",
     "Experience/WarmingUpClub/Cs",
     "Experience/WarmingUpClub",
