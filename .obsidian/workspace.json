@@ -4,64 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "2451b9c52e36d9b3",
+        "id": "868cca25046cd9cf",
         "type": "tabs",
         "children": [
           {
-            "id": "b3bf32b30ab50156",
+            "id": "e3c795cc490fa4dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "도서/오브젝트/Chapter/13. 서브 클래싱과 서브타이핑.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "15e28a41a955cbf7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "도서/오브젝트/Chapter/12. 다형성.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "089aa5340442f1b3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "도서/오브젝트/Chapter/11. 합성과 유연한 설계.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "410a08494d5b7979",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "도서/오브젝트/README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8777eec86a40018e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "옵시디언 플러그인/마크다운 문법.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#객체지향/ISP-인터페이스와구현의분리원칙",
+                "query": "tag:#객체지향/서브타이핑",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -209,7 +161,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -225,36 +178,38 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "b3bf32b30ab50156",
+  "active": "e3c795cc490fa4dc",
   "lastOpenFiles": [
-    "도서/오브젝트/Chapter/12. 다형성.md",
-    "도서/오브젝트/Chapter/11. 합성과 유연한 설계.md",
+    "도서/오브젝트/Chapter/13. 서브 클래싱과 서브타이핑.md",
     "도서/오브젝트/README.md",
     "옵시디언 플러그인/마크다운 문법.md",
-    "도서/오브젝트/Chapter/13. 서브 클래싱과 서브타이핑.md",
+    "옵시디언 플러그인/옵시디언 플러그인.md",
+    "TODO/멘토링 준비.md",
+    "OOP/private/상속 서브타이핑과 합성의 차이점.md",
+    "도서/오브젝트/Chapter/10. 상속과 코드 재사용.md",
+    "도서/모던 자바스크립트 딥다이브(Javascript DeepDive)/README.md",
+    "Experience/WarmingUpClub/Cs/private/1주차 미션.md",
+    "Experience/WarmingUpClub/Cs/README.md",
+    "TODO/최종.md",
+    "README.md",
+    "Experience/WarmingUpClub/Cs/private/자료구조/섹션1 개요.md",
+    "Experience/WarmingUpClub/Cs/private/자료구조/섹션2 자료구조.md",
+    "Experience/PreOnBoarding/Frontend/README.md",
+    "도서/모던 자바스크립트 딥다이브(Javascript DeepDive)/private/모던 자바스크립트 딥다이브(Javascript DeepDive).md",
+    "Experience/WarmingUpClub/Cs/private/자료구조",
+    "Experience/WarmingUpClub/Cs/private",
+    "도서/오브젝트/Chapter/12. 다형성.md",
+    "도서/오브젝트/Chapter/11. 합성과 유연한 설계.md",
     "도서/오브젝트/Chapter/6. 메세지와 인터페이스.md",
     "OOP/private/객체지향 업캐스팅과 동적 바인딩.md",
     "도서/오브젝트/Chapter/2. 객체지향 프로그래밍.md",
     "도서/오브젝트/images/image21.png",
     "images/오브젝트 - 17.jpg",
     "도서/오브젝트/Chapter/9. 유연한 설계.md",
-    "도서/오브젝트/Chapter/10. 상속과 코드 재사용.md",
     "OOP/private/객체지향 공부를 한 후 보이는 중복 class 문제들.md",
     "OOP/private/상속 합성 믹스인.md",
     "OOP/private/객체지향 관점에서 리액트.md",
     "private/Article/CleanCode/클린 코드.md",
-    "private/Article/CS/stable sort와 unstable sort.md",
-    "private/Article/CS/동기-비동기 & 블록킹 - 논블록킹.md",
-    "private/Article/Database/데이터베이스 식별자 관계와 비식별자 관계.md",
-    "private/Article/DesignPattern/Observer 패턴.md",
-    "private/Article/Infra/Zero Downtime Deployment.md",
-    "private/Article/JavaScript/Promise.md",
-    "private/Article/JavaScript/Javascript sort는 어떤 정렬 알고리즘을 사용할까?.md",
-    "private/Article/JavaScript/이벤트 루프.md",
-    "private/Article/JavaScript/배열에서 특정 요소의 존재 여부를 확인.md",
-    "private/Article/Network/Nginx.md",
-    "Quizly/운영체제/interview.md",
-    "Quizly/private/README.md",
     "도서/오브젝트/images/image20.png",
     "images/Pasted image 20240929174711.png",
     "Experience/WarmingUpClub/Cs",
@@ -267,8 +222,6 @@
     "도서/오브젝트/images/image18.png",
     "Typescript/private",
     "OOP/private",
-    "OOP",
-    "무제 폴더",
     "도서/오브젝트/images/image17.png",
     "도서/오브젝트/images/image16.png",
     "도서/오브젝트/images/image15.png",
