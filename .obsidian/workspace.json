@@ -4,22 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "868cca25046cd9cf",
+        "id": "c4ca2740d29c62d1",
         "type": "tabs",
         "children": [
           {
-            "id": "e3c795cc490fa4dc",
+            "id": "2fe38a4c58c88d52",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "도서/오브젝트/Chapter/13. 서브 클래싱과 서브타이핑.md",
+                "file": "Experience/WarmingUpClub/Cs/private/미션/1주차 미션.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ebdafcf4024c4a15",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Experience/WarmingUpClub/Cs/private/D3 발표자료.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5c5b6e4360098d23",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lecture/그림으로쉽게배우는운영체제/Chapter/private/섹션2/PCB.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -48,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#객체지향/서브타이핑",
+                "query": "동시에",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -116,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "도서/오브젝트/Chapter/13. 서브 클래싱과 서브타이핑.md",
+                "file": "Lecture/그림으로쉽게배우는운영체제/Chapter/private/섹션2/PCB.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "도서/오브젝트/Chapter/13. 서브 클래싱과 서브타이핑.md",
+                "file": "Lecture/그림으로쉽게배우는운영체제/Chapter/private/섹션2/PCB.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "도서/오브젝트/Chapter/13. 서브 클래싱과 서브타이핑.md"
+                "file": "Lecture/그림으로쉽게배우는운영체제/Chapter/private/섹션2/PCB.md"
               }
             }
           },
@@ -178,54 +203,54 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "e3c795cc490fa4dc",
+  "active": "742493942464278d",
   "lastOpenFiles": [
-    "도서/오브젝트/Chapter/13. 서브 클래싱과 서브타이핑.md",
-    "도서/오브젝트/README.md",
-    "옵시디언 플러그인/마크다운 문법.md",
-    "옵시디언 플러그인/옵시디언 플러그인.md",
+    "images/Pasted Image 20240922231252_996.png",
+    "images/Pasted image 20240924180452.png",
+    "images/Pasted image 20240924200612.png",
+    "Lecture/그림으로쉽게배우는운영체제/Chapter/private/images/Pasted image 20240929174711.png",
+    "Lecture/그림으로쉽게배우는운영체제/Chapter/private/images/Pasted image 20241004040645.png",
+    "Lecture/그림으로쉽게배우는운영체제/Chapter/private/images/Pasted image 20241004040648.png",
+    "Lecture/그림으로쉽게배우는운영체제/Chapter/private/images/Pasted image 20241004040654.png",
+    "Lecture/그림으로쉽게배우는운영체제/Chapter/private/images/Pasted image 20241004040703.png",
+    "Lecture/그림으로쉽게배우는운영체제/Chapter/private/images/Pasted image 20241004040832.png",
+    "Lecture/그림으로쉽게배우는운영체제/Chapter/private/images/Pasted image 20241004041142.png",
+    "Lecture/그림으로쉽게배우는운영체제/Chapter/private/images/Pasted image 20241004043754.png",
+    "Lecture/그림으로쉽게배우는운영체제/Chapter/private/images",
+    "Lecture/그림으로쉽게배우는운영체제/Chapter/private/섹션2/PCB.md",
+    "Lecture/그림으로쉽게배우는운영체제/Chapter/private/섹션2/프로세스 생성과 종료.md",
+    "Experience/WarmingUpClub/Cs/private/D3 발표자료.md",
+    "Experience/WarmingUpClub/Cs/private/미션/1주차 미션.md",
+    "Lecture/그림으로쉽게배우는운영체제/Chapter/private/섹션2/컨텍스트 스위칭.md",
+    "Experience/WarmingUpClub/Cs/private/D2발표자료.md",
+    "Lecture/그림으로쉽게배우는운영체제/Chapter/private/섹션2/프로세스 상태.md",
+    "Lecture/그림으로쉽게배우는운영체제/Chapter/private/섹션2/프로그램과 프로세스.md",
+    "Lecture/그림으로쉽게배우는운영체제/Chapter/private/섹션2/멀티프로그래밍과 멀티프로세싱.md",
+    "Experience/PreOnBoarding/Frontend/private/1-1 주차.md",
     "TODO/멘토링 준비.md",
-    "OOP/private/상속 서브타이핑과 합성의 차이점.md",
-    "도서/오브젝트/Chapter/10. 상속과 코드 재사용.md",
-    "도서/모던 자바스크립트 딥다이브(Javascript DeepDive)/README.md",
-    "Experience/WarmingUpClub/Cs/private/1주차 미션.md",
-    "Experience/WarmingUpClub/Cs/README.md",
-    "TODO/최종.md",
-    "README.md",
-    "Experience/WarmingUpClub/Cs/private/자료구조/섹션1 개요.md",
+    "Lecture/그림으로쉽게배우는운영체제/Chapter/private/섹션 1 운영체제 들어가기.md",
+    "Experience/WarmingUpClub/Cs/private/D1발표자료.md",
     "Experience/WarmingUpClub/Cs/private/자료구조/섹션2 자료구조.md",
+    "Experience/WarmingUpClub/Cs/private/미션",
+    "Experience/WarmingUpClub/Cs/private/운영체제/섹션1 운영체제 들어가기.md",
+    "옵시디언 플러그인/옵시디언 플러그인.md",
+    "옵시디언 플러그인/마크다운 문법.md",
+    "Lecture/그림으로쉽게배우는운영체제/Chapter/private/섹션2",
+    "Lecture/그림으로쉽게배우는운영체제/README.md",
+    "Lecture/그림으로쉽게배우는운영체제/Chapter/private",
+    "Lecture/그림으로쉽게배우는운영체제/Chapter",
+    "Experience/WarmingUpClub/Cs/private/운영체제",
+    "Experience/WarmingUpClub/Cs/private/자료구조/섹션1 개요.md",
     "Experience/PreOnBoarding/Frontend/README.md",
-    "도서/모던 자바스크립트 딥다이브(Javascript DeepDive)/private/모던 자바스크립트 딥다이브(Javascript DeepDive).md",
+    "Experience/WarmingUpClub/Cs/README.md",
+    "Lecture/테스트WithJest/Chapter/private/Jest 배워보기.md",
+    "Lecture/테스트WithJest/README.md",
+    "Lecture/테스트WithJest/Chapter/private",
+    "Lecture/테스트WithJest/Chapter",
+    "Lecture/코드팩토리Typescript/README.md",
+    "Lecture/테스트WithJest",
+    "도서/오브젝트/Chapter/13. 서브 클래싱과 서브타이핑.md",
     "Experience/WarmingUpClub/Cs/private/자료구조",
-    "Experience/WarmingUpClub/Cs/private",
-    "도서/오브젝트/Chapter/12. 다형성.md",
-    "도서/오브젝트/Chapter/11. 합성과 유연한 설계.md",
-    "도서/오브젝트/Chapter/6. 메세지와 인터페이스.md",
-    "OOP/private/객체지향 업캐스팅과 동적 바인딩.md",
-    "도서/오브젝트/Chapter/2. 객체지향 프로그래밍.md",
-    "도서/오브젝트/images/image21.png",
-    "images/오브젝트 - 17.jpg",
-    "도서/오브젝트/Chapter/9. 유연한 설계.md",
-    "OOP/private/객체지향 공부를 한 후 보이는 중복 class 문제들.md",
-    "OOP/private/상속 합성 믹스인.md",
-    "OOP/private/객체지향 관점에서 리액트.md",
-    "private/Article/CleanCode/클린 코드.md",
-    "도서/오브젝트/images/image20.png",
-    "images/Pasted image 20240929174711.png",
-    "Experience/WarmingUpClub/Cs",
-    "Experience/WarmingUpClub",
-    "private/Article/Nodejs",
-    "Lecture/그림으로쉽게배우는운영체제",
-    "도서/오브젝트/images/image19.png",
-    "Quizly/private",
-    "private/Article/Redis/private",
-    "도서/오브젝트/images/image18.png",
-    "Typescript/private",
-    "OOP/private",
-    "도서/오브젝트/images/image17.png",
-    "도서/오브젝트/images/image16.png",
-    "도서/오브젝트/images/image15.png",
-    "도서/오브젝트/images/image14.png",
     "private/PreOnBoarding/AWS/무제 파일.canvas",
     "Excalidraw/무제 파일.canvas",
     "Quizly/Typescript/question05/무제 파일.canvas",
