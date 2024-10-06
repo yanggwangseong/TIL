@@ -1,5 +1,5 @@
 
-## 📚 interview
+# 📚 interview
 <details>
 <summary>운영체제는 무엇이고, 어떻게 구성되어 있나요?</summary>
 

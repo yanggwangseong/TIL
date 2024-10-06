@@ -4,47 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "c4ca2740d29c62d1",
+        "id": "6bf2e18ee4fe6381",
         "type": "tabs",
         "children": [
           {
-            "id": "2fe38a4c58c88d52",
+            "id": "f5606f1b3111e11b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Experience/WarmingUpClub/Cs/private/미션/1주차 미션.md",
+                "file": "Experience/WarmingUpClub/Cs/private/1주차/D2발표자료.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "ebdafcf4024c4a15",
+            "id": "9c6780f6df3531be",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Experience/WarmingUpClub/Cs/private/D3 발표자료.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5c5b6e4360098d23",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lecture/그림으로쉽게배우는운영체제/Chapter/private/섹션2/PCB.md",
+                "file": "Lecture/그림으로쉽게배우는자료구조기본/Chapter/private/섹션2/연결리스트.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -73,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "동시에",
+                "query": "tag:#Database/워밍업",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -114,7 +102,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329
+    "width": 329,
+    "collapsed": true
   },
   "right": {
     "id": "4f48e1273ca3d00f",
@@ -141,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lecture/그림으로쉽게배우는운영체제/Chapter/private/섹션2/PCB.md",
+                "file": "Lecture/그림으로쉽게배우는자료구조기본/Chapter/private/섹션2/연결리스트.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lecture/그림으로쉽게배우는운영체제/Chapter/private/섹션2/PCB.md",
+                "file": "Lecture/그림으로쉽게배우는자료구조기본/Chapter/private/섹션2/연결리스트.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lecture/그림으로쉽게배우는운영체제/Chapter/private/섹션2/PCB.md"
+                "file": "Lecture/그림으로쉽게배우는자료구조기본/Chapter/private/섹션2/연결리스트.md"
               }
             }
           },
@@ -203,54 +192,54 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "742493942464278d",
+  "active": "9c6780f6df3531be",
   "lastOpenFiles": [
+    "Experience/WarmingUpClub/Cs/private/1주차/D2발표자료.md",
+    "Lecture/그림으로쉽게배우는자료구조기본/Chapter/private/섹션2/연결리스트.md",
+    "TODO/독서 방법.md",
+    "TODO/함수형과 객체지향을 이용한 프로젝트.md",
+    "Lecture/그림으로쉽게배우는자료구조기본/Chapter/private/섹션2/배열.md",
+    "Experience/WarmingUpClub/Cs/private/1주차/D1발표자료.md",
+    "Lecture/그림으로쉽게배우는자료구조기본/Chapter/private/섹션1/개요.md",
+    "Lecture/그림으로쉽게배우는자료구조기본/Chapter/private/images/Pasted image 20241005185103.png",
+    "Lecture/그림으로쉽게배우는자료구조기본/Chapter/private/images/Pasted image 20241005184342.png",
+    "Experience/WarmingUpClub/Cs/private/1주차/D4 발표자료.md",
+    "private/Article/Database/인덱스(Index).md",
+    "private/Article/Database/concurrency control(동시성 제어).md",
+    "private/Article/Database/Database 커넥션 풀의 관리와 최적화.md",
+    "private/Article/Database/transaction Isolation level.md",
+    "private/Article/Database/PostgreSQL에서 메세지큐 사용.md",
+    "private/Article/Database/README.md",
+    "private/Article/CS/stable sort와 unstable sort.md",
+    "private/Article/CS/동기-비동기 & 블록킹 - 논블록킹.md",
+    "운영체제/PCB(Process Control Block)란.md",
+    "운영체제/커널모드와 사용자모드.md",
+    "study/Database/Mysql/RealMysql80-1/chapter/4. 아키텍처.md",
+    "Lecture/그림으로쉽게배우는운영체제/Chapter/private/섹션 1 운영체제 들어가기.md",
+    "Nest.js/private/NestJS에서 Module.md",
+    "Nest.js/private/NestJS Dynamic Modules.md",
+    "도서/이펙티브 타입스크립트/Chapter/2. 타입스크립트의 타입 시스템.md",
+    "Lecture/코드팩토리Typescript/Chapter/private/Narrowing(타입 좁히기).md",
+    "Lecture/코드팩토리Typescript/Chapter/private/Type Predicate (타입 프리디케이트).md",
+    "TODO/멘토링 준비.md",
+    "Experience/WarmingUpClub/Cs/private/1주차",
+    "Lecture/그림으로쉽게배우는자료구조기본/Chapter/private/섹션3",
+    "Lecture/그림으로쉽게배우는자료구조기본/Chapter/private/섹션2",
+    "Lecture/그림으로쉽게배우는자료구조기본/Chapter/private/섹션1",
+    "Lecture/그림으로쉽게배우는자료구조기본/Chapter/private/images",
+    "Lecture/그림으로쉽게배우는자료구조기본/Chapter/private",
+    "Lecture/그림으로쉽게배우는자료구조기본/Chapter",
+    "Lecture/그림으로쉽게배우는자료구조기본",
+    "Lecture/그림으로쉽게배우는운영체제/Chapter/private/images/Pasted image 20241005022934.png",
+    "Lecture/그림으로쉽게배우는운영체제/Chapter/private/images/Pasted image 20241005015245.png",
+    "Lecture/그림으로쉽게배우는운영체제/Chapter/private/섹션3",
+    "Lecture/그림으로쉽게배우는운영체제/Chapter/private/images/Pasted image 20241005005400.png",
     "images/Pasted Image 20240922231252_996.png",
     "images/Pasted image 20240924180452.png",
     "images/Pasted image 20240924200612.png",
     "Lecture/그림으로쉽게배우는운영체제/Chapter/private/images/Pasted image 20240929174711.png",
     "Lecture/그림으로쉽게배우는운영체제/Chapter/private/images/Pasted image 20241004040645.png",
-    "Lecture/그림으로쉽게배우는운영체제/Chapter/private/images/Pasted image 20241004040648.png",
-    "Lecture/그림으로쉽게배우는운영체제/Chapter/private/images/Pasted image 20241004040654.png",
-    "Lecture/그림으로쉽게배우는운영체제/Chapter/private/images/Pasted image 20241004040703.png",
-    "Lecture/그림으로쉽게배우는운영체제/Chapter/private/images/Pasted image 20241004040832.png",
-    "Lecture/그림으로쉽게배우는운영체제/Chapter/private/images/Pasted image 20241004041142.png",
-    "Lecture/그림으로쉽게배우는운영체제/Chapter/private/images/Pasted image 20241004043754.png",
     "Lecture/그림으로쉽게배우는운영체제/Chapter/private/images",
-    "Lecture/그림으로쉽게배우는운영체제/Chapter/private/섹션2/PCB.md",
-    "Lecture/그림으로쉽게배우는운영체제/Chapter/private/섹션2/프로세스 생성과 종료.md",
-    "Experience/WarmingUpClub/Cs/private/D3 발표자료.md",
-    "Experience/WarmingUpClub/Cs/private/미션/1주차 미션.md",
-    "Lecture/그림으로쉽게배우는운영체제/Chapter/private/섹션2/컨텍스트 스위칭.md",
-    "Experience/WarmingUpClub/Cs/private/D2발표자료.md",
-    "Lecture/그림으로쉽게배우는운영체제/Chapter/private/섹션2/프로세스 상태.md",
-    "Lecture/그림으로쉽게배우는운영체제/Chapter/private/섹션2/프로그램과 프로세스.md",
-    "Lecture/그림으로쉽게배우는운영체제/Chapter/private/섹션2/멀티프로그래밍과 멀티프로세싱.md",
-    "Experience/PreOnBoarding/Frontend/private/1-1 주차.md",
-    "TODO/멘토링 준비.md",
-    "Lecture/그림으로쉽게배우는운영체제/Chapter/private/섹션 1 운영체제 들어가기.md",
-    "Experience/WarmingUpClub/Cs/private/D1발표자료.md",
-    "Experience/WarmingUpClub/Cs/private/자료구조/섹션2 자료구조.md",
-    "Experience/WarmingUpClub/Cs/private/미션",
-    "Experience/WarmingUpClub/Cs/private/운영체제/섹션1 운영체제 들어가기.md",
-    "옵시디언 플러그인/옵시디언 플러그인.md",
-    "옵시디언 플러그인/마크다운 문법.md",
-    "Lecture/그림으로쉽게배우는운영체제/Chapter/private/섹션2",
-    "Lecture/그림으로쉽게배우는운영체제/README.md",
-    "Lecture/그림으로쉽게배우는운영체제/Chapter/private",
-    "Lecture/그림으로쉽게배우는운영체제/Chapter",
-    "Experience/WarmingUpClub/Cs/private/운영체제",
-    "Experience/WarmingUpClub/Cs/private/자료구조/섹션1 개요.md",
-    "Experience/PreOnBoarding/Frontend/README.md",
-    "Experience/WarmingUpClub/Cs/README.md",
-    "Lecture/테스트WithJest/Chapter/private/Jest 배워보기.md",
-    "Lecture/테스트WithJest/README.md",
-    "Lecture/테스트WithJest/Chapter/private",
-    "Lecture/테스트WithJest/Chapter",
-    "Lecture/코드팩토리Typescript/README.md",
-    "Lecture/테스트WithJest",
-    "도서/오브젝트/Chapter/13. 서브 클래싱과 서브타이핑.md",
-    "Experience/WarmingUpClub/Cs/private/자료구조",
     "private/PreOnBoarding/AWS/무제 파일.canvas",
     "Excalidraw/무제 파일.canvas",
     "Quizly/Typescript/question05/무제 파일.canvas",
