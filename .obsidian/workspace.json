@@ -8,43 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "72feb1d4f9e116b7",
+            "id": "298fca0585dd9289",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Experience/WarmingUpClub/Cs/private/미션/1주차 미션.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c0691e8e06e4f7cc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "도서/오브젝트/Chapter/14. 일관성 있는 협력.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6708f914ce81abcd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "도서/오브젝트/README.md",
+                "file": "도서/오브젝트/Chapter/15. 디자인 패턴과 프레임워크.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -73,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Database/워밍업",
+                "query": "Overlapped",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -142,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "도서/오브젝트/README.md",
+                "file": "도서/오브젝트/Chapter/15. 디자인 패턴과 프레임워크.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "도서/오브젝트/README.md",
+                "file": "도서/오브젝트/Chapter/15. 디자인 패턴과 프레임워크.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "도서/오브젝트/README.md"
+                "file": "도서/오브젝트/Chapter/15. 디자인 패턴과 프레임워크.md"
               }
             }
           },
@@ -204,12 +179,22 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "6708f914ce81abcd",
+  "active": "298fca0585dd9289",
   "lastOpenFiles": [
+    "도서/오브젝트/README.md",
+    "옵시디언 플러그인/옵시디언 플러그인.md",
+    "옵시디언 플러그인/마크다운 문법.md",
+    "도서/오브젝트/Chapter/15. 디자인 패턴과 프레임워크.md",
+    "도서/오브젝트/Chapter/8. 의존성 관리하기.md",
+    "OOP/private/디자인 패턴.md",
+    "Experience/WarmingUpClub/Cs/private/미션/1주차 미션.md",
+    "OOP/private/객체지향 업캐스팅과 동적 바인딩.md",
+    "OOP/private/객체지향 관점에서 리액트.md",
+    "OOP/private/객체지향 공부를 한 후 보이는 중복 class 문제들.md",
+    "private/Article/Oop/README.md",
+    "도서/오브젝트/Chapter/9. 유연한 설계.md",
     "도서/오브젝트/Chapter/14. 일관성 있는 협력.md",
     "도서/오브젝트/Chapter/13. 서브 클래싱과 서브타이핑.md",
-    "Experience/WarmingUpClub/Cs/private/미션/1주차 미션.md",
-    "도서/오브젝트/README.md",
     "운영체제/PCB(Process Control Block)란.md",
     "운영체제/커널모드와 사용자모드.md",
     "Experience/WarmingUpClub/Cs/README.md",
@@ -224,20 +209,10 @@
     "TODO/멘토링 준비.md",
     "Lecture/그림으로쉽게배우는운영체제/Chapter/private/섹션 1 운영체제 들어가기.md",
     "Lecture/그림으로쉽게배우는운영체제/Chapter/private/images/Pasted image 20240929174711.png",
-    "Lecture/그림으로쉽게배우는자료구조기본/Chapter/private/섹션2/해시 테이블.md",
-    "Lecture/그림으로쉽게배우는자료구조기본/Chapter/private/섹션2/셋(set).md",
-    "Lecture/그림으로쉽게배우는자료구조기본/Chapter/private/섹션2/스택.md",
     "Lecture/그림으로쉽게배우는자료구조기본/Chapter/private/images/Pasted image 20241006014423.png",
     "Lecture/그림으로쉽게배우는자료구조기본/Chapter/private/images/Pasted image 20241006013448.png",
-    "Lecture/그림으로쉽게배우는자료구조기본/Chapter/private/섹션2/덱(Dequeue).md",
-    "Lecture/그림으로쉽게배우는자료구조기본/Chapter/private/섹션2/큐.md",
-    "Lecture/그림으로쉽게배우는자료구조기본/Chapter/private/섹션2/연결리스트.md",
-    "Lecture/그림으로쉽게배우는자료구조기본/Chapter/private/섹션1/개요.md",
-    "Lecture/그림으로쉽게배우는자료구조기본/Chapter/private/섹션2/배열.md",
     "Lecture/그림으로쉽게배우는자료구조기본/Chapter/private/images/Pasted image 20241006002406.png",
     "Lecture/그림으로쉽게배우는자료구조기본/Chapter/private/images/Pasted image 20241005230614.png",
-    "TODO/독서 방법.md",
-    "TODO/함수형과 객체지향을 이용한 프로젝트.md",
     "Lecture/그림으로쉽게배우는자료구조기본/Chapter/private/images/Pasted image 20241005185103.png",
     "Lecture/그림으로쉽게배우는자료구조기본/Chapter/private/images/Pasted image 20241005184342.png",
     "Experience/WarmingUpClub/Cs/private/1주차",
