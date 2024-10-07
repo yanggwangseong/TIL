@@ -4,35 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "6bf2e18ee4fe6381",
+        "id": "ed120beef607b776",
         "type": "tabs",
         "children": [
           {
-            "id": "f5606f1b3111e11b",
+            "id": "72feb1d4f9e116b7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Experience/WarmingUpClub/Cs/private/1주차/D2발표자료.md",
+                "file": "Experience/WarmingUpClub/Cs/private/미션/1주차 미션.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "9c6780f6df3531be",
+            "id": "c0691e8e06e4f7cc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lecture/그림으로쉽게배우는자료구조기본/Chapter/private/섹션2/연결리스트.md",
+                "file": "도서/오브젝트/Chapter/14. 일관성 있는 협력.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6708f914ce81abcd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "도서/오브젝트/README.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -130,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lecture/그림으로쉽게배우는자료구조기본/Chapter/private/섹션2/연결리스트.md",
+                "file": "도서/오브젝트/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lecture/그림으로쉽게배우는자료구조기본/Chapter/private/섹션2/연결리스트.md",
+                "file": "도서/오브젝트/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lecture/그림으로쉽게배우는자료구조기본/Chapter/private/섹션2/연결리스트.md"
+                "file": "도서/오브젝트/README.md"
               }
             }
           },
@@ -192,36 +204,42 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "9c6780f6df3531be",
+  "active": "6708f914ce81abcd",
   "lastOpenFiles": [
-    "Experience/WarmingUpClub/Cs/private/1주차/D2발표자료.md",
-    "Lecture/그림으로쉽게배우는자료구조기본/Chapter/private/섹션2/연결리스트.md",
-    "TODO/독서 방법.md",
-    "TODO/함수형과 객체지향을 이용한 프로젝트.md",
-    "Lecture/그림으로쉽게배우는자료구조기본/Chapter/private/섹션2/배열.md",
-    "Experience/WarmingUpClub/Cs/private/1주차/D1발표자료.md",
-    "Lecture/그림으로쉽게배우는자료구조기본/Chapter/private/섹션1/개요.md",
-    "Lecture/그림으로쉽게배우는자료구조기본/Chapter/private/images/Pasted image 20241005185103.png",
-    "Lecture/그림으로쉽게배우는자료구조기본/Chapter/private/images/Pasted image 20241005184342.png",
-    "Experience/WarmingUpClub/Cs/private/1주차/D4 발표자료.md",
-    "private/Article/Database/인덱스(Index).md",
-    "private/Article/Database/concurrency control(동시성 제어).md",
-    "private/Article/Database/Database 커넥션 풀의 관리와 최적화.md",
-    "private/Article/Database/transaction Isolation level.md",
-    "private/Article/Database/PostgreSQL에서 메세지큐 사용.md",
-    "private/Article/Database/README.md",
-    "private/Article/CS/stable sort와 unstable sort.md",
-    "private/Article/CS/동기-비동기 & 블록킹 - 논블록킹.md",
+    "도서/오브젝트/Chapter/14. 일관성 있는 협력.md",
+    "도서/오브젝트/Chapter/13. 서브 클래싱과 서브타이핑.md",
+    "Experience/WarmingUpClub/Cs/private/미션/1주차 미션.md",
+    "도서/오브젝트/README.md",
     "운영체제/PCB(Process Control Block)란.md",
     "운영체제/커널모드와 사용자모드.md",
-    "study/Database/Mysql/RealMysql80-1/chapter/4. 아키텍처.md",
-    "Lecture/그림으로쉽게배우는운영체제/Chapter/private/섹션 1 운영체제 들어가기.md",
-    "Nest.js/private/NestJS에서 Module.md",
-    "Nest.js/private/NestJS Dynamic Modules.md",
-    "도서/이펙티브 타입스크립트/Chapter/2. 타입스크립트의 타입 시스템.md",
-    "Lecture/코드팩토리Typescript/Chapter/private/Narrowing(타입 좁히기).md",
-    "Lecture/코드팩토리Typescript/Chapter/private/Type Predicate (타입 프리디케이트).md",
+    "Experience/WarmingUpClub/Cs/README.md",
+    "Experience/WarmingUpClub/Cs/private/2주차/D1 발표자료.md",
+    "Experience/WarmingUpClub/Cs/private/1주차/D4 발표자료.md",
+    "Experience/WarmingUpClub/Cs/private/1주차/D3 발표자료.md",
+    "Experience/WarmingUpClub/Cs/private/1주차/D2발표자료.md",
+    "Experience/WarmingUpClub/Cs/private/1주차/D1발표자료.md",
+    "study/알고리즘/인프런/코딩 테스트 문제 모음.md",
+    "Experience/WarmingUpClub/Cs/private/2주차",
+    "TODO/학습 목표.md",
     "TODO/멘토링 준비.md",
+    "Lecture/그림으로쉽게배우는운영체제/Chapter/private/섹션 1 운영체제 들어가기.md",
+    "Lecture/그림으로쉽게배우는운영체제/Chapter/private/images/Pasted image 20240929174711.png",
+    "Lecture/그림으로쉽게배우는자료구조기본/Chapter/private/섹션2/해시 테이블.md",
+    "Lecture/그림으로쉽게배우는자료구조기본/Chapter/private/섹션2/셋(set).md",
+    "Lecture/그림으로쉽게배우는자료구조기본/Chapter/private/섹션2/스택.md",
+    "Lecture/그림으로쉽게배우는자료구조기본/Chapter/private/images/Pasted image 20241006014423.png",
+    "Lecture/그림으로쉽게배우는자료구조기본/Chapter/private/images/Pasted image 20241006013448.png",
+    "Lecture/그림으로쉽게배우는자료구조기본/Chapter/private/섹션2/덱(Dequeue).md",
+    "Lecture/그림으로쉽게배우는자료구조기본/Chapter/private/섹션2/큐.md",
+    "Lecture/그림으로쉽게배우는자료구조기본/Chapter/private/섹션2/연결리스트.md",
+    "Lecture/그림으로쉽게배우는자료구조기본/Chapter/private/섹션1/개요.md",
+    "Lecture/그림으로쉽게배우는자료구조기본/Chapter/private/섹션2/배열.md",
+    "Lecture/그림으로쉽게배우는자료구조기본/Chapter/private/images/Pasted image 20241006002406.png",
+    "Lecture/그림으로쉽게배우는자료구조기본/Chapter/private/images/Pasted image 20241005230614.png",
+    "TODO/독서 방법.md",
+    "TODO/함수형과 객체지향을 이용한 프로젝트.md",
+    "Lecture/그림으로쉽게배우는자료구조기본/Chapter/private/images/Pasted image 20241005185103.png",
+    "Lecture/그림으로쉽게배우는자료구조기본/Chapter/private/images/Pasted image 20241005184342.png",
     "Experience/WarmingUpClub/Cs/private/1주차",
     "Lecture/그림으로쉽게배우는자료구조기본/Chapter/private/섹션3",
     "Lecture/그림으로쉽게배우는자료구조기본/Chapter/private/섹션2",
@@ -234,12 +252,6 @@
     "Lecture/그림으로쉽게배우는운영체제/Chapter/private/images/Pasted image 20241005015245.png",
     "Lecture/그림으로쉽게배우는운영체제/Chapter/private/섹션3",
     "Lecture/그림으로쉽게배우는운영체제/Chapter/private/images/Pasted image 20241005005400.png",
-    "images/Pasted Image 20240922231252_996.png",
-    "images/Pasted image 20240924180452.png",
-    "images/Pasted image 20240924200612.png",
-    "Lecture/그림으로쉽게배우는운영체제/Chapter/private/images/Pasted image 20240929174711.png",
-    "Lecture/그림으로쉽게배우는운영체제/Chapter/private/images/Pasted image 20241004040645.png",
-    "Lecture/그림으로쉽게배우는운영체제/Chapter/private/images",
     "private/PreOnBoarding/AWS/무제 파일.canvas",
     "Excalidraw/무제 파일.canvas",
     "Quizly/Typescript/question05/무제 파일.canvas",
