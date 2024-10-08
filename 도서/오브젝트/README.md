@@ -421,6 +421,10 @@
 - 행동 호환성과 리스코프 치환원칙에서는 *대체 가능성을 결정하는 것은 클라이언트* 다
 
 
+# 15장
+*훌륭한 객체지향 설계는 의존성 역전된 설계다* 
+> 객체지향 설계의 증명이 바로 이와 같은 의존성의 역전이다.
+> 프로그램의 의존성이 역전돼 있다면, 이것은 객체지향 설계를 갖는것이다. 그게 아니라면 절차적 설계를 갖는 것이다.
 
 
 # 📆 정리 현황 테이블
@@ -434,16 +438,16 @@
 | ⭐⭐⭐⭐⭐    | 3. 역할, 책임, 협력     | 3장      | [링크](https://github.com/yanggwangseong/TIL/blob/main/%EB%8F%84%EC%84%9C/%EC%98%A4%EB%B8%8C%EC%A0%9D%ED%8A%B8/Chapter/3.%20%EC%97%AD%ED%95%A0%2C%20%EC%B1%85%EC%9E%84%2C%20%ED%98%91%EB%A0%A5.md)                                           |
 | ⭐⭐       | 4. 설계 품질과 트레이드 오프 | 4장      | [링크](https://github.com/yanggwangseong/TIL/blob/main/%EB%8F%84%EC%84%9C/%EC%98%A4%EB%B8%8C%EC%A0%9D%ED%8A%B8/Chapter/4.%20%EC%84%A4%EA%B3%84%20%ED%92%88%EC%A7%88%EA%B3%BC%20%ED%8A%B8%EB%A0%88%EC%9D%B4%EB%93%9C%20%EC%98%A4%ED%94%84.md) |
 | ⭐⭐⭐      | 5. 책임 할당하기        | 5장      | [링크](https://github.com/yanggwangseong/TIL/blob/main/%EB%8F%84%EC%84%9C/%EC%98%A4%EB%B8%8C%EC%A0%9D%ED%8A%B8/Chapter/5.%20%EC%B1%85%EC%9E%84%20%ED%95%A0%EB%8B%B9%ED%95%98%EA%B8%B0.md)                                                    |
-| ⭐⭐       | 6. 메세지와 인터페이스     | 6장      |                                                                                                                                                                                                                                            |
-| ⭐        | 7. 객체 분해          | 7장      |                                                                                                                                                                                                                                            |
-| ⭐⭐⭐⭐     | 8. 의존성 관리하기       | 8장      |                                                                                                                                                                                                                                            |
-| ⭐⭐⭐⭐     | 9. 유연한 설계         | 9장      |                                                                                                                                                                                                                                            |
-| ⭐⭐⭐⭐⭐    | 10. 상속과 코드 재사용    | 10장     |                                                                                                                                                                                                                                            |
-| ⭐⭐⭐⭐⭐    | 11. 합성과 유연한 설계    | 11장     |                                                                                                                                                                                                                                            |
-| ⭐⭐⭐⭐⭐    | 12. 다형성           | 12장     |                                                                                                                                                                                                                                            |
-| ⭐⭐⭐      | 13. 서브 클래싱과 서브타이핑 | 13장     |                                                                                                                                                                                                                                            |
-| ⭐⭐⭐      | 14. 일관성 있는 협력     | 14장     |                                                                                                                                                                                                                                            |
-|          | 15. 디자인 패턴과 프레임워크 | 15장     |                                                                                                                                                                                                                                            |
+| ⭐⭐       | 6. 메세지와 인터페이스     | 6장      | [링크](https://github.com/yanggwangseong/TIL/blob/main/%EB%8F%84%EC%84%9C/%EC%98%A4%EB%B8%8C%EC%A0%9D%ED%8A%B8/Chapter/6.%20%EB%A9%94%EC%84%B8%EC%A7%80%EC%99%80%20%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4.md)                         |
+| ⭐        | 7. 객체 분해          | 7장      | [링크](https://github.com/yanggwangseong/TIL/blob/main/%EB%8F%84%EC%84%9C/%EC%98%A4%EB%B8%8C%EC%A0%9D%ED%8A%B8/Chapter/7.%20%EA%B0%9D%EC%B2%B4%20%EB%B6%84%ED%95%B4.md)                                                                      |
+| ⭐⭐⭐⭐     | 8. 의존성 관리하기       | 8장      | [링크](https://github.com/yanggwangseong/TIL/blob/main/%EB%8F%84%EC%84%9C/%EC%98%A4%EB%B8%8C%EC%A0%9D%ED%8A%B8/Chapter/8.%20%EC%9D%98%EC%A1%B4%EC%84%B1%20%EA%B4%80%EB%A6%AC%ED%95%98%EA%B8%B0.md)                                           |
+| ⭐⭐⭐⭐     | 9. 유연한 설계         | 9장      | [링크](https://github.com/yanggwangseong/TIL/blob/main/%EB%8F%84%EC%84%9C/%EC%98%A4%EB%B8%8C%EC%A0%9D%ED%8A%B8/Chapter/9.%20%EC%9C%A0%EC%97%B0%ED%95%9C%20%EC%84%A4%EA%B3%84.md)                                                             |
+| ⭐⭐⭐⭐⭐    | 10. 상속과 코드 재사용    | 10장     | [링크](https://github.com/yanggwangseong/TIL/blob/main/%EB%8F%84%EC%84%9C/%EC%98%A4%EB%B8%8C%EC%A0%9D%ED%8A%B8/Chapter/10.%20%EC%83%81%EC%86%8D%EA%B3%BC%20%EC%BD%94%EB%93%9C%20%EC%9E%AC%EC%82%AC%EC%9A%A9.md)                              |
+| ⭐⭐⭐⭐⭐    | 11. 합성과 유연한 설계    | 11장     | [링크](https://github.com/yanggwangseong/TIL/blob/main/%EB%8F%84%EC%84%9C/%EC%98%A4%EB%B8%8C%EC%A0%9D%ED%8A%B8/Chapter/11.%20%ED%95%A9%EC%84%B1%EA%B3%BC%20%EC%9C%A0%EC%97%B0%ED%95%9C%20%EC%84%A4%EA%B3%84.md)                              |
+| ⭐⭐⭐⭐⭐    | 12. 다형성           | 12장     | [링크](https://github.com/yanggwangseong/TIL/blob/main/%EB%8F%84%EC%84%9C/%EC%98%A4%EB%B8%8C%EC%A0%9D%ED%8A%B8/Chapter/12.%20%EB%8B%A4%ED%98%95%EC%84%B1.md)                                                                                 |
+| ⭐⭐⭐      | 13. 서브 클래싱과 서브타이핑 | 13장     | [링크](https://github.com/yanggwangseong/TIL/blob/main/%EB%8F%84%EC%84%9C/%EC%98%A4%EB%B8%8C%EC%A0%9D%ED%8A%B8/Chapter/13.%20%EC%84%9C%EB%B8%8C%20%ED%81%B4%EB%9E%98%EC%8B%B1%EA%B3%BC%20%EC%84%9C%EB%B8%8C%ED%83%80%EC%9D%B4%ED%95%91.md)   |
+| ⭐⭐⭐      | 14. 일관성 있는 협력     | 14장     | [링크](https://github.com/yanggwangseong/TIL/blob/main/%EB%8F%84%EC%84%9C/%EC%98%A4%EB%B8%8C%EC%A0%9D%ED%8A%B8/Chapter/14.%20%EC%9D%BC%EA%B4%80%EC%84%B1%20%EC%9E%88%EB%8A%94%20%ED%98%91%EB%A0%A5.md)                                       |
+| ⭐⭐⭐      | 15. 디자인 패턴과 프레임워크 | 15장     | [링크](https://github.com/yanggwangseong/TIL/blob/main/%EB%8F%84%EC%84%9C/%EC%98%A4%EB%B8%8C%EC%A0%9D%ED%8A%B8/Chapter/15.%20%EB%94%94%EC%9E%90%EC%9D%B8%20%ED%8C%A8%ED%84%B4%EA%B3%BC%20%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC.md)   |
 
 # 📝 키워드
 #객체지향/depencency , #객체지향/coupling , #객체지향/encapsulation , #객체지향/cohesion
