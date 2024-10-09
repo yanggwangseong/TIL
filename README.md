@@ -94,6 +94,9 @@
 - 20240924- [Docker Desktop에서 redis 접속](https://threeyears.tistory.com/625) 
 - 20240925 - [SSE(Server-Sent Event)와 Redis Pub/Sub을 조합하여 실시간 알림 시스템을 구현](https://threeyears.tistory.com/629) 
 - 20240927 - [Socket.io V3이상부터 auth를 이용한 인증시 발생하는 문제점](https://threeyears.tistory.com/630) 
+- 20241008 - [react에서 useHover 커스텀훅과 hover시 modal 재사용 컴포넌트](https://threeyears.tistory.com/632) 
+
+
 
 
 
