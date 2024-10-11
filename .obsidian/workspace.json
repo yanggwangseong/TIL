@@ -4,22 +4,45 @@
     "type": "split",
     "children": [
       {
-        "id": "3bfc6665f08b5828",
+        "id": "705cff6d8d4b395d",
         "type": "tabs",
         "children": [
           {
-            "id": "79ad84cd547f0464",
+            "id": "f36714dd8dda30ec",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Lecture/코어 자바스크립트/Chapter/private/images/Drawing 2024-10-10 19.17.55.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "f2cab06a7de158c0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "함수형프로그래밍(FP)/인프런/유인동함수형/함수형프로그래밍1편/함수형으로 전환하기.md",
+                "file": "Network/Under-fetching(언더 페칭)과 Over-fetching(오버 페칭).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "80ac8fbf59d152c1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lecture/코어 자바스크립트/Chapter/private/데이터 타입.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +71,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "비선점",
+                "query": "nestia",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,8 +112,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329,
-    "collapsed": true
+    "width": 329
   },
   "right": {
     "id": "4f48e1273ca3d00f",
@@ -117,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "함수형프로그래밍(FP)/인프런/유인동함수형/함수형프로그래밍1편/함수형으로 전환하기.md",
+                "file": "Network/Under-fetching(언더 페칭)과 Over-fetching(오버 페칭).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "함수형프로그래밍(FP)/인프런/유인동함수형/함수형프로그래밍1편/함수형으로 전환하기.md",
+                "file": "Network/Under-fetching(언더 페칭)과 Over-fetching(오버 페칭).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "함수형프로그래밍(FP)/인프런/유인동함수형/함수형프로그래밍1편/함수형으로 전환하기.md"
+                "file": "Network/Under-fetching(언더 페칭)과 Over-fetching(오버 페칭).md"
               }
             }
           },
@@ -179,8 +201,31 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "79ad84cd547f0464",
+  "active": "f2cab06a7de158c0",
   "lastOpenFiles": [
+    "private/Article/Network/Under-fetching(언더 페칭)과 Over-fetching(오버 페칭).md",
+    "Network/Under-fetching(언더 페칭)과 Over-fetching(오버 페칭).md",
+    "Lecture/코어 자바스크립트/Chapter/private/images/Drawing 2024-10-10 21.59.16.excalidraw.md",
+    "Network",
+    "Lecture/코어 자바스크립트/Chapter/private/images/Drawing 2024-10-10 19.17.55.excalidraw.md",
+    "images/e7a7d7e26d6ee82a5d118b4a782bf917.gif",
+    "Lecture/코어 자바스크립트/Chapter/private/데이터 타입.md",
+    "Lecture/코어 자바스크립트/Chapter/private/실행 컨텍스트.md",
+    "Lecture/코어 자바스크립트/Chapter/private/images/Drawing 2024-10-10 03.42.36.excalidraw.md",
+    "Lecture/코어 자바스크립트/Chapter/private/images/Pasted image 20241010034656.png",
+    "Lecture/코어 자바스크립트/Chapter/private/images/Pasted image 20241010193844.png",
+    "Lecture/코어 자바스크립트/Chapter/private/images/Pasted image 20241010193854.png",
+    "private/Article/CleanCode/클린 코드.md",
+    "private/Article/CS/stable sort와 unstable sort.md",
+    "private/Article/CS/동기-비동기 & 블록킹 - 논블록킹.md",
+    "private/Article/DesignPattern/Observer 패턴.md",
+    "private/Article/JavaScript/Promise.md",
+    "private/Article/JavaScript/Javascript sort는 어떤 정렬 알고리즘을 사용할까?.md",
+    "private/Article/JavaScript/이벤트 루프.md",
+    "private/Article/JavaScript/배열에서 특정 요소의 존재 여부를 확인.md",
+    "private/Article/Oop/README.md",
+    "images/Pasted image 20241009232025.png",
+    "study/Gulp/Gulp.md",
     "private/Article/NestJS/Nestia/Nestia의 발전 가능성과 미래.md",
     "private/Article/NestJS/Nestia/Nestia 활용법에 대한 생각.md",
     "함수형프로그래밍(FP)/인프런/유인동함수형/함수형프로그래밍1편/함수형으로 전환하기.md",
@@ -188,37 +233,15 @@
     "함수형프로그래밍(FP)/인프런/유인동함수형/함수형프로그래밍1편/일급함수, add_maker, 함수로 함수 실행하기.md",
     "함수형프로그래밍(FP)/인프런/유인동함수형/함수형프로그래밍1편/요즘 개발 이야기, 함수형 프로그래밍 정의.md",
     "Lecture/그림으로쉽게배우는운영체제/Chapter/private/섹션5/데드락이란?.md",
-    "Lecture/코어 자바스크립트/Chapter/private/데이터 타입.md",
     "Quizly/운영체제/interview.md",
     "Lecture/그림으로쉽게배우는운영체제/Chapter/private/섹션5/데드락 해결.md",
     "Lecture/그림으로쉽게배우는운영체제/Chapter/private/섹션5",
-    "TODO/멘토링 준비.md",
-    "study/오픈소스/오픈소스.md",
-    "Experience/PreOnBoarding/Backend/private/2-2 주차.md",
-    "Lecture/코어 자바스크립트/Chapter/private/images/Drawing 2024-10-10 03.42.36.excalidraw.md",
-    "Lecture/코어 자바스크립트/Chapter/private/images/Pasted image 20241010034656.png",
-    "도서/모던 자바스크립트 딥다이브(Javascript DeepDive)/Chapter/6. 데이터 타입.md",
-    "Lecture/코어 자바스크립트/Chapter/private/실행 컨텍스트.md",
-    "Excalidraw/Drawing 2024-10-10 02.05.49.excalidraw.md",
-    "README.md",
-    "Experience/PreOnBoarding/Frontend/private/2-2 주차.md",
-    "Experience/PreOnBoarding/Frontend/private/2-1 주차.md",
-    "Experience/PreOnBoarding/Frontend/private/1-2 주차.md",
-    "Experience/PreOnBoarding/Frontend/private/1-1 주차.md",
-    "도서/모던 자바스크립트 딥다이브(Javascript DeepDive)/Chapter/11. 원시 값과 객체의 비교.md",
-    "private/Article/JavaScript/이벤트 루프.md",
-    "private/Article/JavaScript/Javascript sort는 어떤 정렬 알고리즘을 사용할까?.md",
-    "private/Article/JavaScript/배열에서 특정 요소의 존재 여부를 확인.md",
-    "images/Pasted image 20241009232025.png",
     "images/Pasted Image 20241009061648_867.png",
     "무제 파일 2.canvas",
     "images/Pasted Image 20241009053059_681.png",
     "images/Pasted Image 20241009053044_677.png",
     "images/Pasted Image 20241009053044_659.png",
     "images/Pasted Image 20241009052542_916.png",
-    "images/Pasted Image 20241009052527_910.png",
-    "images/Pasted Image 20241009052442_890.png",
-    "images/Pasted Image 20241009052426_878.png",
     "무제 파일 1.canvas",
     "무제 파일.canvas",
     "도서/코어자바스크립트",
@@ -229,7 +252,6 @@
     "Lecture/코어 자바스크립트",
     "Lecture/그림으로쉽게배우는운영체제/Chapter/private/섹션4",
     "Experience/WarmingUpClub/Cs/private/2주차",
-    "Experience/WarmingUpClub/Cs/private/1주차",
     "private/PreOnBoarding/AWS/무제 파일.canvas",
     "Excalidraw/무제 파일.canvas",
     "Quizly/Typescript/question05/무제 파일.canvas",
