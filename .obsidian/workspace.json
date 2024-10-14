@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Typescript/tsconfig.md",
+                "file": "운영체제/바이너리 세마포어 vs 뮤텍스 차이.md",
                 "mode": "source",
                 "source": false
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Typescript/tsconfig.md",
+                "file": "운영체제/바이너리 세마포어 vs 뮤텍스 차이.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Typescript/tsconfig.md",
+                "file": "운영체제/바이너리 세마포어 vs 뮤텍스 차이.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Typescript/tsconfig.md"
+                "file": "운영체제/바이너리 세마포어 vs 뮤텍스 차이.md"
               }
             }
           },
@@ -204,9 +204,20 @@
   },
   "active": "3f936290ed3933a5",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2024-04-08 03.09.12.excalidraw.md",
+    "운영체제/바이너리 세마포어 vs 뮤텍스 차이.md",
+    "Excalidraw/제목 없음-2024-03-04-0408.excalidraw",
+    "Excalidraw/Drawing 2024-10-10 02.05.49.excalidraw.md",
+    "Experience/WarmingUpClub/Cs/private/발표자료/질문 정리.md",
+    "Excalidraw/제목 없음-2024-03-04-0408.excalidraw.crswap",
+    "Experience/WarmingUpClub/Cs/private/발표자료/발표 대본.md",
+    "Experience/WarmingUpClub/Cs/private/발표자료/공유 자원 문제.md",
+    "Experience/WarmingUpClub/Cs/private/발표자료/운영체제1013발표자료.md",
+    "운영체제/PCB(Process Control Block)란.md",
+    "운영체제/커널모드와 사용자모드.md",
+    "Typescript/tsconfig.md",
     "옵시디언 플러그인/옵시디언 플러그인.md",
     "옵시디언 플러그인/마크다운 문법.md",
-    "Typescript/tsconfig.md",
     "Youtube/디자인패턴/Iterator.md",
     "Youtube/README.md",
     "README.md",
@@ -215,7 +226,6 @@
     "Youtube",
     "private/Article/Oop/TS 기반 디자인 패턴.md",
     "Lecture/그림으로쉽게배우는자료구조기본/Chapter/private/섹션3/재귀 - 하노이 탑.md",
-    "Experience/WarmingUpClub/Cs/private/발표자료/운영체제1013발표자료.md",
     "TODO/회고.md",
     "Lecture/그림으로쉽게배우는자료구조기본/Chapter/private/섹션3/재귀적으로 생각하기.md",
     "images/Pasted Image 20241013030949_656.png",
@@ -227,14 +237,6 @@
     "Lecture/그림으로쉽게배우는운영체제/Chapter/private/섹션4/세마포어.md",
     "Lecture/그림으로쉽게배우는운영체제/Chapter/private/섹션4/모니터.md",
     "Lecture/그림으로쉽게배우는운영체제/Chapter/private/섹션5/데드락이란?.md",
-    "Experience/WarmingUpClub/Cs/private/발표자료/발표 대본.md",
-    "Lecture/그림으로쉽게배우는운영체제/Chapter/private/섹션4/공유자원과 임계구역.md",
-    "Experience/WarmingUpClub/Cs/private/발표자료/무제 파일.md",
-    "Lecture/그림으로쉽게배우는운영체제/Chapter/private/섹션 1 운영체제 들어가기.md",
-    "Lecture/그림으로쉽게배우는운영체제/Chapter/private/섹션4/프로세스 간 통신.md",
-    "Experience/WarmingUpClub/Cs/private/발표자료/공유 자원 문제.md",
-    "Experience/WarmingUpClub/Cs/private/발표자료/질문 정리.md",
-    "Quizly/운영체제/interview.md",
     "images/Pasted image 20241012041837.png",
     "Lecture/그림으로쉽게배우는운영체제/Chapter/private/file",
     "Experience/WarmingUpClub/Cs/private/발표자료",
@@ -251,8 +253,6 @@
     "무제 파일.canvas",
     "도서/코어자바스크립트",
     "Lecture/코어 자바스크립트/Chapter/private/images",
-    "Lecture/코어 자바스크립트/Chapter/무제 폴더",
-    "Lecture/코어 자바스크립트/Chapter/private",
     "private/PreOnBoarding/AWS/무제 파일.canvas",
     "Excalidraw/무제 파일.canvas",
     "Quizly/Typescript/question05/무제 파일.canvas",
