@@ -4,46 +4,59 @@
     "type": "split",
     "children": [
       {
-        "id": "ea0c1b5295a4882b",
+        "id": "4be747e3b7c9f28c",
         "type": "tabs",
         "children": [
           {
-            "id": "3f936290ed3933a5",
+            "id": "85236fab50cfc9ae",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "운영체제/바이너리 세마포어 vs 뮤텍스 차이.md",
+                "file": "Lecture/그림으로쉽게배우는자료구조기본/Chapter/private/섹션3/정렬/버블정렬.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "e7801aaf04821ac4",
+            "id": "7a4fb038fc72814d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "옵시디언 플러그인/마크다운 문법.md",
+                "file": "private/Article/CS/stable sort와 unstable sort.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "f4ec445d435cdefa",
+            "id": "6b2a1b28f7fdad81",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "옵시디언 플러그인/옵시디언 플러그인.md",
+                "file": "Algorithm/stable sort vs unstable sort.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "074b11f643a94762",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lecture/그림으로쉽게배우는운영체제/Chapter/private/섹션6/컴파일과 프로세스 코드.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -72,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "상호 배제",
+                "query": "stable sort",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -140,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "운영체제/바이너리 세마포어 vs 뮤텍스 차이.md",
+                "file": "Algorithm/stable sort vs unstable sort.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "운영체제/바이너리 세마포어 vs 뮤텍스 차이.md",
+                "file": "Algorithm/stable sort vs unstable sort.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "운영체제/바이너리 세마포어 vs 뮤텍스 차이.md"
+                "file": "Algorithm/stable sort vs unstable sort.md"
               }
             }
           },
@@ -202,57 +215,57 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "3f936290ed3933a5",
+  "active": "6b2a1b28f7fdad81",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2024-04-08 03.09.12.excalidraw.md",
-    "운영체제/바이너리 세마포어 vs 뮤텍스 차이.md",
-    "Excalidraw/제목 없음-2024-03-04-0408.excalidraw",
-    "Excalidraw/Drawing 2024-10-10 02.05.49.excalidraw.md",
-    "Experience/WarmingUpClub/Cs/private/발표자료/질문 정리.md",
-    "Excalidraw/제목 없음-2024-03-04-0408.excalidraw.crswap",
-    "Experience/WarmingUpClub/Cs/private/발표자료/발표 대본.md",
-    "Experience/WarmingUpClub/Cs/private/발표자료/공유 자원 문제.md",
-    "Experience/WarmingUpClub/Cs/private/발표자료/운영체제1013발표자료.md",
-    "운영체제/PCB(Process Control Block)란.md",
-    "운영체제/커널모드와 사용자모드.md",
-    "Typescript/tsconfig.md",
-    "옵시디언 플러그인/옵시디언 플러그인.md",
-    "옵시디언 플러그인/마크다운 문법.md",
-    "Youtube/디자인패턴/Iterator.md",
-    "Youtube/README.md",
+    "private/Article/CS/stable sort와 unstable sort.md",
+    "Algorithm/stable sort vs unstable sort.md",
     "README.md",
-    "Typescript/Typescript에서 bigint 타입과 백틱.md",
+    "Algorithm",
+    "private/Article/JavaScript/Javascript sort는 어떤 정렬 알고리즘을 사용할까?.md",
+    "Lecture/그림으로쉽게배우는자료구조기본/Chapter/private/섹션3/정렬/버블정렬.md",
+    "Lecture/그림으로쉽게배우는운영체제/Chapter/private/섹션6/컴파일과 프로세스.md",
+    "Lecture/그림으로쉽게배우는운영체제/Chapter/private/섹션7",
+    "Lecture/그림으로쉽게배우는운영체제/Chapter/private/섹션6/운영체제 중간 정리.md",
+    "images/Pasted Image 20241015002554_716.png",
+    "images/Pasted Image 20241015002237_525.png",
+    "images/Pasted Image 20241015001528_493.png",
+    "images/Pasted Image 20241015000634_894.png",
+    "Lecture/그림으로쉽게배우는운영체제/Chapter/private/섹션6/컴파일과 프로세스 코드.md",
+    "TODO/나는 우물안의 개구리다.md",
+    "TODO/멘토링 준비.md",
+    "images/Pasted Image 20241014202547_206.png",
+    "images/Pasted Image 20241014202359_152.png",
+    "Excalidraw/Drawing 2024-10-14 20.23.44.excalidraw.md",
+    "TODO/최종.md",
+    "TODO/학습 목표.md",
+    "TODO/함수형과 객체지향을 이용한 프로젝트.md",
+    "TODO/회고.md",
+    "TODO/Agile.md",
+    "TODO/FAM 프로젝트.md",
+    "TODO/TDD프로젝트.md",
+    "TODO/Todo.md",
+    "TODO/링크모드.md",
+    "TODO/독서 방법.md",
+    "TODO/날짜별 계획.md",
+    "TODO/더 나은 Nodejs 개발자가 되기 위해서.md",
+    "Lecture/그림으로쉽게배우는자료구조기본/Chapter/private/섹션3/정렬",
+    "Quizly/객체지향/팩토리패턴 이란?/question.md",
+    "Lecture/그림으로쉽게배우는운영체제/Chapter/private/섹션6",
+    "Quizly/객체지향/팩토리패턴 이란?/answer.md",
+    "Quizly/객체지향/추상 클래스는 언제 사용하나요?/question.md",
+    "Excalidraw/제목 없음-2024-03-04-0408.excalidraw",
+    "Excalidraw/제목 없음-2024-03-04-0408.excalidraw.crswap",
     "Youtube/디자인패턴",
     "Youtube",
-    "private/Article/Oop/TS 기반 디자인 패턴.md",
-    "Lecture/그림으로쉽게배우는자료구조기본/Chapter/private/섹션3/재귀 - 하노이 탑.md",
-    "TODO/회고.md",
-    "Lecture/그림으로쉽게배우는자료구조기본/Chapter/private/섹션3/재귀적으로 생각하기.md",
     "images/Pasted Image 20241013030949_656.png",
-    "Lecture/그림으로쉽게배우는자료구조기본/Chapter/private/섹션3/재귀.md",
     "images/Pasted Image 20241013021342_327.png",
     "images/Pasted Image 20241013020531_989.png",
-    "private/Article/Typescript/고급 타입 추론.md",
-    "Lecture/그림으로쉽게배우는운영체제/Chapter/private/섹션5/데드락 해결.md",
-    "Lecture/그림으로쉽게배우는운영체제/Chapter/private/섹션4/세마포어.md",
-    "Lecture/그림으로쉽게배우는운영체제/Chapter/private/섹션4/모니터.md",
-    "Lecture/그림으로쉽게배우는운영체제/Chapter/private/섹션5/데드락이란?.md",
     "images/Pasted image 20241012041837.png",
     "Lecture/그림으로쉽게배우는운영체제/Chapter/private/file",
     "Experience/WarmingUpClub/Cs/private/발표자료",
-    "images/bublesortimg.gif",
-    "images/e7a7d7e26d6ee82a5d118b4a782bf917.gif",
-    "images/Pasted Image 20241009061648_867.png",
-    "images/Pasted image 20241009232025.png",
-    "Network",
-    "Lecture/코어 자바스크립트/Chapter/private/images/Pasted image 20241010034656.png",
-    "Lecture/코어 자바스크립트/Chapter/private/images/Pasted image 20241010193844.png",
-    "Lecture/그림으로쉽게배우는운영체제/Chapter/private/섹션5",
     "무제 파일 2.canvas",
     "무제 파일 1.canvas",
     "무제 파일.canvas",
-    "도서/코어자바스크립트",
-    "Lecture/코어 자바스크립트/Chapter/private/images",
     "private/PreOnBoarding/AWS/무제 파일.canvas",
     "Excalidraw/무제 파일.canvas",
     "Quizly/Typescript/question05/무제 파일.canvas",
