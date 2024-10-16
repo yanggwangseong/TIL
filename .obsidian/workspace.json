@@ -13,50 +13,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lecture/그림으로쉽게배우는자료구조기본/Chapter/private/섹션3/정렬/버블정렬.md",
+                "file": "Typescript/분배 법칙과 대괄호 사용.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "7a4fb038fc72814d",
+            "id": "4ee02fd454a8e6cd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "private/Article/CS/stable sort와 unstable sort.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6b2a1b28f7fdad81",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Algorithm/stable sort vs unstable sort.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "074b11f643a94762",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lecture/그림으로쉽게배우는운영체제/Chapter/private/섹션6/컴파일과 프로세스 코드.md",
+                "file": "Typescript/tsconfig.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -153,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithm/stable sort vs unstable sort.md",
+                "file": "Typescript/분배 법칙과 대괄호 사용.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algorithm/stable sort vs unstable sort.md",
+                "file": "Typescript/분배 법칙과 대괄호 사용.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorithm/stable sort vs unstable sort.md"
+                "file": "Typescript/분배 법칙과 대괄호 사용.md"
               }
             }
           },
@@ -215,44 +190,44 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "6b2a1b28f7fdad81",
+  "active": "85236fab50cfc9ae",
   "lastOpenFiles": [
-    "private/Article/CS/stable sort와 unstable sort.md",
-    "Algorithm/stable sort vs unstable sort.md",
-    "README.md",
-    "Algorithm",
-    "private/Article/JavaScript/Javascript sort는 어떤 정렬 알고리즘을 사용할까?.md",
+    "Typescript/tsconfig.md",
+    "Typescript/분배 법칙과 대괄호 사용.md",
+    "Typescript/as unknown as.md",
+    "Typescript/Typescript에서 bigint 타입과 백틱.md",
+    "Typescript/Type Assertion 과 Type Casting.md",
     "Lecture/그림으로쉽게배우는자료구조기본/Chapter/private/섹션3/정렬/버블정렬.md",
     "Lecture/그림으로쉽게배우는운영체제/Chapter/private/섹션6/컴파일과 프로세스.md",
+    "Lecture/그림으로쉽게배우는운영체제/Chapter/private/섹션5/데드락이란?.md",
+    "Lecture/그림으로쉽게배우는운영체제/Chapter/private/섹션5/데드락 해결.md",
+    "Lecture/그림으로쉽게배우는운영체제/Chapter/private/섹션4/공유자원과 임계구역.md",
+    "Lecture/그림으로쉽게배우는운영체제/Chapter/private/섹션3/CPU스케줄링 개요.md",
+    "Lecture/그림으로쉽게배우는운영체제/Chapter/private/섹션3/스케줄링 목표.md",
+    "Lecture/그림으로쉽게배우는운영체제/Chapter/private/섹션3/다중큐.md",
+    "Lecture/그림으로쉽게배우는운영체제/Chapter/private/섹션2/PCB.md",
+    "Lecture/그림으로쉽게배우는운영체제/Chapter/private/섹션2/프로세스 생성과 종료.md",
+    "Lecture/그림으로쉽게배우는운영체제/Chapter/private/섹션2/프로그램과 프로세스.md",
+    "Lecture/그림으로쉽게배우는운영체제/Chapter/private/섹션2/쓰레드.md",
+    "Lecture/그림으로쉽게배우는운영체제/Chapter/private/섹션2/멀티프로그래밍과 멀티프로세싱.md",
+    "private/Article/JavaScript/배열에서 특정 요소의 존재 여부를 확인.md",
+    "private/Article/JavaScript/이벤트 루프.md",
+    "private/Article/JavaScript/Javascript sort는 어떤 정렬 알고리즘을 사용할까?.md",
+    "private/Article/JavaScript/Promise.md",
+    "TODO/나는 우물안의 개구리다.md",
+    "TODO/독서 방법.md",
+    "TODO/회고.md",
+    "TODO/더 나은 Nodejs 개발자가 되기 위해서.md",
+    "Algorithm",
     "Lecture/그림으로쉽게배우는운영체제/Chapter/private/섹션7",
-    "Lecture/그림으로쉽게배우는운영체제/Chapter/private/섹션6/운영체제 중간 정리.md",
     "images/Pasted Image 20241015002554_716.png",
     "images/Pasted Image 20241015002237_525.png",
     "images/Pasted Image 20241015001528_493.png",
     "images/Pasted Image 20241015000634_894.png",
-    "Lecture/그림으로쉽게배우는운영체제/Chapter/private/섹션6/컴파일과 프로세스 코드.md",
-    "TODO/나는 우물안의 개구리다.md",
-    "TODO/멘토링 준비.md",
     "images/Pasted Image 20241014202547_206.png",
     "images/Pasted Image 20241014202359_152.png",
-    "Excalidraw/Drawing 2024-10-14 20.23.44.excalidraw.md",
-    "TODO/최종.md",
-    "TODO/학습 목표.md",
-    "TODO/함수형과 객체지향을 이용한 프로젝트.md",
-    "TODO/회고.md",
-    "TODO/Agile.md",
-    "TODO/FAM 프로젝트.md",
-    "TODO/TDD프로젝트.md",
-    "TODO/Todo.md",
-    "TODO/링크모드.md",
-    "TODO/독서 방법.md",
-    "TODO/날짜별 계획.md",
-    "TODO/더 나은 Nodejs 개발자가 되기 위해서.md",
     "Lecture/그림으로쉽게배우는자료구조기본/Chapter/private/섹션3/정렬",
-    "Quizly/객체지향/팩토리패턴 이란?/question.md",
     "Lecture/그림으로쉽게배우는운영체제/Chapter/private/섹션6",
-    "Quizly/객체지향/팩토리패턴 이란?/answer.md",
-    "Quizly/객체지향/추상 클래스는 언제 사용하나요?/question.md",
     "Excalidraw/제목 없음-2024-03-04-0408.excalidraw",
     "Excalidraw/제목 없음-2024-03-04-0408.excalidraw.crswap",
     "Youtube/디자인패턴",
