@@ -4,34 +4,45 @@
     "type": "split",
     "children": [
       {
-        "id": "4be747e3b7c9f28c",
+        "id": "0472b750eefdb8c3",
         "type": "tabs",
         "children": [
           {
-            "id": "85236fab50cfc9ae",
+            "id": "3c1431bcab3dbfa7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Typescript/분배 법칙과 대괄호 사용.md",
+                "file": "Lecture/그림으로쉽게배우는운영체제/Chapter/private/섹션8/가상 메모리 개요.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "4ee02fd454a8e6cd",
+            "id": "2de44970f03a104a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Typescript/tsconfig.md",
+                "file": "운영체제/오버헤드.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "d6bdb94371b8d4f3",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Lecture/그림으로쉽게배우는운영체제/Chapter/private/섹션8/세그멘테이션(배치정책).md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -60,7 +71,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "stable sort",
+                "query": "이해하",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -128,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Typescript/분배 법칙과 대괄호 사용.md",
+                "file": "운영체제/오버헤드.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Typescript/분배 법칙과 대괄호 사용.md",
+                "file": "운영체제/오버헤드.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Typescript/분배 법칙과 대괄호 사용.md"
+                "file": "운영체제/오버헤드.md"
               }
             }
           },
@@ -190,34 +201,38 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "85236fab50cfc9ae",
+  "active": "2de44970f03a104a",
   "lastOpenFiles": [
-    "Typescript/tsconfig.md",
-    "Typescript/분배 법칙과 대괄호 사용.md",
-    "Typescript/as unknown as.md",
-    "Typescript/Typescript에서 bigint 타입과 백틱.md",
-    "Typescript/Type Assertion 과 Type Casting.md",
-    "Lecture/그림으로쉽게배우는자료구조기본/Chapter/private/섹션3/정렬/버블정렬.md",
-    "Lecture/그림으로쉽게배우는운영체제/Chapter/private/섹션6/컴파일과 프로세스.md",
-    "Lecture/그림으로쉽게배우는운영체제/Chapter/private/섹션5/데드락이란?.md",
-    "Lecture/그림으로쉽게배우는운영체제/Chapter/private/섹션5/데드락 해결.md",
-    "Lecture/그림으로쉽게배우는운영체제/Chapter/private/섹션4/공유자원과 임계구역.md",
-    "Lecture/그림으로쉽게배우는운영체제/Chapter/private/섹션3/CPU스케줄링 개요.md",
-    "Lecture/그림으로쉽게배우는운영체제/Chapter/private/섹션3/스케줄링 목표.md",
-    "Lecture/그림으로쉽게배우는운영체제/Chapter/private/섹션3/다중큐.md",
-    "Lecture/그림으로쉽게배우는운영체제/Chapter/private/섹션2/PCB.md",
-    "Lecture/그림으로쉽게배우는운영체제/Chapter/private/섹션2/프로세스 생성과 종료.md",
-    "Lecture/그림으로쉽게배우는운영체제/Chapter/private/섹션2/프로그램과 프로세스.md",
-    "Lecture/그림으로쉽게배우는운영체제/Chapter/private/섹션2/쓰레드.md",
-    "Lecture/그림으로쉽게배우는운영체제/Chapter/private/섹션2/멀티프로그래밍과 멀티프로세싱.md",
-    "private/Article/JavaScript/배열에서 특정 요소의 존재 여부를 확인.md",
-    "private/Article/JavaScript/이벤트 루프.md",
-    "private/Article/JavaScript/Javascript sort는 어떤 정렬 알고리즘을 사용할까?.md",
-    "private/Article/JavaScript/Promise.md",
+    "Lecture/그림으로쉽게배우는운영체제/Chapter/private/섹션8/가상 메모리 개요.md",
+    "Lecture/그림으로쉽게배우는운영체제/Chapter/private/섹션8/세그멘테이션(배치정책).md",
+    "Lecture/그림으로쉽게배우는운영체제/Chapter/private/섹션8/가상메모리 개요.md",
+    "운영체제/오버헤드.md",
+    "images/Pasted image 20241016225710.png",
     "TODO/나는 우물안의 개구리다.md",
-    "TODO/독서 방법.md",
-    "TODO/회고.md",
-    "TODO/더 나은 Nodejs 개발자가 되기 위해서.md",
+    "private/Article/JavaScript/Javascript sort는 어떤 정렬 알고리즘을 사용할까?.md",
+    "TODO/멘토링 준비.md",
+    "Lecture/그림으로쉽게배우는운영체제/Chapter/private/섹션8",
+    "Typescript/분배 법칙과 대괄호 사용.md",
+    "Lecture/그림으로쉽게배우는운영체제/Chapter/private/섹션7/가상 메모리 개요.md",
+    "Lecture/그림으로쉽게배우는자료구조기본/Chapter/private/섹션3/재귀적으로 생각하기.md",
+    "Lecture/그림으로쉽게배우는자료구조기본/Chapter/private/섹션3/재귀 - 하노이 탑.md",
+    "Lecture/그림으로쉽게배우는자료구조기본/Chapter/private/섹션3/재귀.md",
+    "Lecture/그림으로쉽게배우는자료구조기본/Chapter/private/섹션3/정렬/버블정렬.md",
+    "Experience/PreOnBoarding/Frontend/private/1-1 주차.md",
+    "Experience/PreOnBoarding/Frontend/private/1-2 주차.md",
+    "Experience/PreOnBoarding/Frontend/private/2-1 주차.md",
+    "Experience/PreOnBoarding/Frontend/private/2-2 주차.md",
+    "Experience/PreOnBoarding/Frontend/private/README.md",
+    "도서/오브젝트/README.md",
+    "도서/이펙티브 타입스크립트/Chapter/2. 타입스크립트의 타입 시스템.md",
+    "Lecture/그림으로쉽게배우는운영체제/Chapter/private/섹션4/공유자원과 임계구역.md",
+    "Experience/WarmingUpClub/Cs/private/발표자료/공유 자원 문제.md",
+    "Typescript/Typescript에서 bigint 타입과 백틱.md",
+    "images/Pasted image 20241015185636.png",
+    "Excalidraw/Drawing 2024-10-15 18.54.43.excalidraw.md",
+    "images/Pasted Image 20241015185458_877.png",
+    "Typescript/as unknown as.md",
+    "Typescript/Type Assertion 과 Type Casting.md",
     "Algorithm",
     "Lecture/그림으로쉽게배우는운영체제/Chapter/private/섹션7",
     "images/Pasted Image 20241015002554_716.png",
@@ -233,11 +248,7 @@
     "Youtube/디자인패턴",
     "Youtube",
     "images/Pasted Image 20241013030949_656.png",
-    "images/Pasted Image 20241013021342_327.png",
-    "images/Pasted Image 20241013020531_989.png",
-    "images/Pasted image 20241012041837.png",
     "Lecture/그림으로쉽게배우는운영체제/Chapter/private/file",
-    "Experience/WarmingUpClub/Cs/private/발표자료",
     "무제 파일 2.canvas",
     "무제 파일 1.canvas",
     "무제 파일.canvas",
