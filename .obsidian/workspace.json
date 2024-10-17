@@ -35,6 +35,30 @@
             "id": "d6bdb94371b8d4f3",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "운영체제/논리 주소와 물리 주소.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "36cead361904fbb6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "운영체제/오버헤드.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "18ec66f49633cf2a",
+            "type": "leaf",
+            "state": {
               "type": "excalidraw",
               "state": {
                 "file": "Lecture/그림으로쉽게배우는운영체제/Chapter/private/섹션8/세그멘테이션(배치정책).md"
@@ -42,7 +66,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -139,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "운영체제/오버헤드.md",
+                "file": "운영체제/논리 주소와 물리 주소.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +180,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "운영체제/오버헤드.md",
+                "file": "운영체제/논리 주소와 물리 주소.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "운영체제/오버헤드.md"
+                "file": "운영체제/논리 주소와 물리 주소.md"
               }
             }
           },
@@ -201,12 +225,15 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "2de44970f03a104a",
+  "active": "d6bdb94371b8d4f3",
   "lastOpenFiles": [
-    "Lecture/그림으로쉽게배우는운영체제/Chapter/private/섹션8/가상 메모리 개요.md",
-    "Lecture/그림으로쉽게배우는운영체제/Chapter/private/섹션8/세그멘테이션(배치정책).md",
-    "Lecture/그림으로쉽게배우는운영체제/Chapter/private/섹션8/가상메모리 개요.md",
     "운영체제/오버헤드.md",
+    "Lecture/그림으로쉽게배우는운영체제/Chapter/private/섹션8/세그멘테이션(배치정책).md",
+    "운영체제/논리 주소와 물리 주소.md",
+    "images/Pasted image 20241017000813.png",
+    "Lecture/그림으로쉽게배우는운영체제/Chapter/private/섹션8/가상메모리 개요.md",
+    "Lecture/그림으로쉽게배우는운영체제/Chapter/private/섹션8/가상 메모리 개요.md",
+    "Lecture/그림으로쉽게배우는운영체제/Chapter/private/섹션8/페이징(배치정책).md",
     "images/Pasted image 20241016225710.png",
     "TODO/나는 우물안의 개구리다.md",
     "private/Article/JavaScript/Javascript sort는 어떤 정렬 알고리즘을 사용할까?.md",
@@ -229,10 +256,7 @@
     "Experience/WarmingUpClub/Cs/private/발표자료/공유 자원 문제.md",
     "Typescript/Typescript에서 bigint 타입과 백틱.md",
     "images/Pasted image 20241015185636.png",
-    "Excalidraw/Drawing 2024-10-15 18.54.43.excalidraw.md",
     "images/Pasted Image 20241015185458_877.png",
-    "Typescript/as unknown as.md",
-    "Typescript/Type Assertion 과 Type Casting.md",
     "Algorithm",
     "Lecture/그림으로쉽게배우는운영체제/Chapter/private/섹션7",
     "images/Pasted Image 20241015002554_716.png",
@@ -247,7 +271,6 @@
     "Excalidraw/제목 없음-2024-03-04-0408.excalidraw.crswap",
     "Youtube/디자인패턴",
     "Youtube",
-    "images/Pasted Image 20241013030949_656.png",
     "Lecture/그림으로쉽게배우는운영체제/Chapter/private/file",
     "무제 파일 2.canvas",
     "무제 파일 1.canvas",
