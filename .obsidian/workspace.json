@@ -4,69 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "0472b750eefdb8c3",
+        "id": "6b3827f36107d77a",
         "type": "tabs",
         "children": [
           {
-            "id": "3c1431bcab3dbfa7",
+            "id": "3b88a259072fd7a0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lecture/그림으로쉽게배우는운영체제/Chapter/private/섹션8/가상 메모리 개요.md",
+                "file": "Lecture/그림으로쉽게배우는운영체제/README.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "2de44970f03a104a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "운영체제/오버헤드.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d6bdb94371b8d4f3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "운영체제/논리 주소와 물리 주소.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "36cead361904fbb6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "운영체제/오버헤드.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "18ec66f49633cf2a",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Lecture/그림으로쉽게배우는운영체제/Chapter/private/섹션8/세그멘테이션(배치정책).md"
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -95,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "이해하",
+                "query": "로드맵",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -163,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "운영체제/논리 주소와 물리 주소.md",
+                "file": "Lecture/그림으로쉽게배우는운영체제/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "운영체제/논리 주소와 물리 주소.md",
+                "file": "Lecture/그림으로쉽게배우는운영체제/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "운영체제/논리 주소와 물리 주소.md"
+                "file": "Lecture/그림으로쉽게배우는운영체제/README.md"
               }
             }
           },
@@ -225,53 +178,54 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "d6bdb94371b8d4f3",
+  "active": "3b88a259072fd7a0",
   "lastOpenFiles": [
+    "images/Pasted image 20241018002901.png",
+    "운영체제/PCB(Process Control Block)란.md",
+    "운영체제/커널모드와 사용자모드.md",
     "운영체제/오버헤드.md",
-    "Lecture/그림으로쉽게배우는운영체제/Chapter/private/섹션8/세그멘테이션(배치정책).md",
+    "운영체제/바이너리 세마포어 vs 뮤텍스 차이.md",
     "운영체제/논리 주소와 물리 주소.md",
-    "images/Pasted image 20241017000813.png",
-    "Lecture/그림으로쉽게배우는운영체제/Chapter/private/섹션8/가상메모리 개요.md",
-    "Lecture/그림으로쉽게배우는운영체제/Chapter/private/섹션8/가상 메모리 개요.md",
-    "Lecture/그림으로쉽게배우는운영체제/Chapter/private/섹션8/페이징(배치정책).md",
-    "images/Pasted image 20241016225710.png",
-    "TODO/나는 우물안의 개구리다.md",
-    "private/Article/JavaScript/Javascript sort는 어떤 정렬 알고리즘을 사용할까?.md",
-    "TODO/멘토링 준비.md",
-    "Lecture/그림으로쉽게배우는운영체제/Chapter/private/섹션8",
-    "Typescript/분배 법칙과 대괄호 사용.md",
-    "Lecture/그림으로쉽게배우는운영체제/Chapter/private/섹션7/가상 메모리 개요.md",
-    "Lecture/그림으로쉽게배우는자료구조기본/Chapter/private/섹션3/재귀적으로 생각하기.md",
-    "Lecture/그림으로쉽게배우는자료구조기본/Chapter/private/섹션3/재귀 - 하노이 탑.md",
-    "Lecture/그림으로쉽게배우는자료구조기본/Chapter/private/섹션3/재귀.md",
-    "Lecture/그림으로쉽게배우는자료구조기본/Chapter/private/섹션3/정렬/버블정렬.md",
-    "Experience/PreOnBoarding/Frontend/private/1-1 주차.md",
-    "Experience/PreOnBoarding/Frontend/private/1-2 주차.md",
-    "Experience/PreOnBoarding/Frontend/private/2-1 주차.md",
-    "Experience/PreOnBoarding/Frontend/private/2-2 주차.md",
-    "Experience/PreOnBoarding/Frontend/private/README.md",
-    "도서/오브젝트/README.md",
-    "도서/이펙티브 타입스크립트/Chapter/2. 타입스크립트의 타입 시스템.md",
-    "Lecture/그림으로쉽게배우는운영체제/Chapter/private/섹션4/공유자원과 임계구역.md",
+    "private/Article/CS/운영체제 로드맵.md",
+    "study/알고리즘/알고리즘.md",
+    "Experience/WarmingUpClub/Cs/private/발표자료/운영체제1013발표자료.md",
+    "Experience/WarmingUpClub/Cs/private/발표자료/질문 정리.md",
+    "Experience/WarmingUpClub/Cs/README.md",
+    "Experience/WarmingUpClub/Cs/private/발표자료/발표 대본.md",
     "Experience/WarmingUpClub/Cs/private/발표자료/공유 자원 문제.md",
-    "Typescript/Typescript에서 bigint 타입과 백틱.md",
+    "Excalidraw/Exception-filter.md",
+    "Algorithm/stable sort vs unstable sort.md",
+    "Lecture/그림으로쉽게배우는운영체제/Chapter/private/images/Pasted image 20241007050037.png",
+    "Lecture/그림으로쉽게배우는운영체제/README.md",
+    "Lecture/코드팩토리Typescript/README.md",
+    "Experience/WarmingUpClub/Cs/private/미션/2주차 미션.md",
+    "Experience/WarmingUpClub/Cs/private/미션/3주차 미션.md",
+    "Experience/WarmingUpClub/Cs/private/미션/1주차 미션.md",
+    "Lecture/그림으로쉽게배우는운영체제/Chapter/private/섹션9/3. 하드디스크-FlashMemory.md",
+    "images/Pasted Image 20241017224015_338.png",
+    "images/Pasted Image 20241017223600_198.png",
+    "Lecture/그림으로쉽게배우는운영체제/Chapter/private/섹션9/1. 주변장치.md",
+    "Lecture/그림으로쉽게배우는운영체제/Chapter/private/섹션9/2. 마우스와키보드.md",
+    "Lecture/그림으로쉽게배우는운영체제/Chapter/private/섹션2/프로세스 상태.md",
+    "TODO/블로그글.md",
+    "images/Pasted Image 20241017183448_913.png",
+    "images/Pasted Image 20241017183231_891.jpg",
+    "images/Pasted Image 20241017175859_679.png",
+    "images/Pasted Image 20241017175859_651.png",
+    "Lecture/그림으로쉽게배우는운영체제/Chapter/private/섹션8/7. 스레싱과 워크셋.md",
+    "Lecture/그림으로쉽게배우는운영체제/Chapter/private/섹션9",
+    "images/Pasted image 20241017000813.png",
+    "images/Pasted image 20241016225710.png",
+    "Lecture/그림으로쉽게배우는운영체제/Chapter/private/섹션8",
     "images/Pasted image 20241015185636.png",
-    "images/Pasted Image 20241015185458_877.png",
     "Algorithm",
     "Lecture/그림으로쉽게배우는운영체제/Chapter/private/섹션7",
-    "images/Pasted Image 20241015002554_716.png",
-    "images/Pasted Image 20241015002237_525.png",
-    "images/Pasted Image 20241015001528_493.png",
-    "images/Pasted Image 20241015000634_894.png",
-    "images/Pasted Image 20241014202547_206.png",
-    "images/Pasted Image 20241014202359_152.png",
     "Lecture/그림으로쉽게배우는자료구조기본/Chapter/private/섹션3/정렬",
     "Lecture/그림으로쉽게배우는운영체제/Chapter/private/섹션6",
     "Excalidraw/제목 없음-2024-03-04-0408.excalidraw",
     "Excalidraw/제목 없음-2024-03-04-0408.excalidraw.crswap",
     "Youtube/디자인패턴",
     "Youtube",
-    "Lecture/그림으로쉽게배우는운영체제/Chapter/private/file",
     "무제 파일 2.canvas",
     "무제 파일 1.canvas",
     "무제 파일.canvas",
