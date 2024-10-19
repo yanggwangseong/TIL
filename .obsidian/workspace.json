@@ -4,11 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "6b3827f36107d77a",
+        "id": "19ec3d0cee30621c",
         "type": "tabs",
         "children": [
           {
-            "id": "3b88a259072fd7a0",
+            "id": "5d21a8bfc09af8fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lecture/그림으로쉽게배우는자료구조기본/Chapter/private/섹션3/동적프로그래밍-타뷸레이션.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "20bdd2c59d06c529",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lecture/그림으로쉽게배우는자료구조기본/README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9a75d7f1d1f5be88",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,8 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0c479d70fdb5457e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lecture/그림으로쉽게배우는자료구조기본/Chapter/private/섹션3/동적프로그래밍-메모제이션.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "로드맵",
+                "query": "stable sort",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -116,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lecture/그림으로쉽게배우는운영체제/README.md",
+                "file": "Lecture/그림으로쉽게배우는자료구조기본/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lecture/그림으로쉽게배우는운영체제/README.md",
+                "file": "Lecture/그림으로쉽게배우는자료구조기본/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lecture/그림으로쉽게배우는운영체제/README.md"
+                "file": "Lecture/그림으로쉽게배우는자료구조기본/README.md"
               }
             }
           },
@@ -178,46 +215,46 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "3b88a259072fd7a0",
+  "active": "20bdd2c59d06c529",
   "lastOpenFiles": [
-    "images/Pasted image 20241018002901.png",
-    "운영체제/PCB(Process Control Block)란.md",
-    "운영체제/커널모드와 사용자모드.md",
-    "운영체제/오버헤드.md",
-    "운영체제/바이너리 세마포어 vs 뮤텍스 차이.md",
-    "운영체제/논리 주소와 물리 주소.md",
-    "private/Article/CS/운영체제 로드맵.md",
-    "study/알고리즘/알고리즘.md",
-    "Experience/WarmingUpClub/Cs/private/발표자료/운영체제1013발표자료.md",
-    "Experience/WarmingUpClub/Cs/private/발표자료/질문 정리.md",
-    "Experience/WarmingUpClub/Cs/README.md",
-    "Experience/WarmingUpClub/Cs/private/발표자료/발표 대본.md",
-    "Experience/WarmingUpClub/Cs/private/발표자료/공유 자원 문제.md",
-    "Excalidraw/Exception-filter.md",
-    "Algorithm/stable sort vs unstable sort.md",
-    "Lecture/그림으로쉽게배우는운영체제/Chapter/private/images/Pasted image 20241007050037.png",
     "Lecture/그림으로쉽게배우는운영체제/README.md",
-    "Lecture/코드팩토리Typescript/README.md",
-    "Experience/WarmingUpClub/Cs/private/미션/2주차 미션.md",
-    "Experience/WarmingUpClub/Cs/private/미션/3주차 미션.md",
-    "Experience/WarmingUpClub/Cs/private/미션/1주차 미션.md",
+    "Lecture/그림으로쉽게배우는자료구조기본/README.md",
+    "images/Pasted image 20241018222206.png",
+    "Lecture/그림으로쉽게배우는자료구조기본/Chapter/private/섹션3/동적프로그래밍-타뷸레이션.md",
+    "Lecture/그림으로쉽게배우는자료구조기본/Chapter/private/섹션3/동적프로그래밍-메모제이션.md",
+    "Lecture/그림으로쉽게배우는운영체제/Chapter/private/섹션10/3. 파일과 디스크.md",
+    "images/Pasted image 20241018202120.png",
+    "images/Pasted image 20241018202042.png",
+    "images/Pasted image 20241018202017.png",
+    "images/Pasted image 20241018201805.png",
+    "images/Pasted image 20241018201430.png",
+    "images/Pasted image 20241018201325.png",
+    "images/Pasted image 20241018201258.png",
+    "Lecture/그림으로쉽게배우는자료구조기본/Chapter/private/images/Pasted image 20241018200934.png",
+    "Lecture/그림으로쉽게배우는자료구조기본/Chapter/private/images/Pasted image 20241005184342.png",
+    "Lecture/그림으로쉽게배우는자료구조기본/Chapter/private/images/재귀적으로 생각하기.md",
     "Lecture/그림으로쉽게배우는운영체제/Chapter/private/섹션9/3. 하드디스크-FlashMemory.md",
-    "images/Pasted Image 20241017224015_338.png",
-    "images/Pasted Image 20241017223600_198.png",
-    "Lecture/그림으로쉽게배우는운영체제/Chapter/private/섹션9/1. 주변장치.md",
     "Lecture/그림으로쉽게배우는운영체제/Chapter/private/섹션9/2. 마우스와키보드.md",
-    "Lecture/그림으로쉽게배우는운영체제/Chapter/private/섹션2/프로세스 상태.md",
-    "TODO/블로그글.md",
-    "images/Pasted Image 20241017183448_913.png",
-    "images/Pasted Image 20241017183231_891.jpg",
-    "images/Pasted Image 20241017175859_679.png",
-    "images/Pasted Image 20241017175859_651.png",
-    "Lecture/그림으로쉽게배우는운영체제/Chapter/private/섹션8/7. 스레싱과 워크셋.md",
+    "Lecture/그림으로쉽게배우는운영체제/Chapter/private/섹션9/1. 주변장치.md",
+    "Lecture/그림으로쉽게배우는운영체제/Chapter/private/섹션10/1. 파일과 파일시스템.md",
+    "Lecture/그림으로쉽게배우는운영체제/Chapter/private/섹션10/2. 디렉토리.md",
+    "private/Article/JavaScript/Javascript sort는 어떤 정렬 알고리즘을 사용할까?.md",
+    "Lecture/그림으로쉽게배우는운영체제/Chapter/private/섹션10",
+    "private/Article/CS/stable sort와 unstable sort.md",
+    "private/Article/CS/운영체제 로드맵.md",
+    "private/Article/CS/뮤텍스 세마포어 모니터 스핀락 정리.md",
+    "private/Article/CS/동기-비동기 & 블록킹 - 논블록킹.md",
+    "Algorithm/stable sort vs unstable sort.md",
+    "private/Article/JavaScript/Javascript 배열이 배열이 아닌 이유.md",
+    "Experience/PreOnBoarding/Backend/private/1-1 주차.md",
+    "TODO/나는 우물안의 개구리다.md",
+    "TODO/날짜별 계획.md",
+    "Lecture/그림으로쉽게배우는자료구조기본/Chapter/private/섹션3/정렬/병합 정렬.md",
+    "Lecture/그림으로쉽게배우는자료구조기본/Chapter/private/섹션3/정렬/버블정렬.md",
+    "Lecture/테스트WithJest/Chapter/private/Jest 배워보기.md",
+    "운영체제/PCB(Process Control Block)란.md",
     "Lecture/그림으로쉽게배우는운영체제/Chapter/private/섹션9",
-    "images/Pasted image 20241017000813.png",
-    "images/Pasted image 20241016225710.png",
     "Lecture/그림으로쉽게배우는운영체제/Chapter/private/섹션8",
-    "images/Pasted image 20241015185636.png",
     "Algorithm",
     "Lecture/그림으로쉽게배우는운영체제/Chapter/private/섹션7",
     "Lecture/그림으로쉽게배우는자료구조기본/Chapter/private/섹션3/정렬",
@@ -225,7 +262,6 @@
     "Excalidraw/제목 없음-2024-03-04-0408.excalidraw",
     "Excalidraw/제목 없음-2024-03-04-0408.excalidraw.crswap",
     "Youtube/디자인패턴",
-    "Youtube",
     "무제 파일 2.canvas",
     "무제 파일 1.canvas",
     "무제 파일.canvas",
