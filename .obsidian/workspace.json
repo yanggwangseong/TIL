@@ -4,59 +4,44 @@
     "type": "split",
     "children": [
       {
-        "id": "19ec3d0cee30621c",
+        "id": "73bf82af75596b14",
         "type": "tabs",
         "children": [
           {
-            "id": "5d21a8bfc09af8fa",
+            "id": "b54710f4186c8e0d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lecture/그림으로쉽게배우는자료구조기본/Chapter/private/섹션3/동적프로그래밍-타뷸레이션.md",
+                "file": "도서/코어자바스크립트/Chapter/1. 데이터 타입.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "20bdd2c59d06c529",
+            "id": "55aa3d3755d8c175",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Lecture/그림으로쉽게배우는자료구조기본/README.md",
-                "mode": "source",
-                "source": false
+                "file": "도서/코어자바스크립트/Chapter/images/중첩객체메모리할당.md"
               }
             }
           },
           {
-            "id": "9a75d7f1d1f5be88",
+            "id": "9001d0af290190e0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lecture/그림으로쉽게배우는운영체제/README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0c479d70fdb5457e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lecture/그림으로쉽게배우는자료구조기본/Chapter/private/섹션3/동적프로그래밍-메모제이션.md",
+                "file": "도서/오브젝트/Chapter/12. 다형성.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -85,7 +70,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "stable sort",
+                "query": "서킷",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -126,7 +111,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329
+    "width": 329,
+    "collapsed": true
   },
   "right": {
     "id": "4f48e1273ca3d00f",
@@ -153,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lecture/그림으로쉽게배우는자료구조기본/README.md",
+                "file": "도서/코어자바스크립트/Chapter/1. 데이터 타입.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lecture/그림으로쉽게배우는자료구조기본/README.md",
+                "file": "도서/코어자바스크립트/Chapter/1. 데이터 타입.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lecture/그림으로쉽게배우는자료구조기본/README.md"
+                "file": "도서/코어자바스크립트/Chapter/1. 데이터 타입.md"
               }
             }
           },
@@ -198,8 +184,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -215,53 +200,54 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "20bdd2c59d06c529",
+  "active": "b54710f4186c8e0d",
   "lastOpenFiles": [
-    "Lecture/그림으로쉽게배우는운영체제/README.md",
-    "Lecture/그림으로쉽게배우는자료구조기본/README.md",
+    "도서/코어자바스크립트/Chapter/images/중첩객체메모리할당.md",
+    "도서/오브젝트/README.md",
+    "도서/코어자바스크립트/Chapter/1. 데이터 타입.md",
+    "도서/코어자바스크립트/Chapter/images/image01.png",
+    "도서/코어자바스크립트/README.md",
+    "images/Pasted Image 20241021044754_021.png",
+    "도서/코어자바스크립트/Chapter/images",
+    "도서/오브젝트/Chapter/12. 다형성.md",
+    "Lecture/코어 자바스크립트/Chapter/private/데이터 타입.md",
+    "도서/코어자바스크립트/Chapter",
+    "Lecture/코어 자바스크립트/README.md",
+    "Lecture/코어 자바스크립트/Chapter/private/this.md",
+    "Lecture/코어 자바스크립트/Chapter/private/정리.md",
+    "Lecture/코어 자바스크립트/Chapter/private/실행 컨텍스트.md",
+    "TODO/멘토링 준비.md",
+    "TODO/회고.md",
+    "Experience/WarmingUpClub/Cs/private/3주차/요약 키워드.md",
+    "Experience/WarmingUpClub/Cs/private/미션/3주차 미션.md",
+    "Experience/WarmingUpClub/Cs/private/미션/2주차 미션.md",
+    "Experience/WarmingUpClub/Cs/private/미션/1주차 미션.md",
+    "Experience/WarmingUpClub/Cs/private/발표자료/공유 자원 문제.md",
+    "Experience/WarmingUpClub/Cs/private/발표자료/발표 대본.md",
+    "Experience/WarmingUpClub/Cs/private/발표자료/운영체제1013발표자료.md",
+    "Experience/WarmingUpClub/Cs/private/발표자료/질문 정리.md",
+    "private/Article/NestJS/Architecture/Layered Architecture.md",
+    "private/Article/Typescript/TS태그된 유니온 패턴 vs oop합성.md",
+    "private/Article/CleanCode/Rest-api 설계시에 Eslint 활용.md",
+    "도서/이펙티브 타입스크립트/Chapter/1. 타입스크립트 알아보기.md",
+    "images/Pasted image 20241020185010.png",
+    "도서/이펙티브 타입스크립트/Chapter/4. 타입 설계.md",
+    "도서/이펙티브 타입스크립트/Chapter/3. 타입추론.md",
+    "Experience/WarmingUpClub/Cs/private/3주차",
+    "images/Pasted Image 20241019040409_787.png",
+    "images/Pasted Image 20241019040318_485.png",
+    "images/Pasted Image 20241019040015_189.png",
+    "images/Pasted Image 20241019023707_285.png",
     "images/Pasted image 20241018222206.png",
-    "Lecture/그림으로쉽게배우는자료구조기본/Chapter/private/섹션3/동적프로그래밍-타뷸레이션.md",
-    "Lecture/그림으로쉽게배우는자료구조기본/Chapter/private/섹션3/동적프로그래밍-메모제이션.md",
-    "Lecture/그림으로쉽게배우는운영체제/Chapter/private/섹션10/3. 파일과 디스크.md",
     "images/Pasted image 20241018202120.png",
     "images/Pasted image 20241018202042.png",
-    "images/Pasted image 20241018202017.png",
-    "images/Pasted image 20241018201805.png",
-    "images/Pasted image 20241018201430.png",
-    "images/Pasted image 20241018201325.png",
-    "images/Pasted image 20241018201258.png",
-    "Lecture/그림으로쉽게배우는자료구조기본/Chapter/private/images/Pasted image 20241018200934.png",
-    "Lecture/그림으로쉽게배우는자료구조기본/Chapter/private/images/Pasted image 20241005184342.png",
-    "Lecture/그림으로쉽게배우는자료구조기본/Chapter/private/images/재귀적으로 생각하기.md",
-    "Lecture/그림으로쉽게배우는운영체제/Chapter/private/섹션9/3. 하드디스크-FlashMemory.md",
-    "Lecture/그림으로쉽게배우는운영체제/Chapter/private/섹션9/2. 마우스와키보드.md",
-    "Lecture/그림으로쉽게배우는운영체제/Chapter/private/섹션9/1. 주변장치.md",
-    "Lecture/그림으로쉽게배우는운영체제/Chapter/private/섹션10/1. 파일과 파일시스템.md",
-    "Lecture/그림으로쉽게배우는운영체제/Chapter/private/섹션10/2. 디렉토리.md",
-    "private/Article/JavaScript/Javascript sort는 어떤 정렬 알고리즘을 사용할까?.md",
     "Lecture/그림으로쉽게배우는운영체제/Chapter/private/섹션10",
-    "private/Article/CS/stable sort와 unstable sort.md",
-    "private/Article/CS/운영체제 로드맵.md",
-    "private/Article/CS/뮤텍스 세마포어 모니터 스핀락 정리.md",
-    "private/Article/CS/동기-비동기 & 블록킹 - 논블록킹.md",
-    "Algorithm/stable sort vs unstable sort.md",
-    "private/Article/JavaScript/Javascript 배열이 배열이 아닌 이유.md",
-    "Experience/PreOnBoarding/Backend/private/1-1 주차.md",
-    "TODO/나는 우물안의 개구리다.md",
-    "TODO/날짜별 계획.md",
-    "Lecture/그림으로쉽게배우는자료구조기본/Chapter/private/섹션3/정렬/병합 정렬.md",
-    "Lecture/그림으로쉽게배우는자료구조기본/Chapter/private/섹션3/정렬/버블정렬.md",
-    "Lecture/테스트WithJest/Chapter/private/Jest 배워보기.md",
-    "운영체제/PCB(Process Control Block)란.md",
     "Lecture/그림으로쉽게배우는운영체제/Chapter/private/섹션9",
     "Lecture/그림으로쉽게배우는운영체제/Chapter/private/섹션8",
     "Algorithm",
     "Lecture/그림으로쉽게배우는운영체제/Chapter/private/섹션7",
     "Lecture/그림으로쉽게배우는자료구조기본/Chapter/private/섹션3/정렬",
     "Lecture/그림으로쉽게배우는운영체제/Chapter/private/섹션6",
-    "Excalidraw/제목 없음-2024-03-04-0408.excalidraw",
-    "Excalidraw/제목 없음-2024-03-04-0408.excalidraw.crswap",
-    "Youtube/디자인패턴",
     "무제 파일 2.canvas",
     "무제 파일 1.canvas",
     "무제 파일.canvas",
