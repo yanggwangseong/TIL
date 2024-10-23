@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b505edf83b7413b1",
+        "id": "f90ddd94bd47fee2",
         "type": "tabs",
         "children": [
           {
-            "id": "c527df73b192c833",
+            "id": "6f76a28270156eac",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "도서/코어자바스크립트/Chapter/1. 데이터 타입.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "16cad9a1bf7eaed3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "private/Article/ESLint/ESLint.md",
+                "file": "도서/함께자라기/Chapter/2. 함께.md",
                 "mode": "source",
                 "source": false
               }
@@ -60,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "for in",
+                "query": "실행 컨텍스트",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -128,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "도서/코어자바스크립트/Chapter/1. 데이터 타입.md",
+                "file": "도서/함께자라기/Chapter/2. 함께.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "도서/코어자바스크립트/Chapter/1. 데이터 타입.md",
+                "file": "도서/함께자라기/Chapter/2. 함께.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "도서/코어자바스크립트/Chapter/1. 데이터 타입.md"
+                "file": "도서/함께자라기/Chapter/2. 함께.md"
               }
             }
           },
@@ -173,8 +161,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -190,54 +177,54 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "c527df73b192c833",
+  "active": "6f76a28270156eac",
   "lastOpenFiles": [
-    "도서/코어자바스크립트/Chapter/images/중첩객체메모리할당.md",
-    "private/Article/JavaScript/for in을 왜 사용하지 말아야 할까요?.md",
-    "private/Article/ESLint/ESLint.md",
-    "private/Article/JavaScript/배열에서 특정 요소의 존재 여부를 확인.md",
-    "private/Article/JavaScript/이벤트 루프.md",
-    "private/Article/JavaScript/함수 선언 방법.md",
-    "private/Article/JavaScript/Class 공부 로드맵.md",
-    "private/Article/JavaScript/Javascript 배열이 배열이 아닌 이유.md",
-    "private/Article/JavaScript/Javascript sort는 어떤 정렬 알고리즘을 사용할까?.md",
-    "private/Article/JavaScript/Promise.md",
-    "도서/코어자바스크립트/Chapter/1. 데이터 타입.md",
-    "Lecture/코어 자바스크립트/Chapter/private/정리.md",
-    "Lecture/코어 자바스크립트/Chapter/private/실행 컨텍스트.md",
-    "Lecture/코어 자바스크립트/Chapter/private/데이터 타입.md",
-    "private/Article/ESLint",
-    "private/Article/CS/프로세스 컨텍스트 스위칭 vs 스레드 컨텍스트 스위칭.md",
-    "도서/오브젝트/Chapter/12. 다형성.md",
     "도서/함께자라기/Chapter/1. 자라기.md",
-    "도서/오브젝트/README.md",
-    "도서/함께자라기/README.md",
-    "도서/함께자라기/Chapter",
-    "private/Article/Typescript/TS 객체 프로퍼티 key값에 string으로 접근.md",
-    "도서/함께자라기",
+    "도서/함께자라기/Chapter/2. 함께.md",
+    "private/Article/JavaScript/CPU 메모리 관점으로 이해하는 JavaScript 실행 흐름.md",
+    "Lecture/코어 자바스크립트/Chapter/private/무제 파일.md",
+    "Lecture/코어 자바스크립트/Chapter/private/실행 컨텍스트.md",
+    "private/Article/JavaScript/실행 컨텍스트.md",
+    "private/Article/JavaScript/Javascript에서 화살표 함수와 함수 축약형만 사용해야 하는 이유.md",
+    "TODO/멘토링 준비.md",
+    "private/Article/커뮤니티에자주나오는질문/도메인과 entity의 분리.md",
+    "TODO/더 나은 Nodejs 개발자가 되기 위해서.md",
+    "TODO/독서 방법.md",
+    "TODO/링크모드.md",
+    "TODO/블로그글.md",
+    "TODO/최종.md",
+    "TODO/학습 목표.md",
+    "TODO/함수형과 객체지향을 이용한 프로젝트.md",
+    "TODO/회고.md",
+    "TODO/TDD프로젝트.md",
+    "TODO/Todo.md",
+    "TODO/Agile.md",
+    "TODO/FAM 프로젝트.md",
+    "private/Article/NestJS/Architecture/Layered Architecture.md",
+    "private/Article/NestJS/QueryBuilder type-safe.md",
+    "private/Article/커뮤니티에자주나오는질문",
+    "private/Article/NestJS/SOLID.md",
     "private/Article/NestJS/zod vs joi.md",
+    "private/Article/NestJS/낙관적 락(Optimistic Lock) vs 비관적 락(Pessimistic Lock).md",
+    "Lecture/그림으로쉽게배우는운영체제/Chapter/private/images/Pasted image 20240929174711.png",
+    "Lecture/그림으로쉽게배우는운영체제/Chapter/private/images/image01.png",
+    "Lecture/그림으로쉽게배우는운영체제/Chapter/private/images/Pasted image 20241005015245.png",
+    "Lecture/그림으로쉽게배우는운영체제/Chapter/private/images/Pasted image 20241005022934.png",
+    "Lecture/그림으로쉽게배우는운영체제/Chapter/private/images/Pasted image 20241007050037.png",
+    "private/Article/ESLint",
+    "도서/함께자라기/Chapter",
+    "도서/함께자라기",
     "도서/코어자바스크립트/Chapter/images/image01.png",
-    "도서/코어자바스크립트/README.md",
     "images/Pasted Image 20241021044754_021.png",
     "도서/코어자바스크립트/Chapter/images",
     "도서/코어자바스크립트/Chapter",
-    "Lecture/코어 자바스크립트/README.md",
-    "Lecture/코어 자바스크립트/Chapter/private/this.md",
-    "TODO/멘토링 준비.md",
-    "TODO/회고.md",
     "images/Pasted image 20241020185010.png",
     "Experience/WarmingUpClub/Cs/private/3주차",
     "images/Pasted Image 20241019040409_787.png",
     "images/Pasted Image 20241019040318_485.png",
-    "images/Pasted Image 20241019040015_189.png",
-    "images/Pasted Image 20241019023707_285.png",
-    "images/Pasted image 20241018222206.png",
-    "images/Pasted image 20241018202120.png",
-    "images/Pasted image 20241018202042.png",
     "Lecture/그림으로쉽게배우는운영체제/Chapter/private/섹션10",
     "Lecture/그림으로쉽게배우는운영체제/Chapter/private/섹션9",
     "Lecture/그림으로쉽게배우는운영체제/Chapter/private/섹션8",
-    "Algorithm",
     "무제 파일 2.canvas",
     "무제 파일 1.canvas",
     "무제 파일.canvas",
