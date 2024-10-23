@@ -4,38 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "73bf82af75596b14",
+        "id": "b505edf83b7413b1",
         "type": "tabs",
         "children": [
           {
-            "id": "b54710f4186c8e0d",
+            "id": "c527df73b192c833",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "도서/함께자라기/Chapter/1. 자라기.md",
+                "file": "도서/코어자바스크립트/Chapter/1. 데이터 타입.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "55aa3d3755d8c175",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "도서/코어자바스크립트/Chapter/images/중첩객체메모리할당.md"
-              }
-            }
-          },
-          {
-            "id": "9001d0af290190e0",
+            "id": "16cad9a1bf7eaed3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "도서/오브젝트/Chapter/12. 다형성.md",
+                "file": "private/Article/ESLint/ESLint.md",
                 "mode": "source",
                 "source": false
               }
@@ -70,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "서킷",
+                "query": "for in",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -138,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "도서/함께자라기/Chapter/1. 자라기.md",
+                "file": "도서/코어자바스크립트/Chapter/1. 데이터 타입.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "도서/함께자라기/Chapter/1. 자라기.md",
+                "file": "도서/코어자바스크립트/Chapter/1. 데이터 타입.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "도서/함께자라기/Chapter/1. 자라기.md"
+                "file": "도서/코어자바스크립트/Chapter/1. 데이터 타입.md"
               }
             }
           },
@@ -200,40 +190,41 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "b54710f4186c8e0d",
+  "active": "c527df73b192c833",
   "lastOpenFiles": [
-    "도서/함께자라기/README.md",
+    "도서/코어자바스크립트/Chapter/images/중첩객체메모리할당.md",
+    "private/Article/JavaScript/for in을 왜 사용하지 말아야 할까요?.md",
+    "private/Article/ESLint/ESLint.md",
+    "private/Article/JavaScript/배열에서 특정 요소의 존재 여부를 확인.md",
+    "private/Article/JavaScript/이벤트 루프.md",
+    "private/Article/JavaScript/함수 선언 방법.md",
+    "private/Article/JavaScript/Class 공부 로드맵.md",
+    "private/Article/JavaScript/Javascript 배열이 배열이 아닌 이유.md",
+    "private/Article/JavaScript/Javascript sort는 어떤 정렬 알고리즘을 사용할까?.md",
+    "private/Article/JavaScript/Promise.md",
+    "도서/코어자바스크립트/Chapter/1. 데이터 타입.md",
+    "Lecture/코어 자바스크립트/Chapter/private/정리.md",
+    "Lecture/코어 자바스크립트/Chapter/private/실행 컨텍스트.md",
+    "Lecture/코어 자바스크립트/Chapter/private/데이터 타입.md",
+    "private/Article/ESLint",
+    "private/Article/CS/프로세스 컨텍스트 스위칭 vs 스레드 컨텍스트 스위칭.md",
+    "도서/오브젝트/Chapter/12. 다형성.md",
     "도서/함께자라기/Chapter/1. 자라기.md",
+    "도서/오브젝트/README.md",
+    "도서/함께자라기/README.md",
     "도서/함께자라기/Chapter",
     "private/Article/Typescript/TS 객체 프로퍼티 key값에 string으로 접근.md",
     "도서/함께자라기",
-    "도서/오브젝트/Chapter/12. 다형성.md",
-    "도서/코어자바스크립트/Chapter/images/중첩객체메모리할당.md",
     "private/Article/NestJS/zod vs joi.md",
-    "도서/코어자바스크립트/Chapter/1. 데이터 타입.md",
-    "도서/오브젝트/README.md",
     "도서/코어자바스크립트/Chapter/images/image01.png",
     "도서/코어자바스크립트/README.md",
     "images/Pasted Image 20241021044754_021.png",
     "도서/코어자바스크립트/Chapter/images",
-    "Lecture/코어 자바스크립트/Chapter/private/데이터 타입.md",
     "도서/코어자바스크립트/Chapter",
     "Lecture/코어 자바스크립트/README.md",
     "Lecture/코어 자바스크립트/Chapter/private/this.md",
-    "Lecture/코어 자바스크립트/Chapter/private/정리.md",
-    "Lecture/코어 자바스크립트/Chapter/private/실행 컨텍스트.md",
     "TODO/멘토링 준비.md",
     "TODO/회고.md",
-    "Experience/WarmingUpClub/Cs/private/3주차/요약 키워드.md",
-    "Experience/WarmingUpClub/Cs/private/미션/3주차 미션.md",
-    "Experience/WarmingUpClub/Cs/private/미션/2주차 미션.md",
-    "Experience/WarmingUpClub/Cs/private/미션/1주차 미션.md",
-    "Experience/WarmingUpClub/Cs/private/발표자료/공유 자원 문제.md",
-    "Experience/WarmingUpClub/Cs/private/발표자료/발표 대본.md",
-    "Experience/WarmingUpClub/Cs/private/발표자료/운영체제1013발표자료.md",
-    "Experience/WarmingUpClub/Cs/private/발표자료/질문 정리.md",
-    "private/Article/NestJS/Architecture/Layered Architecture.md",
-    "private/Article/Typescript/TS태그된 유니온 패턴 vs oop합성.md",
     "images/Pasted image 20241020185010.png",
     "Experience/WarmingUpClub/Cs/private/3주차",
     "images/Pasted Image 20241019040409_787.png",
@@ -247,7 +238,6 @@
     "Lecture/그림으로쉽게배우는운영체제/Chapter/private/섹션9",
     "Lecture/그림으로쉽게배우는운영체제/Chapter/private/섹션8",
     "Algorithm",
-    "Lecture/그림으로쉽게배우는운영체제/Chapter/private/섹션7",
     "무제 파일 2.canvas",
     "무제 파일 1.canvas",
     "무제 파일.canvas",
