@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "도서/함께자라기/Chapter/2. 함께.md",
+                "file": "Lecture/코어 자바스크립트/Chapter/private/정리.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9bebd0267a01af0c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lecture/코드팩토리Typescript/README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5139af40053e4500",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lecture/코어 자바스크립트/README.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -48,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "실행 컨텍스트",
+                "query": "오버 페칭",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -116,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "도서/함께자라기/Chapter/2. 함께.md",
+                "file": "Lecture/코어 자바스크립트/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "도서/함께자라기/Chapter/2. 함께.md",
+                "file": "Lecture/코어 자바스크립트/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "도서/함께자라기/Chapter/2. 함께.md"
+                "file": "Lecture/코어 자바스크립트/README.md"
               }
             }
           },
@@ -161,7 +186,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -177,35 +203,35 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "6f76a28270156eac",
+  "active": "5139af40053e4500",
   "lastOpenFiles": [
-    "도서/함께자라기/Chapter/1. 자라기.md",
-    "도서/함께자라기/Chapter/2. 함께.md",
-    "private/Article/JavaScript/CPU 메모리 관점으로 이해하는 JavaScript 실행 흐름.md",
-    "Lecture/코어 자바스크립트/Chapter/private/무제 파일.md",
-    "Lecture/코어 자바스크립트/Chapter/private/실행 컨텍스트.md",
+    "Lecture/코드팩토리Typescript/README.md",
+    "Lecture/코어 자바스크립트/README.md",
+    "Lecture/코어 자바스크립트/Chapter/private/images/image01.png",
+    "Lecture/코어 자바스크립트/Chapter/private/클래스(class).md",
+    "Lecture/코어 자바스크립트/Chapter/private/프로토 타입(proto type).md",
+    "private/Article/JavaScript/Javascript sort는 어떤 정렬 알고리즘을 사용할까?.md",
+    "private/Article/JavaScript/Javascript 배열이 배열이 아닌 이유.md",
+    "private/Article/JavaScript/for in을 왜 사용하지 말아야 할까요?.md",
+    "private/Article/JavaScript/함수 선언 방법.md",
     "private/Article/JavaScript/실행 컨텍스트.md",
+    "private/Article/JavaScript/배열에서 특정 요소의 존재 여부를 확인.md",
     "private/Article/JavaScript/Javascript에서 화살표 함수와 함수 축약형만 사용해야 하는 이유.md",
-    "TODO/멘토링 준비.md",
-    "private/Article/커뮤니티에자주나오는질문/도메인과 entity의 분리.md",
-    "TODO/더 나은 Nodejs 개발자가 되기 위해서.md",
-    "TODO/독서 방법.md",
-    "TODO/링크모드.md",
-    "TODO/블로그글.md",
-    "TODO/최종.md",
-    "TODO/학습 목표.md",
-    "TODO/함수형과 객체지향을 이용한 프로젝트.md",
-    "TODO/회고.md",
-    "TODO/TDD프로젝트.md",
-    "TODO/Todo.md",
-    "TODO/Agile.md",
-    "TODO/FAM 프로젝트.md",
-    "private/Article/NestJS/Architecture/Layered Architecture.md",
-    "private/Article/NestJS/QueryBuilder type-safe.md",
+    "private/Article/JavaScript/CPU 메모리 관점으로 이해하는 JavaScript 실행 흐름.md",
+    "private/Article/JavaScript/Class 공부 로드맵.md",
+    "private/Article/JavaScript/이벤트 루프.md",
+    "Lecture/코어 자바스크립트/Chapter/private/클로저.md",
+    "Lecture/코어 자바스크립트/Chapter/private/정리.md",
+    "Experience/PreOnBoarding/Frontend/private/2-2 주차.md",
+    "Lecture/코어 자바스크립트/Chapter/private/콜백 함수 (callback function).md",
+    "Lecture/코어 자바스크립트/Chapter/private/this.md",
+    "Lecture/코어 자바스크립트/Chapter/private/실행 컨텍스트.md",
+    "Lecture/코어 자바스크립트/Chapter/private/데이터 타입.md",
+    "Experience/PreOnBoarding/Frontend/private/2-1 주차.md",
+    "Experience/PreOnBoarding/Frontend/private/1-2 주차.md",
+    "Experience/PreOnBoarding/Frontend/private/1-1 주차.md",
+    "Experience/PreOnBoarding/Frontend/private/README.md",
     "private/Article/커뮤니티에자주나오는질문",
-    "private/Article/NestJS/SOLID.md",
-    "private/Article/NestJS/zod vs joi.md",
-    "private/Article/NestJS/낙관적 락(Optimistic Lock) vs 비관적 락(Pessimistic Lock).md",
     "Lecture/그림으로쉽게배우는운영체제/Chapter/private/images/Pasted image 20240929174711.png",
     "Lecture/그림으로쉽게배우는운영체제/Chapter/private/images/image01.png",
     "Lecture/그림으로쉽게배우는운영체제/Chapter/private/images/Pasted image 20241005015245.png",
@@ -221,7 +247,6 @@
     "images/Pasted image 20241020185010.png",
     "Experience/WarmingUpClub/Cs/private/3주차",
     "images/Pasted Image 20241019040409_787.png",
-    "images/Pasted Image 20241019040318_485.png",
     "Lecture/그림으로쉽게배우는운영체제/Chapter/private/섹션10",
     "Lecture/그림으로쉽게배우는운영체제/Chapter/private/섹션9",
     "Lecture/그림으로쉽게배우는운영체제/Chapter/private/섹션8",
