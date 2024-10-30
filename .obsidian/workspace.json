@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ada34b672f3bab42",
+            "id": "fef17093d905c064",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -16,16 +16,6 @@
                 "file": "도서/코어자바스크립트/Chapter/6. 프로토타입.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "fef17093d905c064",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "도서/코어자바스크립트/Chapter/images/프토토타입객체.md"
               }
             }
           }
@@ -188,8 +178,22 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "ada34b672f3bab42",
+  "active": "fef17093d905c064",
   "lastOpenFiles": [
+    "도서/코어자바스크립트/Chapter/2. 실행 컨텍스트.md",
+    "도서/코어자바스크립트/Chapter/6. 프로토타입.md",
+    "도서/코어자바스크립트/Chapter/1. 데이터 타입.md",
+    "도서/코어자바스크립트/Chapter/images/프토토타입객체.md",
+    "도서/코어자바스크립트/Chapter/images/중첩객체메모리할당.md",
+    "private/Article/JavaScript/CPU 메모리 관점으로 이해하는 JavaScript 실행 흐름.md",
+    "private/Article/JavaScript/Class 공부 로드맵.md",
+    "private/Article/JavaScript/이벤트 루프.md",
+    "private/Article/JavaScript/실행 컨텍스트.md",
+    "private/Article/JavaScript/배열에서 특정 요소의 존재 여부를 확인.md",
+    "private/Article/Typescript/구조적 타이핑에 대한 이해.md",
+    "private/Article/Typescript/초과 프로퍼티 검사.md",
+    "private/Article/Typescript/고급 타입 추론.md",
+    "도서/코어자바스크립트/README.md",
     "private/Article/Database/인덱스(Index).md",
     "private/Article/Database/데이터베이스 Replication(레플리케이션).md",
     "private/Article/Database/데이터베이스 정규화.md",
@@ -201,23 +205,9 @@
     "study/Javascript/Javascript-참고자료.md",
     "study/Javascript/Scope.md",
     "study/Javascript/String 내장함수.md",
-    "도서/코어자바스크립트/Chapter/6. 프로토타입.md",
     "도서/코어자바스크립트/Chapter/images/image03.png",
-    "도서/코어자바스크립트/Chapter/images/프토토타입객체.md",
     "도서/코어자바스크립트/Chapter/images/image02.png",
-    "도서/코어자바스크립트/README.md",
     "도서/이펙티브 타입스크립트/README.md",
-    "Lecture/코어 자바스크립트/Chapter/private/프로토 타입(proto type).md",
-    "TODO/멘토링/private/멘토링 예상질문.md",
-    "private/Article/NestJS/nestjs-cls와 클로저를 이용한 트랜잭션 관리.md",
-    "TODO/멘토링 준비.md",
-    "TODO/Todo.md",
-    "도서/모던 자바스크립트 딥다이브(Javascript DeepDive)/Chapter/24. 클로저.md",
-    "Lecture/코어 자바스크립트/Chapter/private/클로저.md",
-    "Lecture/코어 자바스크립트/Chapter/private/정리.md",
-    "Lecture/코어 자바스크립트/Chapter/private/실행 컨텍스트.md",
-    "Lecture/코어 자바스크립트/Chapter/private/데이터 타입.md",
-    "TODO/블로그글.md",
     "TODO/멘토링/private",
     "TODO/멘토링",
     "Lecture/코어 자바스크립트/Chapter/private/images/image01.png",
