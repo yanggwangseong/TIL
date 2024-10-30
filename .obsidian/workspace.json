@@ -8,43 +8,28 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6f76a28270156eac",
+            "id": "ada34b672f3bab42",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lecture/코어 자바스크립트/Chapter/private/정리.md",
+                "file": "도서/코어자바스크립트/Chapter/6. 프로토타입.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "9bebd0267a01af0c",
+            "id": "fef17093d905c064",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Lecture/코드팩토리Typescript/README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5139af40053e4500",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lecture/코어 자바스크립트/README.md",
-                "mode": "source",
-                "source": false
+                "file": "도서/코어자바스크립트/Chapter/images/프토토타입객체.md"
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -73,7 +58,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "오버 페칭",
+                "query": "콜백 함수",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -141,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lecture/코어 자바스크립트/README.md",
+                "file": "도서/코어자바스크립트/Chapter/6. 프로토타입.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lecture/코어 자바스크립트/README.md",
+                "file": "도서/코어자바스크립트/Chapter/6. 프로토타입.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lecture/코어 자바스크립트/README.md"
+                "file": "도서/코어자바스크립트/Chapter/6. 프로토타입.md"
               }
             }
           },
@@ -203,34 +188,39 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "5139af40053e4500",
+  "active": "ada34b672f3bab42",
   "lastOpenFiles": [
-    "Lecture/코드팩토리Typescript/README.md",
-    "Lecture/코어 자바스크립트/README.md",
-    "Lecture/코어 자바스크립트/Chapter/private/images/image01.png",
-    "Lecture/코어 자바스크립트/Chapter/private/클래스(class).md",
+    "private/Article/Database/인덱스(Index).md",
+    "private/Article/Database/데이터베이스 Replication(레플리케이션).md",
+    "private/Article/Database/데이터베이스 정규화.md",
+    "private/Article/Database/데이터베이스 식별자 관계와 비식별자 관계.md",
+    "도서/모던 자바스크립트 딥다이브(Javascript DeepDive)/private/모던 자바스크립트 딥다이브(Javascript DeepDive).md",
+    "private/Article/CleanCode/Rest-api 설계시에 Eslint 활용.md",
+    "study/Javascript/Javascript 잡기술.md",
+    "study/Javascript/Javascript this.md",
+    "study/Javascript/Javascript-참고자료.md",
+    "study/Javascript/Scope.md",
+    "study/Javascript/String 내장함수.md",
+    "도서/코어자바스크립트/Chapter/6. 프로토타입.md",
+    "도서/코어자바스크립트/Chapter/images/image03.png",
+    "도서/코어자바스크립트/Chapter/images/프토토타입객체.md",
+    "도서/코어자바스크립트/Chapter/images/image02.png",
+    "도서/코어자바스크립트/README.md",
+    "도서/이펙티브 타입스크립트/README.md",
     "Lecture/코어 자바스크립트/Chapter/private/프로토 타입(proto type).md",
-    "private/Article/JavaScript/Javascript sort는 어떤 정렬 알고리즘을 사용할까?.md",
-    "private/Article/JavaScript/Javascript 배열이 배열이 아닌 이유.md",
-    "private/Article/JavaScript/for in을 왜 사용하지 말아야 할까요?.md",
-    "private/Article/JavaScript/함수 선언 방법.md",
-    "private/Article/JavaScript/실행 컨텍스트.md",
-    "private/Article/JavaScript/배열에서 특정 요소의 존재 여부를 확인.md",
-    "private/Article/JavaScript/Javascript에서 화살표 함수와 함수 축약형만 사용해야 하는 이유.md",
-    "private/Article/JavaScript/CPU 메모리 관점으로 이해하는 JavaScript 실행 흐름.md",
-    "private/Article/JavaScript/Class 공부 로드맵.md",
-    "private/Article/JavaScript/이벤트 루프.md",
+    "TODO/멘토링/private/멘토링 예상질문.md",
+    "private/Article/NestJS/nestjs-cls와 클로저를 이용한 트랜잭션 관리.md",
+    "TODO/멘토링 준비.md",
+    "TODO/Todo.md",
+    "도서/모던 자바스크립트 딥다이브(Javascript DeepDive)/Chapter/24. 클로저.md",
     "Lecture/코어 자바스크립트/Chapter/private/클로저.md",
     "Lecture/코어 자바스크립트/Chapter/private/정리.md",
-    "Experience/PreOnBoarding/Frontend/private/2-2 주차.md",
-    "Lecture/코어 자바스크립트/Chapter/private/콜백 함수 (callback function).md",
-    "Lecture/코어 자바스크립트/Chapter/private/this.md",
     "Lecture/코어 자바스크립트/Chapter/private/실행 컨텍스트.md",
     "Lecture/코어 자바스크립트/Chapter/private/데이터 타입.md",
-    "Experience/PreOnBoarding/Frontend/private/2-1 주차.md",
-    "Experience/PreOnBoarding/Frontend/private/1-2 주차.md",
-    "Experience/PreOnBoarding/Frontend/private/1-1 주차.md",
-    "Experience/PreOnBoarding/Frontend/private/README.md",
+    "TODO/블로그글.md",
+    "TODO/멘토링/private",
+    "TODO/멘토링",
+    "Lecture/코어 자바스크립트/Chapter/private/images/image01.png",
     "private/Article/커뮤니티에자주나오는질문",
     "Lecture/그림으로쉽게배우는운영체제/Chapter/private/images/Pasted image 20240929174711.png",
     "Lecture/그림으로쉽게배우는운영체제/Chapter/private/images/image01.png",
@@ -244,12 +234,8 @@
     "images/Pasted Image 20241021044754_021.png",
     "도서/코어자바스크립트/Chapter/images",
     "도서/코어자바스크립트/Chapter",
-    "images/Pasted image 20241020185010.png",
     "Experience/WarmingUpClub/Cs/private/3주차",
-    "images/Pasted Image 20241019040409_787.png",
     "Lecture/그림으로쉽게배우는운영체제/Chapter/private/섹션10",
-    "Lecture/그림으로쉽게배우는운영체제/Chapter/private/섹션9",
-    "Lecture/그림으로쉽게배우는운영체제/Chapter/private/섹션8",
     "무제 파일 2.canvas",
     "무제 파일 1.canvas",
     "무제 파일.canvas",
