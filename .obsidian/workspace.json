@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "도서/코어자바스크립트/Chapter/6. 프로토타입.md",
+                "file": "도서/코어자바스크립트/Chapter/7. 클래스.md",
                 "mode": "source",
                 "source": false
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "도서/코어자바스크립트/Chapter/6. 프로토타입.md",
+                "file": "도서/코어자바스크립트/Chapter/7. 클래스.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "도서/코어자바스크립트/Chapter/6. 프로토타입.md",
+                "file": "도서/코어자바스크립트/Chapter/7. 클래스.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "도서/코어자바스크립트/Chapter/6. 프로토타입.md"
+                "file": "도서/코어자바스크립트/Chapter/7. 클래스.md"
               }
             }
           },
@@ -180,8 +180,10 @@
   },
   "active": "fef17093d905c064",
   "lastOpenFiles": [
-    "도서/코어자바스크립트/Chapter/2. 실행 컨텍스트.md",
+    "private/Article/NestJS/nestjs-cls와 클로저를 이용한 트랜잭션 관리.md",
+    "도서/코어자바스크립트/Chapter/7. 클래스.md",
     "도서/코어자바스크립트/Chapter/6. 프로토타입.md",
+    "도서/코어자바스크립트/Chapter/2. 실행 컨텍스트.md",
     "도서/코어자바스크립트/Chapter/1. 데이터 타입.md",
     "도서/코어자바스크립트/Chapter/images/프토토타입객체.md",
     "도서/코어자바스크립트/Chapter/images/중첩객체메모리할당.md",
@@ -204,10 +206,8 @@
     "study/Javascript/Javascript this.md",
     "study/Javascript/Javascript-참고자료.md",
     "study/Javascript/Scope.md",
-    "study/Javascript/String 내장함수.md",
     "도서/코어자바스크립트/Chapter/images/image03.png",
     "도서/코어자바스크립트/Chapter/images/image02.png",
-    "도서/이펙티브 타입스크립트/README.md",
     "TODO/멘토링/private",
     "TODO/멘토링",
     "Lecture/코어 자바스크립트/Chapter/private/images/image01.png",
