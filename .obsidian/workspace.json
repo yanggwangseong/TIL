@@ -4,22 +4,81 @@
     "type": "split",
     "children": [
       {
-        "id": "f90ddd94bd47fee2",
+        "id": "2c4adea793dde5e7",
         "type": "tabs",
         "children": [
           {
-            "id": "fef17093d905c064",
+            "id": "f771dfa0574d0ed4",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "도서/코어자바스크립트/Chapter/images/프토토타입객체.md"
+              }
+            }
+          },
+          {
+            "id": "cc6ca9d32d743606",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "도서/코어자바스크립트/Chapter/7. 클래스.md",
+                "file": "도서/코어자바스크립트/Chapter/6. 프로토타입.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0a122cb502a466ea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TODO/멘토링/private/멘토링 예상질문.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5f4ef9ae09e7ecff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "코딩테스트/백준 4779.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "127b1525641e330d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "코딩테스트/백준 4779.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3f3d50516785a6b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TODO/코테 공부.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -116,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "도서/코어자바스크립트/Chapter/7. 클래스.md",
+                "file": "코딩테스트/백준 4779.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +192,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "도서/코어자바스크립트/Chapter/7. 클래스.md",
+                "file": "코딩테스트/백준 4779.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +204,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "도서/코어자바스크립트/Chapter/7. 클래스.md"
+                "file": "코딩테스트/백준 4779.md"
               }
             }
           },
@@ -178,34 +237,42 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "fef17093d905c064",
+  "active": "127b1525641e330d",
   "lastOpenFiles": [
-    "private/Article/NestJS/nestjs-cls와 클로저를 이용한 트랜잭션 관리.md",
-    "도서/코어자바스크립트/Chapter/7. 클래스.md",
-    "도서/코어자바스크립트/Chapter/6. 프로토타입.md",
-    "도서/코어자바스크립트/Chapter/2. 실행 컨텍스트.md",
     "도서/코어자바스크립트/Chapter/1. 데이터 타입.md",
     "도서/코어자바스크립트/Chapter/images/프토토타입객체.md",
-    "도서/코어자바스크립트/Chapter/images/중첩객체메모리할당.md",
-    "private/Article/JavaScript/CPU 메모리 관점으로 이해하는 JavaScript 실행 흐름.md",
-    "private/Article/JavaScript/Class 공부 로드맵.md",
-    "private/Article/JavaScript/이벤트 루프.md",
-    "private/Article/JavaScript/실행 컨텍스트.md",
-    "private/Article/JavaScript/배열에서 특정 요소의 존재 여부를 확인.md",
-    "private/Article/Typescript/구조적 타이핑에 대한 이해.md",
-    "private/Article/Typescript/초과 프로퍼티 검사.md",
-    "private/Article/Typescript/고급 타입 추론.md",
+    "도서/코어자바스크립트/Chapter/7. 클래스.md",
     "도서/코어자바스크립트/README.md",
-    "private/Article/Database/인덱스(Index).md",
-    "private/Article/Database/데이터베이스 Replication(레플리케이션).md",
-    "private/Article/Database/데이터베이스 정규화.md",
-    "private/Article/Database/데이터베이스 식별자 관계와 비식별자 관계.md",
-    "도서/모던 자바스크립트 딥다이브(Javascript DeepDive)/private/모던 자바스크립트 딥다이브(Javascript DeepDive).md",
-    "private/Article/CleanCode/Rest-api 설계시에 Eslint 활용.md",
-    "study/Javascript/Javascript 잡기술.md",
-    "study/Javascript/Javascript this.md",
-    "study/Javascript/Javascript-참고자료.md",
-    "study/Javascript/Scope.md",
+    "코딩테스트/백준 4779.md",
+    "코딩테스트/images/image01.png",
+    "코딩테스트/images",
+    "Excalidraw/Drawing 2024-10-31 18.27.35.excalidraw.md",
+    "코딩테스트",
+    "TODO/멘토링/private/멘토링 예상질문.md",
+    "TODO/코테 공부.md",
+    "도서/코어자바스크립트/Chapter/6. 프로토타입.md",
+    "도서/코어자바스크립트/Chapter/images/중첩객체메모리할당.md",
+    "Excalidraw/5장책임과메세지.md",
+    "Excalidraw/6장객체지도.md",
+    "Excalidraw/객체지향과함수형으로멀티프로그래밍패러다임.md",
+    "Excalidraw/다형성.md",
+    "Excalidraw/블로그아이디어.md",
+    "Excalidraw/스레드와프로세스.md",
+    "Excalidraw/이진트리DFS부분집합구하기.md",
+    "Excalidraw/Exception-filter.md",
+    "Excalidraw/Drawing 2024-10-31 04.53.45.excalidraw.md",
+    "회고/회고.md",
+    "TODO/멘토링 준비.md",
+    "TODO/블로그글.md",
+    "TODO/최종.md",
+    "TODO/학습 목표.md",
+    "TODO/함수형과 객체지향을 이용한 프로젝트.md",
+    "TODO/회고.md",
+    "도서/코어자바스크립트/Chapter/images/image01.png",
+    "images/Pasted Image 20241031002859_165.png",
+    "회고/2024-11",
+    "회고",
+    "private/Article/CS/리마인드맵",
     "도서/코어자바스크립트/Chapter/images/image03.png",
     "도서/코어자바스크립트/Chapter/images/image02.png",
     "TODO/멘토링/private",
@@ -216,16 +283,8 @@
     "Lecture/그림으로쉽게배우는운영체제/Chapter/private/images/image01.png",
     "Lecture/그림으로쉽게배우는운영체제/Chapter/private/images/Pasted image 20241005015245.png",
     "Lecture/그림으로쉽게배우는운영체제/Chapter/private/images/Pasted image 20241005022934.png",
-    "Lecture/그림으로쉽게배우는운영체제/Chapter/private/images/Pasted image 20241007050037.png",
     "private/Article/ESLint",
     "도서/함께자라기/Chapter",
-    "도서/함께자라기",
-    "도서/코어자바스크립트/Chapter/images/image01.png",
-    "images/Pasted Image 20241021044754_021.png",
-    "도서/코어자바스크립트/Chapter/images",
-    "도서/코어자바스크립트/Chapter",
-    "Experience/WarmingUpClub/Cs/private/3주차",
-    "Lecture/그림으로쉽게배우는운영체제/Chapter/private/섹션10",
     "무제 파일 2.canvas",
     "무제 파일 1.canvas",
     "무제 파일.canvas",
