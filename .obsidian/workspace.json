@@ -8,77 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f771dfa0574d0ed4",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "도서/코어자바스크립트/Chapter/images/프토토타입객체.md"
-              }
-            }
-          },
-          {
-            "id": "cc6ca9d32d743606",
+            "id": "8d36beab68d088d8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "도서/코어자바스크립트/Chapter/6. 프로토타입.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0a122cb502a466ea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TODO/멘토링/private/멘토링 예상질문.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5f4ef9ae09e7ecff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "코딩테스트/백준 4779.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "127b1525641e330d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "코딩테스트/백준 4779.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3f3d50516785a6b8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TODO/코테 공부.md",
+                "file": "Lecture/코드팩토리Typescript/Chapter/private/Reflection.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "콜백 함수",
+                "query": "데드락",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -175,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "코딩테스트/백준 4779.md",
+                "file": "Lecture/코드팩토리Typescript/Chapter/private/Reflection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "코딩테스트/백준 4779.md",
+                "file": "Lecture/코드팩토리Typescript/Chapter/private/Reflection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "코딩테스트/백준 4779.md"
+                "file": "Lecture/코드팩토리Typescript/Chapter/private/Reflection.md"
               }
             }
           },
@@ -237,37 +178,38 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "127b1525641e330d",
+  "active": "8d36beab68d088d8",
   "lastOpenFiles": [
-    "도서/코어자바스크립트/Chapter/1. 데이터 타입.md",
-    "도서/코어자바스크립트/Chapter/images/프토토타입객체.md",
-    "도서/코어자바스크립트/Chapter/7. 클래스.md",
-    "도서/코어자바스크립트/README.md",
-    "코딩테스트/백준 4779.md",
+    "TODO/멘토링/private/1주차/1주차 내용정리.md",
+    "Lecture/그림으로쉽게배우는운영체제/Chapter/private/섹션4/모니터.md",
+    "TODO/독서 방법.md",
+    "TODO/더 나은 Nodejs 개발자가 되기 위해서.md",
+    "TODO/멘토링/private/북 스터디.md",
+    "TODO/멘토링/private/멘토링 예상질문.md",
+    "Lecture/그림으로쉽게배우는운영체제/Chapter/private/섹션5/데드락이란?.md",
+    "Lecture/그림으로쉽게배우는운영체제/Chapter/private/섹션4/공유자원과 임계구역.md",
+    "Lecture/그림으로쉽게배우는운영체제/Chapter/private/섹션6/컴파일과 프로세스 코드.md",
+    "Lecture/그림으로쉽게배우는운영체제/Chapter/private/섹션6/컴파일과 프로세스.md",
+    "Lecture/그림으로쉽게배우는운영체제/Chapter/private/섹션7/가상 메모리 개요.md",
+    "TODO/멘토링/private/1주차",
+    "Youtube/디자인패턴/Iterator.md",
+    "회고/2024-11/1주차 회고.md",
+    "도서/코어자바스크립트/Chapter/6. 프로토타입.md",
+    "Lecture/코어 자바스크립트/Chapter/private/콜백 함수 (callback function).md",
+    "README.md",
+    "TODO/멘토링 준비.md",
+    "TODO/회고.md",
+    "TODO/Todo.md",
+    "private/Article/JavaScript/배열에서 특정 요소의 존재 여부를 확인.md",
+    "옵시디언 플러그인/옵시디언 플러그인.md",
+    "private/Article/JavaScript/Class 공부 로드맵.md",
+    "Lecture/코어 자바스크립트/Chapter/private/실행 컨텍스트.md",
+    "Lecture/그림으로쉽게배우는운영체제/Chapter/private/섹션10/1. 파일과 파일시스템.md",
+    "Lecture/그림으로쉽게배우는운영체제/Chapter/private/섹션9/3. 하드디스크-FlashMemory.md",
+    "Lecture/그림으로쉽게배우는운영체제/Chapter/private/섹션8/7. 스레싱과 워크셋.md",
     "코딩테스트/images/image01.png",
     "코딩테스트/images",
-    "Excalidraw/Drawing 2024-10-31 18.27.35.excalidraw.md",
     "코딩테스트",
-    "TODO/멘토링/private/멘토링 예상질문.md",
-    "TODO/코테 공부.md",
-    "도서/코어자바스크립트/Chapter/6. 프로토타입.md",
-    "도서/코어자바스크립트/Chapter/images/중첩객체메모리할당.md",
-    "Excalidraw/5장책임과메세지.md",
-    "Excalidraw/6장객체지도.md",
-    "Excalidraw/객체지향과함수형으로멀티프로그래밍패러다임.md",
-    "Excalidraw/다형성.md",
-    "Excalidraw/블로그아이디어.md",
-    "Excalidraw/스레드와프로세스.md",
-    "Excalidraw/이진트리DFS부분집합구하기.md",
-    "Excalidraw/Exception-filter.md",
-    "Excalidraw/Drawing 2024-10-31 04.53.45.excalidraw.md",
-    "회고/회고.md",
-    "TODO/멘토링 준비.md",
-    "TODO/블로그글.md",
-    "TODO/최종.md",
-    "TODO/학습 목표.md",
-    "TODO/함수형과 객체지향을 이용한 프로젝트.md",
-    "TODO/회고.md",
     "도서/코어자바스크립트/Chapter/images/image01.png",
     "images/Pasted Image 20241031002859_165.png",
     "회고/2024-11",
@@ -284,7 +226,6 @@
     "Lecture/그림으로쉽게배우는운영체제/Chapter/private/images/Pasted image 20241005015245.png",
     "Lecture/그림으로쉽게배우는운영체제/Chapter/private/images/Pasted image 20241005022934.png",
     "private/Article/ESLint",
-    "도서/함께자라기/Chapter",
     "무제 파일 2.canvas",
     "무제 파일 1.canvas",
     "무제 파일.canvas",
