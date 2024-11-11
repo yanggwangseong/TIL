@@ -4,22 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "2c4adea793dde5e7",
+        "id": "fa662fd9dfd2c2e3",
         "type": "tabs",
         "children": [
           {
-            "id": "8d36beab68d088d8",
+            "id": "1c121a75c9a4c36c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lecture/코드팩토리Typescript/Chapter/private/Reflection.md",
+                "file": "도서/오브젝트/README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a597c05c44e60116",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lecture/그림으로쉽게배우는운영체제/Chapter/private/섹션2/PCB.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5914ce1c660c3765",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "도서/운영체제/Chapter/3. 프로세스.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -48,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "데드락",
+                "query": "data lake",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -116,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lecture/코드팩토리Typescript/Chapter/private/Reflection.md",
+                "file": "도서/운영체제/Chapter/3. 프로세스.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lecture/코드팩토리Typescript/Chapter/private/Reflection.md",
+                "file": "도서/운영체제/Chapter/3. 프로세스.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lecture/코드팩토리Typescript/Chapter/private/Reflection.md"
+                "file": "도서/운영체제/Chapter/3. 프로세스.md"
               }
             }
           },
@@ -156,8 +181,17 @@
               "type": "git-history-view",
               "state": {}
             }
+          },
+          {
+            "id": "23121d661df80799",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -175,57 +209,58 @@
       "canvas:새 캔버스 만들기": false,
       "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
-      "command-palette:명령어 팔레트 열기": false
+      "command-palette:명령어 팔레트 열기": false,
+      "obsidian-spaced-repetition:플래시카드 리뷰": false
     }
   },
-  "active": "8d36beab68d088d8",
+  "active": "5914ce1c660c3765",
   "lastOpenFiles": [
-    "TODO/멘토링/private/1주차/1주차 내용정리.md",
-    "Lecture/그림으로쉽게배우는운영체제/Chapter/private/섹션4/모니터.md",
-    "TODO/독서 방법.md",
-    "TODO/더 나은 Nodejs 개발자가 되기 위해서.md",
-    "TODO/멘토링/private/북 스터디.md",
-    "TODO/멘토링/private/멘토링 예상질문.md",
-    "Lecture/그림으로쉽게배우는운영체제/Chapter/private/섹션5/데드락이란?.md",
-    "Lecture/그림으로쉽게배우는운영체제/Chapter/private/섹션4/공유자원과 임계구역.md",
-    "Lecture/그림으로쉽게배우는운영체제/Chapter/private/섹션6/컴파일과 프로세스 코드.md",
-    "Lecture/그림으로쉽게배우는운영체제/Chapter/private/섹션6/컴파일과 프로세스.md",
-    "Lecture/그림으로쉽게배우는운영체제/Chapter/private/섹션7/가상 메모리 개요.md",
-    "TODO/멘토링/private/1주차",
-    "Youtube/디자인패턴/Iterator.md",
-    "회고/2024-11/1주차 회고.md",
-    "도서/코어자바스크립트/Chapter/6. 프로토타입.md",
-    "Lecture/코어 자바스크립트/Chapter/private/콜백 함수 (callback function).md",
-    "README.md",
-    "TODO/멘토링 준비.md",
-    "TODO/회고.md",
-    "TODO/Todo.md",
-    "private/Article/JavaScript/배열에서 특정 요소의 존재 여부를 확인.md",
-    "옵시디언 플러그인/옵시디언 플러그인.md",
-    "private/Article/JavaScript/Class 공부 로드맵.md",
-    "Lecture/코어 자바스크립트/Chapter/private/실행 컨텍스트.md",
-    "Lecture/그림으로쉽게배우는운영체제/Chapter/private/섹션10/1. 파일과 파일시스템.md",
-    "Lecture/그림으로쉽게배우는운영체제/Chapter/private/섹션9/3. 하드디스크-FlashMemory.md",
-    "Lecture/그림으로쉽게배우는운영체제/Chapter/private/섹션8/7. 스레싱과 워크셋.md",
+    "Lecture/그림으로쉽게배우는운영체제/Chapter/private/섹션2/PCB.md",
+    "Lecture/그림으로쉽게배우는운영체제/Chapter/private/섹션2/프로세스 생성과 종료.md",
+    "Lecture/그림으로쉽게배우는운영체제/Chapter/private/섹션2/프로세스 상태.md",
+    "도서/운영체제/Chapter/3. 프로세스.md",
+    "도서/운영체제/README.md",
+    "도서/오브젝트/README.md",
+    "도서/운영체제/Chapter",
+    "도서/운영체제",
+    "TODO/멘토링/private/주차/1주차 내용정리.md",
+    "TODO/멘토링/private/주차/2주차 내용정리.md",
+    "TODO/멘토링/private/js/이벤트 루프 과정.md",
+    "TODO/멘토링/private/js",
+    "TODO/멘토링/private/주차/3주차 내용정리.md",
+    "private/Article/JavaScript/README.md",
+    "private/Article/Database/README.md",
+    "private/Article/Database/트랜잭션(transaction).md",
+    "private/Article/Database/concurrency control(동시성 제어).md",
+    "private/Article/Database/MVCC.md",
+    "private/Article/Database/transaction Isolation level.md",
+    "private/Article/Database/PostgreSQL에서 메세지큐 사용.md",
+    "private/Article/Database/Database 커넥션 풀의 관리와 최적화.md",
+    "private/Article/Database/인덱스(Index).md",
+    "Experience/PreOnBoarding/Backend/private/1-1 주차.md",
+    "private/Article/JavaScript/Promise.md",
+    "TODO/멘토링/private/복습TODO/5회리마인드.md",
+    "flashcard/flashcard.md",
+    "flashcard",
+    "private/Article/CS/리마인드맵/운영체제 리마인드맵 만들기.md",
+    "TODO/멘토링/private/복습TODO",
+    "private/Article/CS/리마인드맵/네트워크 리마인드맵 만들기.md",
+    "private/Article/Network/Nginx.md",
+    "private/Article/JavaScript/과제",
+    "TODO/멘토링/private/주차",
     "코딩테스트/images/image01.png",
     "코딩테스트/images",
     "코딩테스트",
     "도서/코어자바스크립트/Chapter/images/image01.png",
     "images/Pasted Image 20241031002859_165.png",
     "회고/2024-11",
-    "회고",
-    "private/Article/CS/리마인드맵",
     "도서/코어자바스크립트/Chapter/images/image03.png",
     "도서/코어자바스크립트/Chapter/images/image02.png",
-    "TODO/멘토링/private",
-    "TODO/멘토링",
     "Lecture/코어 자바스크립트/Chapter/private/images/image01.png",
-    "private/Article/커뮤니티에자주나오는질문",
     "Lecture/그림으로쉽게배우는운영체제/Chapter/private/images/Pasted image 20240929174711.png",
     "Lecture/그림으로쉽게배우는운영체제/Chapter/private/images/image01.png",
     "Lecture/그림으로쉽게배우는운영체제/Chapter/private/images/Pasted image 20241005015245.png",
     "Lecture/그림으로쉽게배우는운영체제/Chapter/private/images/Pasted image 20241005022934.png",
-    "private/Article/ESLint",
     "무제 파일 2.canvas",
     "무제 파일 1.canvas",
     "무제 파일.canvas",
