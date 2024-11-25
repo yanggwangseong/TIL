@@ -4,22 +4,71 @@
     "type": "split",
     "children": [
       {
-        "id": "a6489d2aeb45b53b",
+        "id": "36df03d67ac1b1ab",
         "type": "tabs",
         "children": [
           {
-            "id": "d397649c41d158b9",
+            "id": "5fc568d9516186e3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TODO/멘토링/private/js/이벤트 루프 과정.md",
+                "file": "Lecture/운영체제공룡책/Chapter/private/4. 쓰레드의 이해.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b88f1219282edce0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lecture/운영체제공룡책/Chapter/private/5. CPU 스케줄링.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a529f89f84999b65",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TODO/멘토링/private/멘토링OS준비/1장~3장.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "93f777f9aa8a4451",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lecture/운영체제공룡책/Chapter/private/2. 프로세스.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "904bb973a2b3a40c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "private/Article/Database/나는 우물안의 개구리다.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -48,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "프로그램 실행",
+                "query": "키워드",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -116,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TODO/멘토링/private/js/이벤트 루프 과정.md",
+                "file": "private/Article/Database/나는 우물안의 개구리다.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TODO/멘토링/private/js/이벤트 루프 과정.md",
+                "file": "private/Article/Database/나는 우물안의 개구리다.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TODO/멘토링/private/js/이벤트 루프 과정.md"
+                "file": "private/Article/Database/나는 우물안의 개구리다.md"
               }
             }
           },
@@ -188,54 +237,54 @@
       "obsidian-spaced-repetition:플래시카드 리뷰": false
     }
   },
-  "active": "d397649c41d158b9",
+  "active": "742493942464278d",
   "lastOpenFiles": [
-    "private/Article/JavaScript/이벤트 루프.md",
-    "private/Article/JavaScript/과제/JS에서 맵과 오브젝트 둘다 객체 비교.md",
-    "private/Article/JavaScript/과제/Promise.md",
-    "private/Article/JavaScript/과제/V8 엔진.md",
-    "private/Article/JavaScript/과제/V8 엔진 메모리 구조와 가비지 컬렉션.md",
-    "private/Article/JavaScript/과제/V8 Array.md",
-    "private/Article/JavaScript/과제/V8 Object.md",
-    "private/Article/JavaScript/과제/V8 Primitive Type.md",
-    "private/Article/JavaScript/배열에서 특정 요소의 존재 여부를 확인.md",
-    "private/Article/JavaScript/실행 컨텍스트.md",
-    "private/Article/JavaScript/함수 선언 방법.md",
-    "private/Article/JavaScript/Class 공부 로드맵.md",
-    "private/Article/JavaScript/CPU 메모리 관점으로 이해하는 JavaScript 실행 흐름.md",
-    "private/Article/JavaScript/for in을 왜 사용하지 말아야 할까요?.md",
-    "private/Article/JavaScript/Javascript 배열이 배열이 아닌 이유.md",
-    "private/Article/JavaScript/Javascript sort는 어떤 정렬 알고리즘을 사용할까?.md",
-    "private/Article/JavaScript/Javascript에서 화살표 함수와 함수 축약형만 사용해야 하는 이유.md",
-    "private/Article/JavaScript/Promise.md",
-    "private/Article/JavaScript/README.md",
-    "private/추가정리/nodejs/event-loop.md",
-    "private/추가정리/nodejs/module.md",
-    "private/추가정리/nodejs/this.md",
-    "회고/2024-11/3주차 회고.md",
-    "회고/2024-11/2주차 회고.md",
-    "회고/2024-11/2024-11-10.md",
+    "private/Article/Database/transaction Isolation level.md",
+    "private/Article/Database/나는 우물안의 개구리다.md",
+    "Lecture/운영체제공룡책/Chapter/private/1. Introduction & OS Structures.md",
+    "TODO/멘토링/private/멘토링OS준비/1장~3장.md",
+    "Lecture/운영체제공룡책/Chapter/private/5. CPU 스케줄링.md",
+    "Lecture/운영체제공룡책/Chapter/private/2. 프로세스.md",
+    "Lecture/운영체제공룡책/Chapter/private/4. 쓰레드의 이해.md",
+    "Lecture/운영체제공룡책/Chapter/private/images/image03.png",
+    "Lecture/운영체제공룡책/Chapter/private/images/image02.png",
+    "Lecture/운영체제공룡책/Chapter/private/OS가 뭔가요?.md",
+    "도서/운영체제/Chapter/3. 프로세스.md",
+    "TODO/멘토링/private/주차/4주차 내용정리.md",
+    "도서/오브젝트/Chapter/1. 객체, 설계.md",
+    "Lecture/코어 자바스크립트/Chapter/private/실행 컨텍스트.md",
+    "Lecture/코어 자바스크립트/Chapter/private/정리.md",
+    "Lecture/코어 자바스크립트/Chapter/private/콜백 함수 (callback function).md",
+    "Lecture/코어 자바스크립트/Chapter/private/클래스(class).md",
+    "Lecture/코어 자바스크립트/Chapter/private/클로저.md",
+    "Lecture/코어 자바스크립트/Chapter/private/프로토 타입(proto type).md",
+    "Lecture/코어 자바스크립트/Chapter/private/this.md",
+    "Lecture/운영체제공룡책/Chapter/private/images/image01.png",
+    "Lecture/운영체제공룡책/Chapter/private/images",
+    "Lecture/운영체제공룡책/Chapter/무제 폴더",
+    "Lecture/운영체제공룡책/Chapter/private/3. 프로세스간통신(IPC).md",
+    "TODO/멘토링/private/에프랩 강의.md",
+    "TODO/멘토링/private/북 스터디.md",
+    "TODO/멘토링/private/멘토링 예상질문.md",
+    "TODO/멘토링/private/주차/3주차 내용정리.md",
     "TODO/멘토링/private/주차/2주차 내용정리.md",
+    "TODO/멘토링/private/주차/1주차 내용정리.md",
+    "images/Pasted image 20241123225413.png",
+    "TODO/멘토링/멘토링 목표.md",
+    "TODO/멘토링/private/멘토링OS준비",
+    "TODO/투두리스트",
+    "Lecture/운영체제공룡책/Chapter/private",
+    "Lecture/운영체제공룡책/Chapter",
+    "Lecture/운영체제공룡책",
+    "TODO/멘토링/private/학습계획",
+    "코딩테스트/private",
     "private/추가정리/nodejs",
-    "private/추가정리",
-    "TODO/우물안의개구리",
-    "도서/운영체제/Chapter",
-    "도서/운영체제",
-    "TODO/멘토링/private/js",
-    "flashcard",
-    "TODO/멘토링/private/복습TODO",
-    "private/Article/JavaScript/과제",
-    "TODO/멘토링/private/주차",
     "코딩테스트/images/image01.png",
     "도서/코어자바스크립트/Chapter/images/image01.png",
     "images/Pasted Image 20241031002859_165.png",
     "도서/코어자바스크립트/Chapter/images/image03.png",
     "도서/코어자바스크립트/Chapter/images/image02.png",
     "Lecture/코어 자바스크립트/Chapter/private/images/image01.png",
-    "Lecture/그림으로쉽게배우는운영체제/Chapter/private/images/Pasted image 20240929174711.png",
-    "Lecture/그림으로쉽게배우는운영체제/Chapter/private/images/image01.png",
-    "Lecture/그림으로쉽게배우는운영체제/Chapter/private/images/Pasted image 20241005015245.png",
-    "Lecture/그림으로쉽게배우는운영체제/Chapter/private/images/Pasted image 20241005022934.png",
     "무제 파일 2.canvas",
     "무제 파일 1.canvas",
     "무제 파일.canvas",
