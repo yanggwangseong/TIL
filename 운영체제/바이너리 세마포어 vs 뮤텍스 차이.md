@@ -13,8 +13,6 @@
 |                                                |                                         |
 
 
-
-
 # Reference
 - [https://blog.seongjun.kr/26-difference-between-binary-semaphore-and-mutex/](https://blog.seongjun.kr/26-difference-between-binary-semaphore-and-mutex/) 
 - [https://www.geeksforgeeks.org/difference-between-binary-semaphore-and-mutex/](https://www.geeksforgeeks.org/difference-between-binary-semaphore-and-mutex/) 
