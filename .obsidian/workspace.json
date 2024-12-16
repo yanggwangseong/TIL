@@ -4,22 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "8be0a29a7bd5be7d",
+        "id": "cc9630f332382b7d",
         "type": "tabs",
         "children": [
           {
-            "id": "c6806da347c3ea48",
+            "id": "e7f8324cab3bdf53",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lecture/운영체제공룡책/Chapter/private/6. 프로세스 동기화.md",
+                "file": "도서/모던 자바스크립트 딥다이브(Javascript DeepDive)/Chapter/18. 함수와 일급객체.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "71cdf026c983fedf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "함수형프로그래밍(FP)/인프런/유인동함수형/함수형프로그래밍1편/일급함수, add_maker, 함수로 함수 실행하기.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b163304e35a829f2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Javascript/일급객체.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -48,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "orphan",
+                "query": "일급 객체",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -116,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lecture/운영체제공룡책/Chapter/private/6. 프로세스 동기화.md",
+                "file": "Javascript/일급객체.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lecture/운영체제공룡책/Chapter/private/6. 프로세스 동기화.md",
+                "file": "Javascript/일급객체.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lecture/운영체제공룡책/Chapter/private/6. 프로세스 동기화.md"
+                "file": "Javascript/일급객체.md"
               }
             }
           },
@@ -188,54 +213,54 @@
       "obsidian-spaced-repetition:플래시카드 리뷰": false
     }
   },
-  "active": "c6806da347c3ea48",
+  "active": "b163304e35a829f2",
   "lastOpenFiles": [
-    "TODO/멘토링/private/북 스터디.md",
-    "Lecture/운영체제공룡책/Chapter/private/6. 프로세스 동기화.md",
-    "Lecture/운영체제공룡책/Chapter/private/추가자료/블록킹-논블록킹, 동기-비동기.md",
-    "Lecture/운영체제공룡책/Chapter/private/추가자료/Blocking I-O, Non-Blocking I-O.md",
-    "Lecture/그림으로쉽게배우는자료구조기본/Chapter/private/섹션2/해시 테이블.md",
-    "Lecture/그림으로쉽게배우는자료구조기본/Chapter/private/섹션3/정렬/병합 정렬.md",
-    "Lecture/그림으로쉽게배우는자료구조기본/Chapter/private/섹션3/정렬/버블정렬.md",
-    "TODO/멘토링/private/js/String.md",
-    "TODO/멘토링/private/js/Prototype.md",
-    "TODO/멘토링/private/js/Array.md",
-    "TODO/멘토링/private/js/정리큐.md",
-    "TODO/멘토링/private/js/이벤트 루프 과정.md",
-    "TODO/멘토링/private/멘토링 예상질문.md",
-    "TODO/멘토링/private/java/java에서 키워드.md",
-    "TODO/멘토링/private/프로젝트/프로젝트.md",
-    "TODO/멘토링/private/멘토링OS준비/4장~5장.md",
-    "TODO/멘토링/private/개발용어/개발용어 정리.md",
-    "TODO/멘토링/private/멘토링OS준비/1장~3장.md",
-    "TODO/멘토링/private/복습TODO/5회리마인드.md",
-    "TODO/투두리스트/private/12월.md",
-    "TODO/멘토링/private/프로젝트",
-    "Lecture/운영체제공룡책/Chapter/private/5. CPU 스케줄링.md",
-    "TODO/멘토링/private/주차/5주차 내용정리.md",
-    "Lecture/운영체제공룡책/Chapter/private/2. 프로세스.md",
-    "TODO/멘토링/private/주차/나의 문제점.md",
-    "Lecture/운영체제공룡책/Chapter/private/1. Introduction & OS Structures.md",
-    "Lecture/운영체제공룡책/Chapter/private/3. 프로세스간통신(IPC).md",
-    "private/Article/Nginx",
-    "TODO/투두리스트/private",
-    "private/Article/오픈소스기여",
-    "TODO/멘토링/private/개발용어",
-    "회고/private",
-    "TODO/멘토링/private/java",
-    "Lecture/운영체제공룡책/Chapter/private/추가자료",
-    "Lecture/운영체제공룡책/Chapter/private/images/image03.png",
-    "Lecture/운영체제공룡책/Chapter/private/images/image02.png",
-    "Lecture/운영체제공룡책/Chapter/private/images/image01.png",
-    "Lecture/운영체제공룡책/Chapter/private/images",
-    "Lecture/운영체제공룡책/Chapter/무제 폴더",
-    "images/Pasted image 20241123225413.png",
-    "코딩테스트/images/image01.png",
-    "도서/코어자바스크립트/Chapter/images/image01.png",
-    "images/Pasted Image 20241031002859_165.png",
-    "도서/코어자바스크립트/Chapter/images/image03.png",
-    "도서/코어자바스크립트/Chapter/images/image02.png",
-    "Lecture/코어 자바스크립트/Chapter/private/images/image01.png",
+    "도서/모던 자바스크립트 딥다이브(Javascript DeepDive)/Chapter/18. 함수와 일급객체.md",
+    "함수형프로그래밍(FP)/인프런/유인동함수형/함수형프로그래밍1편/일급함수, add_maker, 함수로 함수 실행하기.md",
+    "Javascript/일급객체.md",
+    "Lecture/패스트캠퍼스NestJS/Chapter/private/Test/4. 테스팅 종류.md",
+    "함수형프로그래밍(FP)/인프런/유인동함수형/함수형프로그래밍1편/요즘 개발 이야기, 함수형 프로그래밍 정의.md",
+    "함수형프로그래밍(FP)/함수형 프로그래밍(Functional Programming).md",
+    "Javascript",
+    "images/Pasted image 20241216181834.png",
+    "private/Article/CleanCode/클린 코드.md",
+    "private/Article/CleanCode/Rest-api 설계시에 Eslint 활용.md",
+    "private/Article/CleanCode/분기문 관련 여러가지 안티패턴들.md",
+    "Lecture/패스트캠퍼스NestJS/Chapter/private/Test/3. Mock Function 구현.md",
+    "Lecture/패스트캠퍼스NestJS/Chapter/private/Test/2. Mock-Stub-Fake.md",
+    "Lecture/패스트캠퍼스NestJS/Chapter/private/Test/1. Matcher.md",
+    "Lecture/패스트캠퍼스NestJS/Chapter/private/images/Pasted image 20241216174410.png",
+    "Lecture/패스트캠퍼스NestJS/Chapter/private/images",
+    "private/Article/CS/운영체제 로드맵.md",
+    "private/Article/CS/뮤텍스 세마포어 모니터 스핀락 정리.md",
+    "private/Article/CS/동기-비동기 & 블록킹 - 논블록킹.md",
+    "private/Article/Database/인덱스(Index).md",
+    "private/Article/Database/MVCC.md",
+    "private/Article/CS/stable sort와 unstable sort.md",
+    "private/Article/CS/프로세스 컨텍스트 스위칭 vs 스레드 컨텍스트 스위칭.md",
+    "private/Article/CS/리마인드맵/자료구조와 알고리즘.md",
+    "private/Article/CS/리마인드맵/운영체제 리마인드맵 만들기.md",
+    "private/Article/CS/리마인드맵/네트워크 리마인드맵 만들기.md",
+    "private/Article/Database/나는 우물안의 개구리다.md",
+    "private/Article/Database/데이터베이스 식별자 관계와 비식별자 관계.md",
+    "private/Article/Database/데이터베이스 정규화.md",
+    "private/Article/Database/데이터베이스 Replication(레플리케이션).md",
+    "TODO/멘토링/private/목표정리",
+    "Lecture/패스트캠퍼스NestJS/Chapter/private/Test",
+    "Lecture/패스트캠퍼스NestJS/Chapter/private",
+    "Lecture/패스트캠퍼스NestJS/Chapter",
+    "Lecture/패스트캠퍼스NestJS",
+    "private/무제 폴더",
+    "images/Pasted image 20241214214350.png",
+    "images/Pasted image 20241214211731.png",
+    "images/Pasted image 20241214202733.png",
+    "images/Pasted image 20241212185901.png",
+    "images/Pasted image 20241212173540.png",
+    "images/Pasted image 20241212173332.png",
+    "TODO/멘토링/private/우물안의개구리/private",
+    "images/Pasted image 20241212162102.png",
+    "images/Pasted image 20241212161414.png",
+    "private/추가정리/작성아티클",
     "무제 파일 2.canvas",
     "무제 파일 1.canvas",
     "무제 파일.canvas",
