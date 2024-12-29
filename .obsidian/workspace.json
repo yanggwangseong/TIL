@@ -4,47 +4,83 @@
     "type": "split",
     "children": [
       {
-        "id": "cc9630f332382b7d",
+        "id": "3a3f768b36930ed5",
         "type": "tabs",
         "children": [
           {
-            "id": "e7f8324cab3bdf53",
+            "id": "0a8ab7f712322009",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "도서/모던 자바스크립트 딥다이브(Javascript DeepDive)/Chapter/18. 함수와 일급객체.md",
+                "file": "Lecture/운영체제공룡책/Chapter/private/9장 메인메모리/1. 메인 메모리.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "71cdf026c983fedf",
+            "id": "b34eec38c173fe67",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "함수형프로그래밍(FP)/인프런/유인동함수형/함수형프로그래밍1편/일급함수, add_maker, 함수로 함수 실행하기.md",
+                "file": "Lecture/운영체제공룡책/Chapter/private/9장 메인메모리/2. Address Binding과 동적 정적 로딩.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "b163304e35a829f2",
+            "id": "0318f70cc8a889c3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Javascript/일급객체.md",
+                "file": "Lecture/운영체제공룡책/Chapter/private/9장 메인메모리/3. 논리대 물리공간 Base Register Limit Register.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "855ac1738762f720",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lecture/운영체제공룡책/Chapter/private/9장 메인메모리/4. 연속 메모리 할당.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "00478f0d1c6a208d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lecture/운영체제공룡책/Chapter/private/9장 메인메모리/5. 비 연속 메모리 할당.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "35318452e98753a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lecture/운영체제공룡책/Chapter/private/10장 가상메모리/3. 디멘드 페이징 성능.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -73,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "일급 객체",
+                "query": "페이지와 프레임이 뭔가요?",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -141,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Javascript/일급객체.md",
+                "file": "Lecture/운영체제공룡책/Chapter/private/10장 가상메모리/3. 디멘드 페이징 성능.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +194,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Javascript/일급객체.md",
+                "file": "Lecture/운영체제공룡책/Chapter/private/10장 가상메모리/3. 디멘드 페이징 성능.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Javascript/일급객체.md"
+                "file": "Lecture/운영체제공룡책/Chapter/private/10장 가상메모리/3. 디멘드 페이징 성능.md"
               }
             }
           },
@@ -213,54 +249,54 @@
       "obsidian-spaced-repetition:플래시카드 리뷰": false
     }
   },
-  "active": "b163304e35a829f2",
+  "active": "35318452e98753a7",
   "lastOpenFiles": [
-    "도서/모던 자바스크립트 딥다이브(Javascript DeepDive)/Chapter/18. 함수와 일급객체.md",
-    "함수형프로그래밍(FP)/인프런/유인동함수형/함수형프로그래밍1편/일급함수, add_maker, 함수로 함수 실행하기.md",
-    "Javascript/일급객체.md",
-    "Lecture/패스트캠퍼스NestJS/Chapter/private/Test/4. 테스팅 종류.md",
-    "함수형프로그래밍(FP)/인프런/유인동함수형/함수형프로그래밍1편/요즘 개발 이야기, 함수형 프로그래밍 정의.md",
-    "함수형프로그래밍(FP)/함수형 프로그래밍(Functional Programming).md",
-    "Javascript",
+    "Lecture/운영체제공룡책/Chapter/private/10장 가상메모리/4. 페이지 교체.md",
+    "Lecture/운영체제공룡책/Chapter/private/10장 가상메모리/5. 프레임 할당.md",
+    "Lecture/운영체제공룡책/Chapter/private/10장 가상메모리/6. 스레싱.md",
+    "Lecture/운영체제공룡책/Chapter/private/10장 가상메모리/7. 프로그래밍 구조.md",
+    "Lecture/운영체제공룡책/Chapter/private/10장 가상메모리/최종/가상 메모리 정리.md",
+    "Lecture/운영체제공룡책/Chapter/private/9장 메인메모리/4. 연속 메모리 할당.md",
+    "Lecture/운영체제공룡책/Chapter/private/9장 메인메모리/3. 논리대 물리공간 Base Register Limit Register.md",
+    "Lecture/운영체제공룡책/Chapter/private/9장 메인메모리/2. Address Binding과 동적 정적 로딩.md",
+    "Lecture/운영체제공룡책/Chapter/private/9장 메인메모리/1. 메인 메모리.md",
+    "Lecture/운영체제공룡책/Chapter/private/9장 메인메모리/5. 비 연속 메모리 할당.md",
+    "Lecture/운영체제공룡책/Chapter/private/10장 가상 메모리.md",
+    "Lecture/운영체제공룡책/Chapter/private/OS가 뭔가요?.md",
+    "Lecture/운영체제공룡책/Chapter/private/6~7. 프로세스 동기화.md",
+    "Lecture/운영체제공룡책/Chapter/private/8장 데드락.md",
+    "Lecture/운영체제공룡책/Chapter/private/5. CPU 스케줄링.md",
+    "Lecture/운영체제공룡책/Chapter/private/4. 쓰레드의 이해.md",
+    "Lecture/운영체제공룡책/Chapter/private/3. 프로세스간통신(IPC).md",
+    "Lecture/운영체제공룡책/Chapter/private/1. Introduction & OS Structures.md",
+    "Lecture/운영체제공룡책/Chapter/private/2. 프로세스.md",
+    "Lecture/운영체제공룡책/Chapter/private/10장 가상메모리/최종/스레싱 질문지.md",
+    "Lecture/운영체제공룡책/Chapter/private/10장 가상메모리/최종/디멘드페이징이란 질문지.md",
+    "Lecture/운영체제공룡책/Chapter/private/10장 가상메모리/최종/디멘드 페이징 발전 과정.md",
+    "Lecture/운영체제공룡책/Chapter/private/10장 가상메모리/최종/가상메모리란 질문지.md",
+    "Lecture/운영체제공룡책/Chapter/private/10장 가상메모리/1. 가상 메모리란?.md",
+    "TODO/멘토링/private/투두리스트/private/투두리스트.md",
+    "Lecture/운영체제공룡책/Chapter/private/9장 메인메모리/6. 스와핑.md",
+    "Lecture/운영체제공룡책/Chapter/private/10장 가상메모리/최종",
+    "네트워크",
+    "TODO/멘토링/private/무제 폴더",
+    "TODO/멘토링/private/nodeJS",
+    "Lecture/운영체제공룡책/Chapter/private/무제 폴더",
+    "Lecture/운영체제공룡책/Chapter/private/10장 가상메모리",
+    "TODO/멘토링/private/네트워크",
+    "Lecture/운영체제공룡책/Chapter/private/9장 메인메모리",
+    "images/Pasted image 20241218152120.png",
+    "TODO/멘토링/private/프로젝트/프로젝트관련공부",
+    "images/Pasted image 20241217151327.png",
+    "Lecture/컴퓨터 네트워크/Chapter/private",
     "images/Pasted image 20241216181834.png",
-    "private/Article/CleanCode/클린 코드.md",
-    "private/Article/CleanCode/Rest-api 설계시에 Eslint 활용.md",
-    "private/Article/CleanCode/분기문 관련 여러가지 안티패턴들.md",
-    "Lecture/패스트캠퍼스NestJS/Chapter/private/Test/3. Mock Function 구현.md",
-    "Lecture/패스트캠퍼스NestJS/Chapter/private/Test/2. Mock-Stub-Fake.md",
-    "Lecture/패스트캠퍼스NestJS/Chapter/private/Test/1. Matcher.md",
     "Lecture/패스트캠퍼스NestJS/Chapter/private/images/Pasted image 20241216174410.png",
-    "Lecture/패스트캠퍼스NestJS/Chapter/private/images",
-    "private/Article/CS/운영체제 로드맵.md",
-    "private/Article/CS/뮤텍스 세마포어 모니터 스핀락 정리.md",
-    "private/Article/CS/동기-비동기 & 블록킹 - 논블록킹.md",
-    "private/Article/Database/인덱스(Index).md",
-    "private/Article/Database/MVCC.md",
-    "private/Article/CS/stable sort와 unstable sort.md",
-    "private/Article/CS/프로세스 컨텍스트 스위칭 vs 스레드 컨텍스트 스위칭.md",
-    "private/Article/CS/리마인드맵/자료구조와 알고리즘.md",
-    "private/Article/CS/리마인드맵/운영체제 리마인드맵 만들기.md",
-    "private/Article/CS/리마인드맵/네트워크 리마인드맵 만들기.md",
-    "private/Article/Database/나는 우물안의 개구리다.md",
-    "private/Article/Database/데이터베이스 식별자 관계와 비식별자 관계.md",
-    "private/Article/Database/데이터베이스 정규화.md",
-    "private/Article/Database/데이터베이스 Replication(레플리케이션).md",
-    "TODO/멘토링/private/목표정리",
-    "Lecture/패스트캠퍼스NestJS/Chapter/private/Test",
-    "Lecture/패스트캠퍼스NestJS/Chapter/private",
-    "Lecture/패스트캠퍼스NestJS/Chapter",
-    "Lecture/패스트캠퍼스NestJS",
-    "private/무제 폴더",
     "images/Pasted image 20241214214350.png",
     "images/Pasted image 20241214211731.png",
     "images/Pasted image 20241214202733.png",
     "images/Pasted image 20241212185901.png",
     "images/Pasted image 20241212173540.png",
     "images/Pasted image 20241212173332.png",
-    "TODO/멘토링/private/우물안의개구리/private",
-    "images/Pasted image 20241212162102.png",
-    "images/Pasted image 20241212161414.png",
-    "private/추가정리/작성아티클",
     "무제 파일 2.canvas",
     "무제 파일 1.canvas",
     "무제 파일.canvas",
