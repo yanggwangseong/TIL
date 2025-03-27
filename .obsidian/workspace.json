@@ -4,59 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "3d705e1209131076",
+        "id": "0e560c78704cef30",
         "type": "tabs",
         "children": [
           {
-            "id": "2efeba6debc70db8",
+            "id": "2bd04d093367cdfa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lecture/운영체제공룡책/Chapter/private/9장 메인메모리/7. 결과.md",
+                "file": "함수형프로그래밍(FP)/private/함수형프로그래밍과ES6-1편/함수형프로그래밍과ES6-1편.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "1b73decd7179f65e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lecture/운영체제공룡책/Chapter/private/9장10장최종/최종정리.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1279ca435ec3112d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lecture/컴퓨터 네트워크/Chapter/private/1장 컴퓨터 네트워크와 인터넷/Packet Switching (패킷 교환).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2938643909f15db7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lecture/운영체제공룡책/Chapter/private/9장 메인메모리/5. 비 연속 메모리 할당.md",
-                "mode": "source",
-                "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "함수형프로그래밍과ES6-1편"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -75,8 +40,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
             }
           },
           {
@@ -85,13 +53,15 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Java",
+                "query": "tag:#Javascript/일급객체",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "검색"
             }
           },
           {
@@ -99,7 +69,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "북마크"
             }
           },
           {
@@ -107,7 +79,9 @@
             "type": "leaf",
             "state": {
               "type": "mk-file-view",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "플러그인이 더 이상 활성화돼있지 않음"
             }
           },
           {
@@ -119,7 +93,9 @@
                 "file": "옵시디언 플러그인/마크다운 문법.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "마크다운 문법"
             }
           }
         ]
@@ -143,8 +119,12 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
-              }
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "태그"
             }
           },
           {
@@ -153,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lecture/운영체제공룡책/Chapter/private/9장10장최종/최종정리.md",
+                "file": "도서/오브젝트/Chapter/11. 합성과 유연한 설계.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +141,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "11. 합성과 유연한 설계 의 백링크"
             }
           },
           {
@@ -170,10 +152,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lecture/운영체제공룡책/Chapter/private/9장10장최종/최종정리.md",
+                "file": "도서/오브젝트/Chapter/11. 합성과 유연한 설계.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "11. 합성과 유연한 설계 의 나가는 링크"
             }
           },
           {
@@ -182,8 +166,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lecture/운영체제공룡책/Chapter/private/9장10장최종/최종정리.md"
-              }
+                "file": "도서/코어자바스크립트/Chapter/1. 데이터 타입.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "1. 데이터 타입 의 개요"
             }
           },
           {
@@ -191,7 +180,9 @@
             "type": "leaf",
             "state": {
               "type": "git-history-view",
-              "state": {}
+              "state": {},
+              "icon": "history",
+              "title": "History"
             }
           },
           {
@@ -199,70 +190,70 @@
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
-              "state": {}
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "리뷰할 노트 대기열"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
+      "switcher:빠른 전환기 열기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
+      "publish:변경사항 게재": false,
       "vscode-editor:Create Code File": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "file-cleaner-redux:Clean files": false,
-      "publish:변경사항 출판": false,
-      "switcher:퀵 스위처 열기": false,
       "graph:그래프 뷰 열기": false,
       "canvas:새 캔버스 만들기": false,
-      "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
       "obsidian-spaced-repetition:플래시카드 리뷰": false
     }
   },
-  "active": "1b73decd7179f65e",
+  "active": "742493942464278d",
   "lastOpenFiles": [
-    "Lecture/운영체제공룡책/Chapter/private/9장 메인메모리/5. 비 연속 메모리 할당.md",
-    "Lecture/운영체제공룡책/Chapter/private/9장 메인메모리/7. 결과.md",
-    "Lecture/운영체제공룡책/Chapter/private/9장10장최종/최종정리.md",
-    "Lecture/컴퓨터 네트워크/Chapter/private/1장 컴퓨터 네트워크와 인터넷/Packet Switching (패킷 교환).md",
-    "Lecture/컴퓨터 네트워크/Chapter/private/1장 컴퓨터 네트워크와 인터넷/1장 컴퓨터 네트워크.md",
-    "TODO/멘토링/private/js/비트(bit)와바이트(byte).md",
-    "TODO/멘토링/private/java/java에서 키워드.md",
-    "Lecture/운영체제공룡책/Chapter/private/9장10장최종",
-    "TODO/멘토링/private/투두리스트/private/위클리 회고.md",
-    "Lecture/컴퓨터 네트워크/Chapter/private/README.md",
-    "Lecture/운영체제공룡책/Chapter/private/10장 가상메모리/최종/가상 메모리 정리.md",
-    "Lecture/운영체제공룡책/Chapter/private/10장 가상메모리/1. 가상 메모리란?.md",
-    "Lecture/운영체제공룡책/Chapter/private/10장 가상메모리/최종/스레싱 질문지.md",
-    "Lecture/운영체제공룡책/Chapter/private/10장 가상메모리/최종/디멘드페이징이란 질문지.md",
-    "Lecture/운영체제공룡책/Chapter/private/10장 가상메모리/최종/디멘드 페이징 발전 과정.md",
-    "Lecture/운영체제공룡책/Chapter/private/10장 가상메모리/최종/가상메모리란 질문지.md",
-    "Lecture/운영체제공룡책/Chapter/private/9장 메인메모리/4. 연속 메모리 할당.md",
-    "Lecture/운영체제공룡책/Chapter/private/9장 메인메모리/6. 스와핑.md",
-    "Lecture/컴퓨터 네트워크/Chapter/private/1장 컴퓨터 네트워크와 인터넷",
-    "TODO/멘토링/private/투두리스트/private/1차 정리.md",
-    "TODO/멘토링/private/투두리스트/private/투두리스트.md",
+    "도서/모던 자바스크립트 딥다이브(Javascript DeepDive)/Chapter/18. 함수와 일급객체.md",
+    "함수형프로그래밍(FP)/private/함수형프로그래밍과ES6-1편/함수형프로그래밍과ES6-1편.md",
+    "함수형프로그래밍(FP)/private/함수형프로그래밍과ES6-1편",
+    "TODO/멘토링/private/우물안의개구리/private/나는 우물안의 개구리다.md",
+    "private/Article/Database/나는 우물안의 개구리다.md",
+    "함수형프로그래밍(FP)/함수형 프로그래밍(Functional Programming).md",
+    "함수형프로그래밍(FP)/인프런/유인동함수형/함수형프로그래밍1편/함수형으로 전환하기.md",
+    "함수형프로그래밍(FP)/인프런/유인동함수형/함수형프로그래밍1편/함수형 프로그래밍 정의, 순수함수.md",
+    "함수형프로그래밍(FP)/인프런/유인동함수형/함수형프로그래밍1편/일급함수, add_maker, 함수로 함수 실행하기.md",
+    "함수형프로그래밍(FP)/인프런/유인동함수형/함수형프로그래밍1편/요즘 개발 이야기, 함수형 프로그래밍 정의.md",
     "TODO/멘토링/private/투두리스트/private/주제별 링크.md",
-    "TODO/멘토링/private/투두리스트/private/TIL 정리 내용.md",
-    "TODO/멘토링/private/투두리스트/private/진행상황 시각화.md",
+    "TODO/멘토링/private/투두리스트/private/투두리스트.md",
+    "TODO/멘토링/private/투두리스트/private/위클리 회고.md",
     "TODO/멘토링/private/투두리스트/private/모각밥 프로젝트 개선점.md",
-    "TODO/멘토링/private/주차/9주차 정리.md",
+    "TODO/멘토링/private/투두리스트/private/1차 정리.md",
     "TODO/멘토링/private/주차/나의 문제점.md",
-    "private/Article/커뮤니티에자주나오는질문/도메인과 entity의 분리.md",
+    "TODO/더 나은 Nodejs 개발자가 되기 위해서.md",
+    "도서/모던 자바스크립트 딥다이브(Javascript DeepDive)/private/모던 자바스크립트 딥다이브(Javascript DeepDive).md",
+    "TODO/멘토링/private/투두리스트/private/TIL 정리 내용.md",
+    "도서/오브젝트/Chapter/4. 설계 품질과 트레이드 오프.md",
+    "README.md",
+    "도서/오브젝트/Chapter/11. 합성과 유연한 설계.md",
+    "도서/오브젝트/Chapter/2. 객체지향 프로그래밍.md",
+    "도서/오브젝트/Chapter/13. 서브 클래싱과 서브타이핑.md",
+    "private/Article/JavaScript/과제/V8 Object.md",
+    "TODO/멘토링/private/주차/3주차 내용정리.md",
+    "TODO/멘토링/private/js/V8 turbofan.md",
+    "회고/2025-01/private",
+    "회고/2025-01",
+    "Lecture/운영체제공룡책/Chapter/private/9장10장최종",
+    "Lecture/컴퓨터 네트워크/Chapter/private/1장 컴퓨터 네트워크와 인터넷",
     "private/Article/테스트코드",
     "Lecture/운영체제공룡책/Chapter/private/10장 가상메모리/최종",
     "네트워크",
     "TODO/멘토링/private/무제 폴더",
     "TODO/멘토링/private/nodeJS",
-    "Lecture/운영체제공룡책/Chapter/private/10장 가상메모리",
-    "TODO/멘토링/private/네트워크",
-    "Lecture/운영체제공룡책/Chapter/private/9장 메인메모리",
     "images/Pasted image 20241218152120.png",
     "images/Pasted image 20241217151327.png",
     "images/Pasted image 20241216181834.png",
